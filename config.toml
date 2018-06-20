@@ -12,7 +12,7 @@ googleAnalytics = "UA-121100023-2"
 enableRobotsTXT = true
 
 
-title = "Super.NET Blog"
+title = "Super.NET Blog, Dawg"
 copyright = "&copy; 2018 Super.NET"
 
 paginate = 3
@@ -29,7 +29,14 @@ pygmentsCodeFences = true
 	email = "run@superdotnet.run"
 
 [permalinks]
-  posts = "/:year/:month/:day/:title/"
+  posts = "/:year/:month/:title/"
 	
 [params]
-    tagline = "Words on the brave path to ubiquitous .NET client development"
+    tagline = "Words on the brave path towards a ubiquitous .NET client model."
+	
+## Main Menu
+[[menu.main]]
+    name = "Super.NET"
+    weight = 1
+    identifier = "superdotnet"
+    url = "https://superdotnet.run"
