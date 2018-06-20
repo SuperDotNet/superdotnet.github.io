@@ -21,3 +21,7 @@ a {
 #container footer {
     border-top: solid 1px #af1622;
 }
+
+#show-comments {
+	width: 100%;	
+}

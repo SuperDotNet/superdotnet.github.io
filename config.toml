@@ -22,9 +22,9 @@ enableEmoji = true
 pygmentsCodeFences = true
 
 [taxonomies]
-	author = "authors"
 	category = "categories"
 	tag = "tags"
+	author = "authors"
 
 [author]
     name = "Mike-EEE"

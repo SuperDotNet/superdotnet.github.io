@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Super.NET Blog, Dawg</title>
-    <link>/</link>
-    <description>Recent content on Super.NET Blog, Dawg</description>
+    <title>Mike Eee on Super.NET Blog, Dawg</title>
+    <link>/authors/mike-eee/</link>
+    <description>Recent content in Mike Eee on Super.NET Blog, Dawg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>&amp;copy; 2018 Super.NET</copyright>
     <lastBuildDate>Wed, 20 Jun 2018 05:37:17 -0400</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/mike-eee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
