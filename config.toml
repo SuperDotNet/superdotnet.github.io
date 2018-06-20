@@ -45,3 +45,8 @@ pygmentsCodeFences = true
     weight = 1
     identifier = "superdotnet"
     url = "https://superdotnet.run"
+[[menu.main]]
+    name = "Subscribe"
+    weight = 20
+    identifier = "subscribe"
+    url = "/index.xml"	
