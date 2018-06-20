@@ -1,0 +1,32 @@
+baseurl = "/"
+languageCode = "en-us"
+publishDir = "docs"
+# canonifyurls = true
+theme = "kiera"
+
+newContentEditor = "C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
+
+## Hugo Built-in Features
+disqusShortname = "superdotnet"
+googleAnalytics = "UA-121100023-2"
+enableRobotsTXT = true
+
+
+title = "Super.NET Blog"
+copyright = "&copy; 2018 Super.NET"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Mike-EEE"
+    github = "SuperDotNet"
+    facebook = "RunSuperDotNet"
+    twitter = "RunSuperDotNet"
+	email = "run@superdotnet.run"
+
+[params]
+    tagline = "The brave path towards a ubiquitous .NET"
