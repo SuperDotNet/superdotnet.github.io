@@ -1,7 +1,23 @@
+a {
+    color: #af1622;
+}
+
 #container header h1 a {
     color: #af1622;
 }
 
-a {
-    color: #af1622;
+#container p em {
+	line-height: 1.5;
+}
+
+#container nav {
+	border-top: solid 2px #af1622;
+    border-bottom: solid 1px #cecece;
+    margin-top: 0.5em;
+	padding-bottom: 0em;
+    font-family: "Ruda", sans-serif;
+}
+
+#container footer {
+    border-top: solid 1px #af1622;
 }

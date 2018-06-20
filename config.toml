@@ -28,5 +28,8 @@ pygmentsCodeFences = true
     twitter = "RunSuperDotNet"
 	email = "run@superdotnet.run"
 
+[permalinks]
+  posts = "/:year/:month/:day/:title/"
+	
 [params]
-    tagline = "The brave path towards a ubiquitous .NET"
+    tagline = "Words on the brave path to ubiquitous .NET client development"
