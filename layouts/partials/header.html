@@ -25,7 +25,9 @@
         {{ end }} 
 		{{ if .Site.Author.github }}
         <li><a href="https://github.com/{{ .Site.Author.github }}"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
-		<li><a href="https://gitter.im/{{ .Site.Author.gitter }}"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			{{ if .Site.Author.gitter }}
+			<li><a href="https://gitter.im/{{ .Site.Author.github }}/{{ .Site.Author.gitter }}"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			{{ end }} 
         {{ end }} 
 		{{ if .Site.Author.gitlab }}
         <li><a href="https://gitlab.com/{{ .Site.Author.gitlab }}"><i class="fab fa-gitlab fa-lg" aria-hidden="true"></i></a></li>

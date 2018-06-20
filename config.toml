@@ -29,6 +29,7 @@ pygmentsCodeFences = true
 [author]
     name = "Mike-EEE"
     github = "SuperDotNet"
+	gitter = "Lobby"
     facebook = "RunSuperDotNet"
     twitter = "RunSuperDotNet"
 	email = "run@superdotnet.run"
