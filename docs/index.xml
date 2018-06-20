@@ -9,10 +9,19 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Wed, 20 Jun 2018 01:18:46 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 05:37:17 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 20 Jun 2018 05:37:17 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/about/</guid>
+      <description>Welcome to the Super.NET blog. Here you will find updates to thoughts and discussions around Super.NET. Whereas the Super.NET site is meant more for establishing vision and explanatory purposes, this site is mostly for the information and/or thoughts that have occurred after that site was created and published.</description>
+    </item>
     
     <item>
       <title>Hello World</title>

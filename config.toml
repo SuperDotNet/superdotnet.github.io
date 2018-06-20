@@ -21,6 +21,11 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
+[taxonomies]
+	author = "authors"
+	category = "categories"
+	tag = "tags"
+
 [author]
     name = "Mike-EEE"
     github = "SuperDotNet"
