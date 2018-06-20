@@ -2,6 +2,18 @@ a {
     color: #af1622;
 }
 
+blockquote::before {
+	content: '\f10d';
+	font-family: 'Font Awesome 5 Solid';
+	font-size: 0em;
+}
+
+blockquote svg {
+	position: absolute;
+    left: 10px;
+    top: 20px;
+}
+
 #container header h1 a {
     color: #af1622;
 }
@@ -23,5 +35,6 @@ a {
 }
 
 #show-comments {
-	width: 100%;	
+	width: 100%;
+	padding: 8px 0px;
 }
