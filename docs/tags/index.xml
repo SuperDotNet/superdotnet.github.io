@@ -9,9 +9,37 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Characters</title>
+      <link>/tags/characters/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/characters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>/tags/general/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glossary</title>
+      <link>/tags/glossary/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/glossary/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
