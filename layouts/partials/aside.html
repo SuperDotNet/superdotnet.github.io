@@ -5,7 +5,8 @@
 			{{ if .Params.authors }}
 			{{ $author := ((cond (isset .Params "authors") (index .Params.authors 0) .Site.Author.name) | default .Site.Author.name) }}
 			&nbsp; &middot; &nbsp;
-			<a href="/authors/{{ $author | urlize }}">{{ $author }}</a>
+			{{ $authorUrl := (cond (isset .Params "authorurl") $.Params.authorurl (printf "/authors/%s/" $author | urlize)) }}
+			<a href="{{ $authorUrl }}">{{ $author }}</a>
 			{{ end }}
 			&nbsp; &middot; &nbsp;
 			{{ .ReadingTime }} min read

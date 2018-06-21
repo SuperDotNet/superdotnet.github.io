@@ -38,3 +38,20 @@ blockquote svg {
 	width: 100%;
 	padding: 8px 0px;
 }
+
+.toast {
+	font-size:14px; 
+	padding: 8px; 
+	background-color: #680108; 
+	color: white;
+}
+
+.toast a {
+	color: white;
+	text-decoration: underline;
+}
+
+.toast a:hover {
+	color: white;
+	text-decoration: none;
+}

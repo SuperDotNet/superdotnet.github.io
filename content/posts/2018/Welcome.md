@@ -1,7 +1,6 @@
 ---
 title: "Hello World: Welcome to Super.NET Blog, Dawg"
 date: 2018-06-20T01:18:46-04:00
-draft: true
 authors: ["Mike-EEE"]
 ---
 
@@ -19,7 +18,7 @@ And no, I have not swung over into the land of [Go](https://golang.org/), but I 
 
 #### Developers... won?
 
-In October 2015, I created an experimental site that aimed to bring to the attention of MSFT several issues that I felt were important.  There were about a dozen votes in total.  [Only one gained significant traction](https://visualstudio.uservoice.com/forums/121579-visual-studio-ide/suggestions/10027638-create-a-ubiquitous-net-client-application-develo) and that is now the focus of my efforts here in Super.NET.  You can read more about those efforts [here](https://superdotnet.run).
+In October 2015, I created an experimental site that aimed to bring to the attention of [MSFT](/2018/06/msft-vs-ms/) several issues that I felt were important.  There were about a dozen votes in total.  [Only one gained significant traction](https://visualstudio.uservoice.com/forums/121579-visual-studio-ide/suggestions/10027638-create-a-ubiquitous-net-client-application-develo) and that is now the focus of my efforts here in Super.NET.  You can read more about those efforts [here](https://superdotnet.run).
 
 > Do one thing and do that one thing really really really well.
 >

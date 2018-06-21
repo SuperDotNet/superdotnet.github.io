@@ -1,10 +1,10 @@
 ---
 title: "About"
 date: 2018-06-20T05:37:17-04:00
-draft: true
 menu: main
 meta: false
 authors: ["Mike-EEE"]
+authorurl: "https://github.com/Mike-EEE/"
 weight: 11
 ---
 
