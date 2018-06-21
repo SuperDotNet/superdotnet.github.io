@@ -15,7 +15,7 @@ enableRobotsTXT = true
 title = "Super.NET Blog, Dawg"
 copyright = "&copy; 2018 Super.NET"
 
-paginate = 3
+paginate = 15
 
 summaryLength = 30
 enableEmoji = true
