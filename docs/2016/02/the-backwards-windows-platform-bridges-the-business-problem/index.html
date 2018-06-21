@@ -1,0 +1,318 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>The “Backwards” Windows Platform Bridges: The Business Problem &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  
+  <meta name="generator" content="Hugo 0.41" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		
+        <li><a href="https://www.facebook.com/RunSuperDotNet"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+         
+		
+        <li><a href="https://twitter.com/RunSuperDotNet"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			
+			<li><a href="https://gitter.im/SuperDotNet/Lobby"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			Developers Win! is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/">Learn More</a> or <a href="/categories/developers-win/">Browse</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>The “Backwards” Windows Platform Bridges: The Business Problem</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2016-02-06T17:52:16Z">Feb 6, 2016</time>
+			
+			&nbsp; &middot; &nbsp;
+			13 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/developers-win/">Developers-Win</a>
+                
+                    , 
+                    <a href="/categories/general/">General</a>
+                
+            </em>
+        </li>
+        
+
+                
+    </ul>
+</aside>
+    
+
+    
+
+<h3 id="tl-dr-vote">TL;DR: VOTE!</h3>
+
+<p>This post exists to build consensus in the Microsoft developer community around the idea of a ubiquitous .NET client application development model.  Show your support by voting for this idea here:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+<h3 id="building-a-bridge">Building a Bridge</h3>
+
+<p>Lately <a href="https://blogs.windows.com/buildingapps/2016/01/27/visual-studio-walkthrough-for-ios-developers/#comment-15393" target="_blank">I have gotten into a &#8220;discussion&#8221; with a Windows Platform Developer on their blog</a> regarding what I consider to be a &#8220;backwards&#8221; iOS Bridge being touted by the Windows 10 marketing machine.  I use the word &#8220;discussion&#8221; loosely as since the Windows Blog does not use <a href="https://disqus.com" target="_blank">Disqus</a> (and their blog&#8217;s notifications system is broken &#8212; can we get a tester here, please?), I have been having to go back there periodically and check to see if a reply (if any) has been made, taking up to a day or two between replies.  Hardly efficient (<a href="/2016/02/improving-microsoft-developer-engagement-with-disqus/" target="_blank">and exactly why I recommend Disqus</a>).</p>
+
+<p>I figure if we are going to spend a few days taking turns with our replies like an old-skool lovebird couple writing love notes through standard horse-and-buggy mail (love you, bro!), I will spend a few hours here and get my thoughts organized around the matter and save myself typing down the road to boot.  Let&#8217;s just say that I have explained this problem more than once and I am happy to preserve it here now.</p>
+
+<h3 id="what-is-backwards-now">What is Backwards Now?</h3>
+
+<p><a href="/2015/10/the-broken-burned-bridge/" target="_blank">We have already seen the broken bridge as suggested by the Visual Studio group</a> and the <a href="/2015/10/the-backwards-bridge/" target="_blank">backwards bridge offered by the Windows Platform group</a> in regards to WinJS.</p>
+
+<p>Now there is a new set of bridges that is being provided to Windows 10 developers, and these bridges &#8212; in particular the business problem they present &#8212; are the topic of this article.  Since the Windows Platform Blog post that started this post was about the iOS bridge, I will be using the iOS bridge as the example throughout this article.</p>
+
+<p>There are two ways (or perspectives) of looking at what Microsoft is doing with the Windows 10 Bridges strategy: one is of a technological perspective (impressive) and the other is a business perspective (not-so-impressive).  What the Windows group is promoting is the technological feat of being able to essentially emulate iOS on the Windows platform.  This is indeed impressive, and I do not want to take away from this accomplishment.  This is definitely what everyone is excited about and I have no problem with this aspect, and am actually impressed myself with it.  It is also a way of obviously promoting Windows and endorsing good (cross-platform) will to the other technology giants.  <em>Again, this is a win for Microsoft</em>.  However, once we start looking from the other perspective, we then see that this excitement should find some reason to pause.</p>
+
+<p>This other perspective is the business perspective.  If I am a business or <a href="https://en.wikipedia.org/wiki/Independent_software_vendor" target="_blank">ISV</a>, I am going to look at this bridge to find out how it will benefit me most in my line of business.  In my case, I want to build a simple application and go to market with that application, reaching as many people as possible with as little effort (cost) as possible.  In doing so, I want to maximize my return on investment (<a href="http://www.investopedia.com/terms/r/returnoninvestment.asp" target="_blank">ROI</a>) towards building that application and minimize my total cost of ownership (<a href="https://en.wikipedia.org/wiki/Total_cost_of_ownership" target="_blank">TCO</a>) throughout the application&#8217;s lifetime.</p>
+
+<p>I start my market analysis by determining the total possible market, and by ascertaining the maximum market reach I can achieve with as little effort (cost) possible.  We&#8217;ll start with some recent news articles to size things up.  With iOS/Apple, <a href="http://www.theverge.com/2016/1/26/10835748/apple-devices-active-1-billion-iphone-ipad-ios" target="_blank">it has been reported that 1B active devices are now in the market running under its platform</a>.  With Universal Windows Platform, its platform is growing and is <a href="https://blogs.windows.com/windowsexperience/2016/01/04/windows-10-now-active-on-over-200-million-devices/" target="_blank">currently accepted to be at around 200M installs</a> (about 16-17% of Apple&#8217;s).</p>
+
+<p>The curious dynamic here is that now if I want to build an application and maximize my market reach while minimizing TCO, the only choice I have is to develop an iOS application (via Objective-C or Swift &#8212; a first class fully supported technology by Apple), <em>as this is the only first-class supported technology from either major technology giant that now works on both the Apple and Windows Store</em>.  Or, as seen with a graph:</p>
+
+<p>I cannot build a Universal Windows Platform application and reach the Apple store.  I can do that with a Xamarin application (as discussed below), but now I am using a <em>3rd-party technology</em> that while is under a partnership with Microsoft, it is not a first class, mature, and fully supported technology stack like what Apple offers with Objective-C and Swift.  Remember, I am speaking from the perspective of the _business/ISV_ here and I want to <em>mitigate risk</em> (possible cost) as much as possible.  <em>In this case, the more supported and mature platform wins my money</em>.</p>
+
+<p>From the business perspective, the choice is pretty clear to a business/ISV here.  As one of these businesses, I would ultimately save (or protect my) money by hiring an iOS resource and building an iOS application which I then host in the Apple Store (1 billion installs), and then host (backwards) into the Windows Store (200 million installs).</p>
+
+<p>Because of this, the value of the iOS developer is higher to me (and the marketplace) as I only need one developer (or rather one code base) to reach 1.2 billion devices.  On the flip-side, the value of a Windows developer is reduced to me (and the marketplace) as they (or the code base they create) can only reach 200 million devices.  <strong>Because of this dynamic, Microsoft has essentially reduced the value of their own developers in the marketplace by providing a first-class supported technology in its Windows 10 iOS and Droid Bridges.</strong></p>
+
+<p>Now, there might be a time that Windows 10 reaches 1 billion installs (and it should, Windows 10 is pretty awesome), but even in that case, I as a business/ISV cannot reconcile hiring a Windows developer, as I am still having to hire (and manage) two resources (and code bases) to maximize my hypothetical market reach of 2 billion total devices &#8212; adding to my total cost of ownership.  From a TCO perspective, I would still choose to hire an iOS developer as I can reach 2 billion devices with one developer and one code base.<br />
+<a name="what8217s-wrong-with-xamarin"></a></p>
+
+<h3 id="what-about-xamarin">What About Xamarin?</h3>
+
+<p>Now, a savvy and informed Microsoft technologist will look at my issue above and point out that I can also use <a href="http://xamarin.com" target="_blank">Xamarin</a> (or to be more exact, <a href="/2015/10/existing-net-client-application-models/#xamarinforms" target="_blank">Xamarin.Forms</a>) to build a bridge out to iOS (and Droid).  However, in addition to what I outline above of only being a 3rd-party partner (and an immature product when compared to Objective-C/Swift) and not a first-class, supported and endorsed technology stack offered by Microsoft (as <a href="/2015/10/existing-net-client-application-models/#universal-windows-platform" target="_blank">Universal Windows Platform</a> is), it does suffer from some drawbacks that I have found in the course of using it and exploring its strengths and weaknesses.</p>
+
+<p>First, I would like to say that I am a fan of Xamarin.  I went to their <a href="https://blog.xamarin.com/xamarin-evolve-2014-session-recordings-now-available/" target="_blank">Evolve 2014</a> (on my own dime, at that!) and <strong>had an absolute blast</strong>.  It is a great company with lots of promise, full of talent, and I am a big fan of their partnership with Microsoft.  There is lots going on with Xamarin and I support them in their efforts.  However, as with any company (even Microsoft :)), there are some things that Xamarin does great, and some things that need improvement.  I have mentioned these aspects in various places throughout the interwebs, but now I will put them here to preserve my sanity and save some keystrokes in the future.  Let&#8217;s start with the good:</p>
+
+<h4 id="the-good">The Good</h4>
+
+<p>Xamarin is great with their toolchain and their cross-platform API provision and support.  Their compilation and integration with Visual Studio is fantastic and that is where they really shine (and in my opinion should assist Microsoft with a ubiquitous .NET client application development model offering).  Xamarin Studio should also be commended as it is also providing access to .NET development in a cross-platform manner.  When I think what Xamarin excels at and its true value proposition, it is tooling and APIs.  I think it&#8217;s smart to charge for this value (it might be a smidge high, as I explore below &#8212; but smart nonetheless).</p>
+
+<p><em>Also, Xamarin is at present the premiere client technology innovator of the .NET ecosystem</em>.  Really, if it weren&#8217;t for the Azure group, they would be the bastion of innovation in the Microsoft empire.  This is of course ironic as again they are a 3rd party partner, not an internal division.  They saw the open source and cross platform market before anyone else, and now they own the market in this area (much to Microsoft&#8217;s chagrin at the moment, I can only imagine &#8212; only further complicating the current marketplace climate).  After spending my time in Evolve 2014, it was clear that this company feels and sounds like a younger Microsoft, full of ideas, talent, and promise.  <a href="https://twitter.com/MikeEEE76/status/520701329527025665" target="_blank">In fact, a tweet I made shortly after reflected as such.</a></p>
+
+<h4 id="the-not-so-good">The Not-So-Good</h4>
+
+<p>After Evolve 2014, I spent a lot of time with Xamarin.Forms and its code.  I have to say I was really excited about Xamarin.Forms when I learned of it.  Fanatical, even.  However, after a few months of use and analysis, several detractors started to emerge and I will aim to list them all here.  These are also issues I have arisen in various interweb locations so it is nice to get them all organized in a list, so here they are:</p>
+
+<ol>
+<li><strong>Lack of web/HTML5 support</strong>.  This is becoming a bigger and bigger issue by the day as more and more organizations are choosing NodeJS over .NET for their solution technology of choice.  <a href="http://forums.xamarin.com/discussion/comment/172399/" target="_blank">Xamarin has declared this a non-issue</a> and will continue focus on native efforts &#8212; perpetuating the existing, <a href="/2015/10/the-broken-burned-bridge/" target="_blank">incompatible divide between web and native</a>.  As a business/ISV, if I have a choice between one congruent technology (Cordova/NodeJS) and language (JavaScript/TypeScript) that can work on both web and native (resulting in lower TCO), vs. two incompatible technologies (.NET/NodeJS) and languages (JavaScript/C#) (resulting in higher TCO), _I will choose the one technology/language option_ as it is cheaper for me from a total cost of ownership perspective (<a href="/2015/12/is-net-in-trouble-belated-thoughts-from-connect-2015/" target="_blank">I also explore more aspects of this dynamic in more detail here</a>).</li>
+<li><strong>Adaptive platform approach</strong>.  We&#8217;ve seen how a <a href="/2015/10/ubiquitous-qualities/#consistent-user-experience" target="_blank">consistent user experience quality is desired for a ubiquitous .NET client application model</a>.  We&#8217;ve also seen how <a href="/2015/10/existing-net-client-application-models/#xamarinforms" target="_blank">Xamarin.Forms at present does not satisfy this quality</a>.  Although it is a novel approach (and it should most <strong>definitely</strong> be recognized!), it does pose some problems (mentioned below).  Also, as we can see with other technologies, we are starting to see consistent cross-platform user experience becoming the norm.  Here is a list of known technologies that provide a consistent user interface experience:
+
+<ol>
+<li><a href="/2015/10/existing-net-client-application-models/#html5" target="_blank">HTML5</a> (the original and current ubiquitous king daddy)</li>
+<li><a href="/2015/10/existing-net-client-application-models/#perspex" target="_blank">Perspex</a></li>
+<li><a href="/2015/10/existing-net-client-application-models/#urho3d" target="_blank">Urho3D</a> (notably a Xamarin-backed project and the technology I am currently exploring for my personal application development)</li>
+<li><a href="/2015/10/existing-net-client-application-models/#azure-remoteapp" target="_blank">RemoteApps</a></li>
+<li><a href="https://powerapps.microsoft.com/en-us/" target="_blank">PowerApps</a></li>
+</ol></li>
+<li><strong>Closed (internal), enum-based rendering API</strong>.  Not as critical, but it will help explain the next point.  The internal rendering system is completely closed and not extensible in any fashion.  If you want to design your own renderer (for, say, WPF or HTML5), you have to decompile their (closed-source as I describe below) assemblies and reverse engineer from there.  Hardly a flexible offering or a worthy value proposition (not to mention <em>legal</em>).  Additionally, if you look in their platform API, you will find things such as the <a href="https://developer.xamarin.com/api/type/Xamarin.Forms.TargetPlatform/" target="_blank">Xamarin.Forms.TargetPlatform</a> enumeration.  To me, I would expect to see a platform profile object, full of capabilities and properties.  Instead, you see a lot of switch-cases in the API code, <a href="https://msdn.microsoft.com/en-us/library/ms182212.aspx?f=255&MSPPError=-2147217396" target="_blank">which is not a desired way to design an application</a>.</li>
+<li><strong>Control vendor design friction</strong>. Due to the design of their rendering API and adaptive platform approach, there is a strategical flaw in how they allow controls to be designed for their platforms. If you are a control designer, you have to create a renderer for each and every platform that Xamarin supports. This is cumbersome and expensive. If Xamarin adds support for a new platform (and it should definitely have the mindset that a new platform is <em>always</em> on the horizon), the onus is on control designers to retroactively build a renderer for each and every one of their controls to support that new platform.   This is unfair to the control vendor.  Ideally, the onus for such design should rest within the platform itself.  That is, adding a control from a control vendor&#8217;s point of view should be seamless, and much like building an application on the platform, the focus/thought/effort should be on the problem area/concern that the control solves, not lower-level concerns such as drawing/rendering.</li>
+<li><strong>Internal Xaml system.</strong>  This is probably the biggest issue to me, personally.  Xamarin uses its own flavor of Xaml parsing, and while it does some things well (Xaml 2009 specs, horray!), it has some major limitations and oversights, <a href="https://bugzilla.xamarin.com/show_bug.cgi?id=26740" target="_blank">the biggest being the lack of XamlServices parity and tight coupling of its parser to the BindingObject</a> (also note that this bug is considered closed/answered when it is very much still an issue).  There are other known issues, such as <a href="https://bugzilla.xamarin.com/show_bug.cgi?id=27295" target="_blank">not supporting the design-time d: prefix</a> and <a href="https://bugzilla.xamarin.com/buglist.cgi?bug_status=NEW&bug_status=CONFIRMED&bug_status=ASSIGNED&bug_status=IN_PROGRESS&bug_status=NEEDINFO&bug_status=RESOLVED&bug_status=VERIFIED&bug_status=REOPENED&bug_status=CLOSED&email1=dragonspark.us&emailassigned_to1=1&emaillongdesc1=1&emailreporter1=1&emailtype1=substring&query_format=advanced&resolution=---&resolution=FIXED&resolution=INVALID&resolution=NOT_ON_ROADMAP&resolution=NORESPONSE&resolution=UPSTREAM&resolution=FEATURE&resolution=DUPLICATE&resolution=NOT_REPRODUCIBLE&resolution=DOWNSTREAM&resolution=ANSWERED" target="_blank">a bunch more</a> (you can see how each of the items I have reported have been dismissed or ignored).  A lot has happened in the past year, so it would be great to see <a href="https://github.com/dotnet/corefx/issues/5766" target="_blank">if Xamarin will help shape the next version of .NET Core Xaml</a>.</li>
+<li><strong>Not Open Source.</strong>  This is <em>really</em> surprising and confusing to me, especially since it is a company that is founded on Mono, which is considered to be (from what I understand and please feel free to correct me in the comments) the origin of the Microsoft open source movement.  <a href="http://xamarin.uservoice.com/forums/258559-xamarin-forms-suggestions/suggestions/6192634-open-source-xamarin-forms-to-empower-the-community" target="_blank">A push to open source Xamarin.Forms is also one of the top asks on its UserVoice at the moment</a>.  How can a company based on a product that is considered the flagship vehicle for the open source movement in the Microsoft community be closed source?  <a href="https://media.giphy.com/media/JRF85A7Bcl2YU/giphy.gif" target="_blank">Inconceivable!</a></li>
+<li><strong>That price thing.</strong>  This really doesn&#8217;t bug me (and I honestly hesitate to list it here) as I try to be business-minded and understand business models.  However, Xamarin&#8217;s price tag is mentioned at every turn whenever it is brought up, especially on forum posts and blog comments.  It is even mentioned in the <a href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/8912350-bring-windows-10-universal-apps-to-android-and-ios" target="_blank">Visual Studio vote for a Cross-Platform UWP</a>.  In my view, this is more of a stigma and issue of perception than anything, and Xamarin should put some (clever) cycles into combating it.  Maybe offer the first year at ultimate level for free?</li>
+</ol>
+
+<h3 id="evolve-2016">Evolve 2016</h3>
+
+<p>It might seem like I am a hater from the above list.  But, keep in mind this is for Xamarin.Forms (a product that is only a few years old) and not Xamarin as a whole.  <em>I am definitely a fan of Xamarin and hope to continue to strengthen their relationship with Microsoft</em>.  Also, this is all based on current design and available knowledge based on current Xamarin offerings.  I am certainly looking forward to <a href="https://evolve.xamarin.com/" target="_blank">Evolve 2016</a> and will be excited to learn what is unveiled there at that time.  Is it possible a <a href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank">new ubiquitous .NET client application development model offering</a> will be unveiled?</p>
+
+<h3 id="the-vote">The Vote</h3>
+
+<p>In case Xamarin doesn&#8217;t announce the next greatest technology advancement since <a href="/2015/10/existing-net-client-application-models/#silverlight" target="_blank">Silverlight</a> at Evolve 2016, please take a moment to visit Visual Studio&#8217;s UserVoice and let them know you would like to see a ubiquitous .NET client application development model offering by clicking our vote button here:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2016/02/weekly-vote-report-for-friday-february-5-2016/"><i class="fa fa-chevron-circle-left"></i> Weekly Vote Report for Friday, February 5, 2016</a>
+        </li>
+        
+        
+        <li>
+            <a href="/2016/02/the-great-net-client-divide-a-simple-example-hopefully/">The Great .NET Client Divide: A Simple Example (Hopefully) <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+</body>
+
+</html>

@@ -44,5 +44,940 @@ Built with Hugo I have been spending some time with Hugo in designing this site,
       <description>While running Developers Win! last year I&amp;rsquo;d like to say, I made contact with a developer in the comments of one of my posts that I would classify is part of the dark matter, and have assigned the name Agent Smith.</description>
     </item>
     
+    <item>
+      <title>Investigating Weird Result Times in Benchmark.NET</title>
+      <link>/2018/05/investigating-weird-result-times-in-benchmark-net/</link>
+      <pubDate>Fri, 25 May 2018 13:07:40 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/05/investigating-weird-result-times-in-benchmark-net/</guid>
+      <description>TL;DR I&amp;#8217;ve spent the past year or so by way of 100 collective hours wrestling with a JIT-related code alignment issue which is now being tracked on both the Benchmark.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on //build 2018 and Why ScottGu Should be MSFT CEO</title>
+      <link>/2018/05/thoughts-on-build-2018-and-why-scottgu-should-be-msft-ceo/</link>
+      <pubDate>Fri, 18 May 2018 16:44:34 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/05/thoughts-on-build-2018-and-why-scottgu-should-be-msft-ceo/</guid>
+      <description>Brushing Off the Dust Alright, a lot has been happening in the world lately and I have felt the need to brush off this blog and share some thoughts of mine that have collected over the past few months and weeks.</description>
+    </item>
+    
+    <item>
+      <title>Where Are the Vote Reports?</title>
+      <link>/2017/06/where-are-the-vote-reports/</link>
+      <pubDate>Wed, 21 Jun 2017 14:04:04 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/06/where-are-the-vote-reports/</guid>
+      <description>You&amp;#8217;ve probably noticed that the vote reports have stopped here on Developers.win. Unless of course you don&amp;#8217;t care about them, then you haven&amp;#8217;t noticed them at all. 🙂 These of course were a side project of mine based on the Xaml-console based application that ran on a weekly basis, tallying the latest vote totals from numerous Microsoft UserVoice forums.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 21, 2017</title>
+      <link>/2017/04/weekly-vote-report-for-friday-april-21-2017/</link>
+      <pubDate>Fri, 21 Apr 2017 13:33:21 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/04/weekly-vote-report-for-friday-april-21-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,897 43 45,940   Create a Ubiquitous .NET Client Application Development Model 6,652 31 6,683   Bring Windows 10 Universal Apps to Android and iOS 3,020 11 3,031   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 14, 2017</title>
+      <link>/2017/04/weekly-vote-report-for-friday-april-14-2017/</link>
+      <pubDate>Fri, 14 Apr 2017 11:57:31 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/04/weekly-vote-report-for-friday-april-14-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,832 65 45,897   Create a Ubiquitous .NET Client Application Development Model 6,613 39 6,652   Bring Windows 10 Universal Apps to Android and iOS 3,007 13 3,020   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 7, 2017</title>
+      <link>/2017/04/weekly-vote-report-for-friday-april-7-2017/</link>
+      <pubDate>Fri, 07 Apr 2017 11:26:21 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/04/weekly-vote-report-for-friday-april-7-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,777 55 45,832   Create a Ubiquitous .NET Client Application Development Model 6,573 40 6,613   Bring Windows 10 Universal Apps to Android and iOS 2,996 11 3,007   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 31, 2017</title>
+      <link>/2017/03/weekly-vote-report-for-friday-march-31-2017/</link>
+      <pubDate>Fri, 31 Mar 2017 11:43:37 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/03/weekly-vote-report-for-friday-march-31-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,718 59 45,777   Create a Ubiquitous .NET Client Application Development Model 6,523 50 6,573   Bring Windows 10 Universal Apps to Android and iOS 2,990 6 2,996   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 24, 2017</title>
+      <link>/2017/03/weekly-vote-report-for-friday-march-24-2017/</link>
+      <pubDate>Fri, 24 Mar 2017 11:40:41 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/03/weekly-vote-report-for-friday-march-24-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,654 64 45,718   Create a Ubiquitous .NET Client Application Development Model 6,483 40 6,523   Bring Windows 10 Universal Apps to Android and iOS 2,973 17 2,990   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 17, 2017</title>
+      <link>/2017/03/weekly-vote-report-for-friday-march-17-2017/</link>
+      <pubDate>Fri, 17 Mar 2017 12:38:50 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/03/weekly-vote-report-for-friday-march-17-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,567 87 45,654   Create a Ubiquitous .NET Client Application Development Model 6,429 54 6,483   Bring Windows 10 Universal Apps to Android and iOS 2,954 19 2,973   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 10, 2017</title>
+      <link>/2017/03/weekly-vote-report-for-friday-march-10-2017/</link>
+      <pubDate>Fri, 10 Mar 2017 12:17:38 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/03/weekly-vote-report-for-friday-march-10-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,364 203 45,567   Create a Ubiquitous .NET Client Application Development Model 6,260 169 6,429   Bring Windows 10 Universal Apps to Android and iOS 2,930 24 2,954   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 3, 2017</title>
+      <link>/2017/03/weekly-vote-report-for-friday-march-3-2017/</link>
+      <pubDate>Fri, 03 Mar 2017 12:10:07 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/03/weekly-vote-report-for-friday-march-3-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,280 84 45,364   Create a Ubiquitous .NET Client Application Development Model 6,201 59 6,260   Bring Windows 10 Universal Apps to Android and iOS 2,916 14 2,930   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 24, 2017</title>
+      <link>/2017/02/weekly-vote-report-for-friday-february-24-2017/</link>
+      <pubDate>Fri, 24 Feb 2017 12:02:08 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/02/weekly-vote-report-for-friday-february-24-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,171 109 45,280   Create a Ubiquitous .NET Client Application Development Model 6,111 90 6,201   Bring Windows 10 Universal Apps to Android and iOS 2,903 13 2,916   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 17, 2017</title>
+      <link>/2017/02/weekly-vote-report-for-friday-february-17-2017/</link>
+      <pubDate>Fri, 17 Feb 2017 12:12:10 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/02/weekly-vote-report-for-friday-february-17-2017/</guid>
+      <description>This week marks a special note as we have now crossed into 45,000 total votes asking for a ubiquitous .NET client application development model. Additionally, worth of note, Miguel de Icaza recently remarked on Mono&amp;#8217;s port to WebAssembly, which would officially enable this scenario.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 10, 2017</title>
+      <link>/2017/02/weekly-vote-report-for-friday-february-10-2017/</link>
+      <pubDate>Fri, 10 Feb 2017 12:54:57 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/02/weekly-vote-report-for-friday-february-10-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,945 77 45,022   Create a Ubiquitous .NET Client Application Development Model 5,927 48 5,975   Bring Windows 10 Universal Apps to Android and iOS 2,882 13 2,895   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 3, 2017</title>
+      <link>/2017/02/weekly-vote-report-for-friday-february-3-2017/</link>
+      <pubDate>Fri, 03 Feb 2017 12:20:23 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/02/weekly-vote-report-for-friday-february-3-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,830 115 44,945   Create a Ubiquitous .NET Client Application Development Model 5,842 85 5,927   Bring Windows 10 Universal Apps to Android and iOS 2,856 26 2,882   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 27, 2017</title>
+      <link>/2017/01/weekly-vote-report-for-friday-january-27-2017/</link>
+      <pubDate>Fri, 27 Jan 2017 12:41:23 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/01/weekly-vote-report-for-friday-january-27-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,772 58 44,830   Create a Ubiquitous .NET Client Application Development Model 5,803 39 5,842   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 20, 2017</title>
+      <link>/2017/01/weekly-vote-report-for-friday-january-20-2017/</link>
+      <pubDate>Fri, 20 Jan 2017 12:26:35 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/01/weekly-vote-report-for-friday-january-20-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,727 45 44,772   Create a Ubiquitous .NET Client Application Development Model 5,761 42 5,803   Bring Windows 10 Universal Apps to Android and iOS 2,847 2 2,849   Make Universal Windows Platform Open Source and Cross-Platform 666 1 667   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 13, 2017</title>
+      <link>/2017/01/weekly-vote-report-for-friday-january-13-2017/</link>
+      <pubDate>Fri, 13 Jan 2017 12:02:01 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/01/weekly-vote-report-for-friday-january-13-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,675 52 44,727   Create a Ubiquitous .NET Client Application Development Model 5,715 46 5,761   Bring Windows 10 Universal Apps to Android and iOS 2,843 4 2,847   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 6, 2017</title>
+      <link>/2017/01/weekly-vote-report-for-friday-january-6-2017/</link>
+      <pubDate>Fri, 06 Jan 2017 12:57:57 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/01/weekly-vote-report-for-friday-january-6-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,634 41 44,675   Create a Ubiquitous .NET Client Application Development Model 5,679 36 5,715   Bring Windows 10 Universal Apps to Android and iOS 2,838 5 2,843   Make Universal Windows Platform Open Source and Cross-Platform 662 3 665   Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) 79  79   Windows App Studio: Add support for Android and IOS conversion 57  57   Silverlight 6 [Closed / Carrying the Torch] 15,574  15,574   Negotiate with Other Major Browsers Manufacturers Over a Common IL 103  103   Run Xaml / C# (like Silverlight) Applications Inside, without Plug-in [Closed / Carrying the Torch] 1,048  1,048   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 30, 2016</title>
+      <link>/2016/12/weekly-vote-report-for-friday-december-30-2016/</link>
+      <pubDate>Fri, 30 Dec 2016 13:01:44 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/12/weekly-vote-report-for-friday-december-30-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,596 38 44,634   Create a Ubiquitous .NET Client Application Development Model 5,653 26 5,679   Bring Windows 10 Universal Apps to Android and iOS 2,828 10 2,838   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 23, 2016</title>
+      <link>/2016/12/weekly-vote-report-for-friday-december-23-2016/</link>
+      <pubDate>Fri, 23 Dec 2016 12:13:32 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/12/weekly-vote-report-for-friday-december-23-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,528 68 44,596   Create a Ubiquitous .NET Client Application Development Model 5,601 52 5,653   Bring Windows 10 Universal Apps to Android and iOS 2,816 12 2,828   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 16, 2016</title>
+      <link>/2016/12/weekly-vote-report-for-friday-december-16-2016/</link>
+      <pubDate>Fri, 16 Dec 2016 12:12:15 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/12/weekly-vote-report-for-friday-december-16-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,459 69 44,528   Create a Ubiquitous .NET Client Application Development Model 5,561 40 5,601   Bring Windows 10 Universal Apps to Android and iOS 2,804 12 2,816   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 9, 2016</title>
+      <link>/2016/12/weekly-vote-report-for-friday-december-9-2016/</link>
+      <pubDate>Fri, 09 Dec 2016 13:30:26 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/12/weekly-vote-report-for-friday-december-9-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,414 45 44,459   Create a Ubiquitous .NET Client Application Development Model 5,530 31 5,561   Bring Windows 10 Universal Apps to Android and iOS 2,794 10 2,804   Make Universal Windows Platform Open Source and Cross-Platform 652 4 656   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 2, 2016</title>
+      <link>/2016/12/weekly-vote-report-for-friday-december-2-2016/</link>
+      <pubDate>Fri, 02 Dec 2016 12:22:01 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/12/weekly-vote-report-for-friday-december-2-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,357 57 44,414   Create a Ubiquitous .NET Client Application Development Model 5,477 53 5,530   Bring Windows 10 Universal Apps to Android and iOS 2,791 3 2,794   Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) 78 1 79   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, November 25, 2016</title>
+      <link>/2016/11/weekly-vote-report-for-friday-november-25-2016/</link>
+      <pubDate>Fri, 25 Nov 2016 13:45:41 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/11/weekly-vote-report-for-friday-november-25-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,256 101 44,357   Create a Ubiquitous .NET Client Application Development Model 5,385 92 5,477   Bring Windows 10 Universal Apps to Android and iOS 2,787 4 2,791   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, November 18, 2016</title>
+      <link>/2016/11/weekly-vote-report-for-friday-november-18-2016/</link>
+      <pubDate>Fri, 18 Nov 2016 14:18:26 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/11/weekly-vote-report-for-friday-november-18-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,172 84 44,256   Create a Ubiquitous .NET Client Application Development Model 5,313 72 5,385   Bring Windows 10 Universal Apps to Android and iOS 2,780 7 2,787   Make Universal Windows Platform Open Source and Cross-Platform 647 3 650   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, November 11, 2016</title>
+      <link>/2016/11/weekly-vote-report-for-friday-november-11-2016/</link>
+      <pubDate>Fri, 11 Nov 2016 15:00:11 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/11/weekly-vote-report-for-friday-november-11-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,086 86 44,172   Create a Ubiquitous .NET Client Application Development Model 5,231 82 5,313   Make Universal Windows Platform Open Source and Cross-Platform 645 2 647   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, November 4, 2016</title>
+      <link>/2016/11/weekly-vote-report-for-friday-november-4-2016/</link>
+      <pubDate>Fri, 04 Nov 2016 14:53:59 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/11/weekly-vote-report-for-friday-november-4-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,986 100 44,086   Create a Ubiquitous .NET Client Application Development Model 5,142 89 5,231   Bring Windows 10 Universal Apps to Android and iOS 2,773 7 2,780   Make Universal Windows Platform Open Source and Cross-Platform 641 4 645   One .</description>
+    </item>
+    
+    <item>
+      <title>Why an HTML5-Compliant .NET is Important</title>
+      <link>/2016/11/why-an-html5-compliant-net-is-important/</link>
+      <pubDate>Tue, 01 Nov 2016 17:33:33 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/11/why-an-html5-compliant-net-is-important/</guid>
+      <description>TL;DR: Vote!  
+ 
+Exploring an HTML5-Compliant .NET I recently got a good question on the .NET Foundation Forums in regard to why I (and nearly 5,200 other votes as of this writing) feel so strongly about having an HTML5-compliant .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, October 28, 2016</title>
+      <link>/2016/10/weekly-vote-report-for-friday-october-28-2016/</link>
+      <pubDate>Fri, 28 Oct 2016 12:09:15 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/10/weekly-vote-report-for-friday-october-28-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,876 110 43,986   Create a Ubiquitous .NET Client Application Development Model 5,043 99 5,142   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, October 21, 2016</title>
+      <link>/2016/10/weekly-vote-report-for-friday-october-21-2016/</link>
+      <pubDate>Fri, 21 Oct 2016 13:46:44 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/10/weekly-vote-report-for-friday-october-21-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,728 148 43,876   Create a Ubiquitous .NET Client Application Development Model 4,918 125 5,043   Bring Windows 10 Universal Apps to Android and iOS 2,757 13 2,770   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, October 14, 2016</title>
+      <link>/2016/10/weekly-vote-report-for-friday-october-14-2016/</link>
+      <pubDate>Fri, 14 Oct 2016 12:38:33 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/10/weekly-vote-report-for-friday-october-14-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,661 67 43,728   Create a Ubiquitous .NET Client Application Development Model 4,858 60 4,918   Make Universal Windows Platform Open Source and Cross-Platform 631 4 635   Bring Windows 10 Universal Apps to Android and iOS 2,754 3 2,757   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, October 7, 2016</title>
+      <link>/2016/10/weekly-vote-report-for-friday-october-7-2016/</link>
+      <pubDate>Fri, 07 Oct 2016 20:14:23 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/10/weekly-vote-report-for-friday-october-7-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,457 204 43,661   Create a Ubiquitous .NET Client Application Development Model 4,677 181 4,858   Bring Windows 10 Universal Apps to Android and iOS 2,742 12 2,754   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, September 30, 2016</title>
+      <link>/2016/09/weekly-vote-report-for-friday-september-30-2016/</link>
+      <pubDate>Fri, 30 Sep 2016 13:31:38 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/09/weekly-vote-report-for-friday-september-30-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,248 209 43,457   Create a Ubiquitous .NET Client Application Development Model 4,472 205 4,677   Bring Windows 10 Universal Apps to Android and iOS 2,740 2 2,742   Make Universal Windows Platform Open Source and Cross-Platform 626 2 628   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, September 23, 2016</title>
+      <link>/2016/09/weekly-vote-report-for-friday-september-23-2016/</link>
+      <pubDate>Fri, 23 Sep 2016 12:31:27 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/09/weekly-vote-report-for-friday-september-23-2016/</guid>
+      <description>Looks like we lost the Open Source Xaml vote on Visual Studio&amp;#8217;s site (the author must have deleted it?). I have replaced it with another Xaml vote found on wpdev&amp;#8217;s site that has not been captured until now.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, September 16, 2016</title>
+      <link>/2016/09/weekly-vote-report-for-friday-september-16-2016/</link>
+      <pubDate>Fri, 16 Sep 2016 13:03:45 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/09/weekly-vote-report-for-friday-september-16-2016/</guid>
+      <description>Looks like there was an adjustment of votes on wpdev.uservoice.com to switch from a 3-vote-per-user system to a 1-vote-per-user system, so that has affected this week&amp;#8217;s numbers. SO CONFUSING!!! 😉</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, September 9, 2016</title>
+      <link>/2016/09/weekly-vote-report-for-friday-september-9-2016/</link>
+      <pubDate>Fri, 09 Sep 2016 13:47:29 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/09/weekly-vote-report-for-friday-september-9-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,296 78 44,374   Create a Ubiquitous .NET Client Application Development Model 4,265 64 4,329   Bring Windows 10 Universal Apps to Android and iOS 2,712 7 2,719   Make Universal Windows Platform Open Source and Cross-Platform 1,703 6 1,709   Negotiate with Other Major Browsers Manufacturers Over a Common IL 102 1 103   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, September 2, 2016</title>
+      <link>/2016/09/weekly-vote-report-for-friday-september-2-2016/</link>
+      <pubDate>Fri, 02 Sep 2016 12:06:04 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/09/weekly-vote-report-for-friday-september-2-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,220 76 44,296   Create a Ubiquitous .NET Client Application Development Model 4,214 51 4,265   Make Universal Windows Platform Open Source and Cross-Platform 1,679 24 1,703   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, August 26, 2016</title>
+      <link>/2016/08/weekly-vote-report-for-friday-august-26-2016/</link>
+      <pubDate>Fri, 26 Aug 2016 13:22:26 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/08/weekly-vote-report-for-friday-august-26-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,114 106 44,220   Create a Ubiquitous .NET Client Application Development Model 4,153 61 4,214   Make Universal Windows Platform Open Source and Cross-Platform 1,649 30 1,679   Bring Windows 10 Universal Apps to Android and iOS 2,699 13 2,712   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, August 19, 2016</title>
+      <link>/2016/08/weekly-vote-report-for-friday-august-19-2016/</link>
+      <pubDate>Fri, 19 Aug 2016 16:06:55 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/08/weekly-vote-report-for-friday-august-19-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,007 107 44,114   Create a Ubiquitous .NET Client Application Development Model 4,101 52 4,153   Make Universal Windows Platform Open Source and Cross-Platform 1,623 26 1,649   Bring Windows 10 Universal Apps to Android and iOS 2,676 23 2,699   Negotiate with Other Major Browsers Manufacturers Over a Common IL 99 3 102   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, August 12, 2016</title>
+      <link>/2016/08/weekly-vote-report-for-friday-august-12-2016/</link>
+      <pubDate>Fri, 12 Aug 2016 12:47:52 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/08/weekly-vote-report-for-friday-august-12-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,922 85 44,007   Create a Ubiquitous .NET Client Application Development Model 4,041 60 4,101   Make Universal Windows Platform Open Source and Cross-Platform 1,604 19 1,623   Bring Windows 10 Universal Apps to Android and iOS 2,673 3 2,676   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, August 5, 2016</title>
+      <link>/2016/08/weekly-vote-report-for-friday-august-5-2016/</link>
+      <pubDate>Fri, 05 Aug 2016 12:45:33 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/08/weekly-vote-report-for-friday-august-5-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,788 134 43,922   Create a Ubiquitous .NET Client Application Development Model 3,953 88 4,041   Bring Windows 10 Universal Apps to Android and iOS 2,646 27 2,673   Make Universal Windows Platform Open Source and Cross-Platform 1,586 18 1,604   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, July 29, 2016</title>
+      <link>/2016/07/weekly-vote-report-for-friday-july-29-2016/</link>
+      <pubDate>Fri, 29 Jul 2016 12:13:29 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/07/weekly-vote-report-for-friday-july-29-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,732 56 43,788   Create a Ubiquitous .NET Client Application Development Model 3,915 38 3,953   Make Universal Windows Platform Open Source and Cross-Platform 1,577 9 1,586   Bring Windows 10 Universal Apps to Android and iOS 2,641 5 2,646   Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) 203 3 206   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, July 22, 2016</title>
+      <link>/2016/07/weekly-vote-report-for-friday-july-22-2016/</link>
+      <pubDate>Fri, 22 Jul 2016 12:34:07 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/07/weekly-vote-report-for-friday-july-22-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,666 66 43,732   Create a Ubiquitous .NET Client Application Development Model 3,873 42 3,915   Make Universal Windows Platform Open Source and Cross-Platform 1,559 18 1,577   Bring Windows 10 Universal Apps to Android and iOS 2,638 3 2,641   Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) 200 3 203   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, July 15, 2016</title>
+      <link>/2016/07/weekly-vote-report-for-friday-july-15-2016/</link>
+      <pubDate>Fri, 15 Jul 2016 12:56:32 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/07/weekly-vote-report-for-friday-july-15-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,618 48 43,666   Create a Ubiquitous .NET Client Application Development Model 3,840 33 3,873   Bring Windows 10 Universal Apps to Android and iOS 2,632 6 2,638   Make Universal Windows Platform Open Source and Cross-Platform 1,556 3 1,559   Windows App Studio: Add support for Android and IOS conversion 134 3 137   Negotiate with Other Major Browsers Manufacturers Over a Common IL 96 3 99   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, July 8, 2016</title>
+      <link>/2016/07/weekly-vote-report-for-friday-july-8-2016/</link>
+      <pubDate>Fri, 08 Jul 2016 13:07:33 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/07/weekly-vote-report-for-friday-july-8-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,531 87 43,618   Create a Ubiquitous .NET Client Application Development Model 3,790 50 3,840   Bring Windows 10 Universal Apps to Android and iOS 2,609 23 2,632   Make Universal Windows Platform Open Source and Cross-Platform 1,538 18 1,556   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, July 1, 2016</title>
+      <link>/2016/07/weekly-vote-report-for-friday-july-1-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 12:30:47 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/07/weekly-vote-report-for-friday-july-1-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,447 84 43,531   Create a Ubiquitous .NET Client Application Development Model 3,748 42 3,790   Make Universal Windows Platform Open Source and Cross-Platform 1,519 19 1,538   Bring Windows 10 Universal Apps to Android and iOS 2,597 12 2,609   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, June 24, 2016</title>
+      <link>/2016/06/weekly-vote-report-for-friday-june-24-2016/</link>
+      <pubDate>Fri, 24 Jun 2016 13:03:16 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/06/weekly-vote-report-for-friday-june-24-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,350 97 43,447   Create a Ubiquitous .NET Client Application Development Model 3,704 44 3,748   Bring Windows 10 Universal Apps to Android and iOS 2,578 19 2,597   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, June 17, 2016</title>
+      <link>/2016/06/weekly-vote-report-for-friday-june-17-2016/</link>
+      <pubDate>Fri, 17 Jun 2016 12:36:26 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/06/weekly-vote-report-for-friday-june-17-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,284 66 43,350   Create a Ubiquitous .NET Client Application Development Model 3,672 32 3,704   Make Universal Windows Platform Open Source and Cross-Platform 1,484 21 1,505   Bring Windows 10 Universal Apps to Android and iOS 2,570 8 2,578   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, June 10, 2016</title>
+      <link>/2016/06/weekly-vote-report-for-friday-june-10-2016/</link>
+      <pubDate>Fri, 10 Jun 2016 12:56:54 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/06/weekly-vote-report-for-friday-june-10-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,161 123 43,284   Create a Ubiquitous .NET Client Application Development Model 3,588 84 3,672   Make Universal Windows Platform Open Source and Cross-Platform 1,469 15 1,484   Bring Windows 10 Universal Apps to Android and iOS 2,560 10 2,570   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, June 3, 2016</title>
+      <link>/2016/06/weekly-vote-report-for-friday-june-3-2016/</link>
+      <pubDate>Fri, 03 Jun 2016 13:16:06 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/06/weekly-vote-report-for-friday-june-3-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 43,064 97 43,161   Create a Ubiquitous .NET Client Application Development Model 3,518 70 3,588   Make Universal Windows Platform Open Source and Cross-Platform 1,454 15 1,469   Bring Windows 10 Universal Apps to Android and iOS 2,551 9 2,560   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, May 27, 2016</title>
+      <link>/2016/05/weekly-vote-report-for-friday-may-27-2016/</link>
+      <pubDate>Fri, 27 May 2016 14:04:17 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/05/weekly-vote-report-for-friday-may-27-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 42,948 116 43,064   Create a Ubiquitous .NET Client Application Development Model 3,438 80 3,518   Bring Windows 10 Universal Apps to Android and iOS 2,539 12 2,551   Make Universal Windows Platform Open Source and Cross-Platform 1,442 12 1,454   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, May 20, 2016</title>
+      <link>/2016/05/weekly-vote-report-for-friday-may-20-2016/</link>
+      <pubDate>Fri, 20 May 2016 13:55:03 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/05/weekly-vote-report-for-friday-may-20-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 42,850 98 42,948   Create a Ubiquitous .NET Client Application Development Model 3,378 60 3,438   Make Universal Windows Platform Open Source and Cross-Platform 1,428 14 1,442   Bring Windows 10 Universal Apps to Android and iOS 2,527 12 2,539   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, May 13, 2016</title>
+      <link>/2016/05/weekly-vote-report-for-friday-may-13-2016/</link>
+      <pubDate>Fri, 13 May 2016 14:36:45 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/05/weekly-vote-report-for-friday-may-13-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 42,724 126 42,850   Create a Ubiquitous .NET Client Application Development Model 3,283 95 3,378   Make Universal Windows Platform Open Source and Cross-Platform 1,418 10 1,428   Bring Windows 10 Universal Apps to Android and iOS 2,518 9 2,527   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, May 6, 2016</title>
+      <link>/2016/05/weekly-vote-report-for-friday-may-6-2016/</link>
+      <pubDate>Fri, 06 May 2016 11:30:55 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/05/weekly-vote-report-for-friday-may-6-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 42,641 83 42,724   Create a Ubiquitous .NET Client Application Development Model 3,230 53 3,283   Make Universal Windows Platform Open Source and Cross-Platform 1,400 18 1,418   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 29, 2016</title>
+      <link>/2016/04/weekly-vote-report-for-friday-april-29-2016/</link>
+      <pubDate>Fri, 29 Apr 2016 12:01:30 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/04/weekly-vote-report-for-friday-april-29-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 42,505 136 42,641   Create a Ubiquitous .NET Client Application Development Model 3,136 94 3,230   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 22, 2016</title>
+      <link>/2016/04/weekly-vote-report-for-friday-april-22-2016/</link>
+      <pubDate>Fri, 22 Apr 2016 11:58:22 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/04/weekly-vote-report-for-friday-april-22-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 42,327 178 42,505   Create a Ubiquitous .NET Client Application Development Model 2,999 137 3,136   Make Universal Windows Platform Open Source and Cross-Platform 1,373 16 1,389   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 15, 2016</title>
+      <link>/2016/04/weekly-vote-report-for-friday-april-15-2016/</link>
+      <pubDate>Fri, 15 Apr 2016 16:43:14 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/04/weekly-vote-report-for-friday-april-15-2016/</guid>
+      <description>Awwww jyea! Today marks the big 3-0-0-0 mark for the premiere featured vote here on Developers Win! The report below (generated earlier this morning) shows it at 2,999. However, if you check it out now it is over the 3k mark.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 8, 2016</title>
+      <link>/2016/04/weekly-vote-report-for-friday-april-8-2016/</link>
+      <pubDate>Fri, 08 Apr 2016 14:51:12 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/04/weekly-vote-report-for-friday-april-8-2016/</guid>
+      <description>We are still clipping along at just over 100 votes for the past week towards the premiere vote featured here on Developers.win. I personally am amazed that this idea still continues to achieve such a great rate of success after six months of existence.</description>
+    </item>
+    
+    <item>
+      <title>Speak Up</title>
+      <link>/2016/04/speak-up/</link>
+      <pubDate>Sun, 03 Apr 2016 20:25:59 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/04/speak-up/</guid>
+      <description>Yesterday marked the 6th month mark of the premiere vote of Developers.win. In this time, over 2700 votes have been accounted towards the idea of a ubiquitous .NET client application development model.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 1, 2016</title>
+      <link>/2016/04/weekly-vote-report-for-friday-april-1-2016/</link>
+      <pubDate>Fri, 01 Apr 2016 06:05:07 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/04/weekly-vote-report-for-friday-april-1-2016/</guid>
+      <description>Exciting news this week. With the announcements at //build, we are now shaping up towards a truly ubiquitous .NET development model. The Xamarin in Visual Studio announcement makes this idea a closer reality.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 25, 2016</title>
+      <link>/2016/03/weekly-vote-report-for-friday-march-25-2016/</link>
+      <pubDate>Fri, 25 Mar 2016 13:06:18 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/03/weekly-vote-report-for-friday-march-25-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 41,679 175 41,854   Create a Ubiquitous .NET Client Application Development Model 2,527 124 2,651   Bring Windows 10 Universal Apps to Android and iOS 2,437 28 2,465   Make Universal Windows Platform Open Source and Cross-Platform 1,321 9 1,330   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 18, 2016</title>
+      <link>/2016/03/weekly-vote-report-for-friday-march-18-2016/</link>
+      <pubDate>Fri, 18 Mar 2016 14:04:21 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/03/weekly-vote-report-for-friday-march-18-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 41,511 168 41,679   Create a Ubiquitous .NET Client Application Development Model 2,436 91 2,527   Bring Windows 10 Universal Apps to Android and iOS 2,402 35 2,437   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 11, 2016</title>
+      <link>/2016/03/weekly-vote-report-for-friday-march-11-2016/</link>
+      <pubDate>Fri, 11 Mar 2016 15:32:49 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/03/weekly-vote-report-for-friday-march-11-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 41,380 131 41,511   Create a Ubiquitous .NET Client Application Development Model 2,357 79 2,436   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, March 4, 2016</title>
+      <link>/2016/03/weekly-vote-report-for-friday-march-4-2016/</link>
+      <pubDate>Fri, 04 Mar 2016 12:10:11 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/03/weekly-vote-report-for-friday-march-4-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 41,094 286 41,380   Create a Ubiquitous .NET Client Application Development Model 2,161 196 2,357   Bring Windows 10 Universal Apps to Android and iOS 2,340 49 2,389   Make Universal Windows Platform Open Source and Cross-Platform 1,277 22 1,299   Allow .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 26, 2016</title>
+      <link>/2016/02/weekly-vote-report-for-friday-february-26-2016/</link>
+      <pubDate>Fri, 26 Feb 2016 15:52:19 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/weekly-vote-report-for-friday-february-26-2016/</guid>
+      <description>WOW! What a REALLY BUSY and exciting week! First, the premiere vote on which I founded this site, Create a Ubiquitous .NET Client Application Development Model passed WELL over 2,000 votes (2,161 at the time of this report, in fact!</description>
+    </item>
+    
+    <item>
+      <title>Exploring Microsoft’s Xamarin Acquisition with 7 Simple Graphics</title>
+      <link>/2016/02/exploring-microsofts-xamarin-acquisition-with-7-simple-graphics/</link>
+      <pubDate>Thu, 25 Feb 2016 13:00:13 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/exploring-microsofts-xamarin-acquisition-with-7-simple-graphics/</guid>
+      <description>TL;DR: Vote! The purpose of this article is to build consensus around a ubiquitous .NET client application development model. With Xamarin&amp;#8217;s acquisition yesterday, this gets us closer, but not quite there.</description>
+    </item>
+    
+    <item>
+      <title>For Your Review: We Are Under Review!</title>
+      <link>/2016/02/for-your-review-we-are-under-review/</link>
+      <pubDate>Wed, 24 Feb 2016 12:11:09 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/for-your-review-we-are-under-review/</guid>
+      <description>Wat Is It? Yesterday at around 3:30 PM PT/ 6:30 PM ET, the Visual Studio team marked the premiere idea that this site was built around, Create a Ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 19, 2016</title>
+      <link>/2016/02/weekly-vote-report-for-friday-february-19-2016/</link>
+      <pubDate>Fri, 19 Feb 2016 12:07:20 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/weekly-vote-report-for-friday-february-19-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 24,136 111 24,247   Create a Ubiquitous .NET Client Application Development Model 1,685 61 1,746   Bring Windows 10 Universal Apps to Android and iOS 2,061 31 2,092   Make Universal Windows Platform Open Source and Cross-Platform 1,235 12 1,247   Negotiate with Other Major Browsers Manufacturers Over a Common IL 63 4 67   Windows App Studio: Add support for Android and IOS conversion 102 3 105   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 12, 2016</title>
+      <link>/2016/02/weekly-vote-report-for-friday-february-12-2016/</link>
+      <pubDate>Fri, 12 Feb 2016 12:56:30 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/weekly-vote-report-for-friday-february-12-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 24,020 116 24,136   Create a Ubiquitous .NET Client Application Development Model 1,623 62 1,685   Bring Windows 10 Universal Apps to Android and iOS 2,033 28 2,061   Make Universal Windows Platform Open Source and Cross-Platform 1,220 15 1,235   One .</description>
+    </item>
+    
+    <item>
+      <title>How NodeJS Is Dominating .NET in 3 Easy Charts</title>
+      <link>/2016/02/how-nodejs-is-dominating-net-in-3-easy-charts/</link>
+      <pubDate>Fri, 12 Feb 2016 12:38:24 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/how-nodejs-is-dominating-net-in-3-easy-charts/</guid>
+      <description>Wat Now? OK I have to admit my title to this article is my first attempt at click bait. Hey, I&amp;#8217;m learning my new toy here, what can I say?</description>
+    </item>
+    
+    <item>
+      <title>Is the Tide Turning on project.json?</title>
+      <link>/2016/02/has-the-tide-turned-on-project-json/</link>
+      <pubDate>Thu, 11 Feb 2016 13:52:22 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/has-the-tide-turned-on-project-json/</guid>
+      <description>Wat Want? I am not exactly a fan of the new project.json initiative underway between the Visual Studio and ASP.NET Core rewrite. In fact, I have been so concerned with it that I have created a vote to change this very issue along with other latent misgivings in the Visual Studio project system.</description>
+    </item>
+    
+    <item>
+      <title>The .NET Exodus to NodeJS: Sound Off</title>
+      <link>/2016/02/the-net-to-nodejs-exodus-sound-off/</link>
+      <pubDate>Thu, 11 Feb 2016 09:55:02 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/the-net-to-nodejs-exodus-sound-off/</guid>
+      <description>What Want? Are you a NodeJS developer? More importantly, are you a former or current .NET developer? Are you a .NET developer thinking of making the switch to NodeJS?</description>
+    </item>
+    
+    <item>
+      <title>The Great .NET Client Divide: A Simple Example (Hopefully)</title>
+      <link>/2016/02/the-great-net-client-divide-a-simple-example-hopefully/</link>
+      <pubDate>Mon, 08 Feb 2016 12:31:51 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/the-great-net-client-divide-a-simple-example-hopefully/</guid>
+      <description>TL;DR: Vote! I have been getting some good feedback on writing lengthy blog articles. Right right. I try to be aware and respectful of your time. And mine, too. At the end of the day I am just some random developer that you don&amp;#8217;t know who happens to put their thoughts on the web &amp;#8212; and I try to keep that in mind.</description>
+    </item>
+    
+    <item>
+      <title>The “Backwards” Windows Platform Bridges: The Business Problem</title>
+      <link>/2016/02/the-backwards-windows-platform-bridges-the-business-problem/</link>
+      <pubDate>Sat, 06 Feb 2016 17:52:16 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/the-backwards-windows-platform-bridges-the-business-problem/</guid>
+      <description>TL;DR: VOTE! This post exists to build consensus in the Microsoft developer community around the idea of a ubiquitous .NET client application development model. Show your support by voting for this idea here:</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, February 5, 2016</title>
+      <link>/2016/02/weekly-vote-report-for-friday-february-5-2016/</link>
+      <pubDate>Fri, 05 Feb 2016 13:05:29 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/weekly-vote-report-for-friday-february-5-2016/</guid>
+      <description>Two new votes have been added for this week: Run Xaml / C# (like Silverlight) Applications Inside, without Plug-in and Negotiate with Other Major Browsers Manufacturers Over a Common IL. In all, these votes bring us up to 1,000 votes away from 25,000 total votes asking for a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Improving Microsoft Developer Engagement with Disqus</title>
+      <link>/2016/02/improving-microsoft-developer-engagement-with-disqus/</link>
+      <pubDate>Thu, 04 Feb 2016 19:02:09 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/02/improving-microsoft-developer-engagement-with-disqus/</guid>
+      <description>TL;DR: VOTE! This post exists to build consensus in the Microsoft developer community to help improve the blogging systems used in various Microsoft properties by using Disqus.
+Show your support by voting for this idea here for Visual Studio and Visual Studio Team Services (MSDN):</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 29, 2016</title>
+      <link>/2016/01/weekly-vote-report-for-friday-january-29-2016/</link>
+      <pubDate>Fri, 29 Jan 2016 15:33:08 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/01/weekly-vote-report-for-friday-january-29-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 22628 147 22775   Create a Ubiquitous .NET Client Application Development Model 1503 52 1555   Bring Windows 10 Universal Apps to Android and iOS 1935 50 1985   Make Universal Windows Platform Open Source and Cross-Platform 1181 21 1202   One .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 22, 2016</title>
+      <link>/2016/01/weekly-vote-report-for-friday-january-22-2016/</link>
+      <pubDate>Fri, 22 Jan 2016 16:11:44 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/01/weekly-vote-report-for-friday-january-22-2016/</guid>
+      <description>Cranking along here. We continue to see good movement with the Ubiquitous .NET vote, having passed 1500 this week. I continue to be humbled and appreciative for all the support. Thank you so much to all who have contributed their votes!</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 15, 2016</title>
+      <link>/2016/01/weekly-vote-report-for-friday-january-15-2016/</link>
+      <pubDate>Fri, 15 Jan 2016 14:04:39 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/01/weekly-vote-report-for-friday-january-15-2016/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 22431 84 22515   Make Universal Windows Platform Open Source and Cross-Platform 1126 39 1165   Create a Ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 8, 2016</title>
+      <link>/2016/01/weekly-vote-report-for-friday-january-8-2016/</link>
+      <pubDate>Fri, 08 Jan 2016 14:52:13 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/01/weekly-vote-report-for-friday-january-8-2016/</guid>
+      <description>Back again to a steady schedule this week. As always, if you feel there is a vote that should be included in this list, please let us know in the comments.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, January 1, 2016</title>
+      <link>/2016/01/weekly-vote-report-for-friday-january-1-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 09:58:12 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2016/01/weekly-vote-report-for-friday-january-1-2016/</guid>
+      <description>Happy New Year! We here at Developers Win wish you the best and most productive year yet in 2016. We start this year out with a new Weekly Report, delivered on time early Friday morning.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Saturday, December 26, 2015</title>
+      <link>/2015/12/weekly-vote-report-for-saturday-december-26-2015/</link>
+      <pubDate>Sat, 26 Dec 2015 15:30:41 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/12/weekly-vote-report-for-saturday-december-26-2015/</guid>
+      <description>Well, another week and another day late. This time it was due to a logistical issue rather than a technical one, that being a visit by Mr. Santa yesterday for Christmas.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Saturday, December 19, 2015</title>
+      <link>/2015/12/weekly-vote-report-for-saturday-december-19-2015/</link>
+      <pubDate>Sat, 19 Dec 2015 12:26:17 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/12/weekly-vote-report-for-saturday-december-19-2015/</guid>
+      <description>Well now, a little late this week due to some technical difficulties. Based on a tip from Sir Eder, the reports now include another vote for One .NET Framework, which would be necessary for a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 11, 2015</title>
+      <link>/2015/12/weekly-vote-report-for-friday-december-11-2015/</link>
+      <pubDate>Fri, 11 Dec 2015 09:19:35 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/12/weekly-vote-report-for-friday-december-11-2015/</guid>
+      <description>Right at the cusp of 4,000 collective votes for a ubiquitous .NET client model today. Please share and vote!
+   Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .</description>
+    </item>
+    
+    <item>
+      <title>Is .NET in Trouble?  (Belated Thoughts from Connect 2015)</title>
+      <link>/2015/12/is-net-in-trouble-belated-thoughts-from-connect-2015/</link>
+      <pubDate>Mon, 07 Dec 2015 14:30:09 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/12/is-net-in-trouble-belated-thoughts-from-connect-2015/</guid>
+      <description>TL;DR: VOTE! This post exists to build consensus in the Microsoft developer community around the idea of a ubiquitous .NET client application development model. Show your support by voting for this idea here:</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, December 4, 2015</title>
+      <link>/2015/12/weekly-vote-report-for-friday-december-4-2015/</link>
+      <pubDate>Fri, 04 Dec 2015 14:20:11 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/12/weekly-vote-report-for-friday-december-4-2015/</guid>
+      <description>Another solid week for ubiquitous .NET, universal apps to Android/iOS is getting some serious love. Please continue to share and vote!!
+   Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .</description>
+    </item>
+    
+    <item>
+      <title>Eight Weeks, 1,000&#43; Votes, #1 Hottest Vote — THANK YOU!!!</title>
+      <link>/2015/12/eight-weeks-1000-votes-1-hottest-vote-thank-you/</link>
+      <pubDate>Tue, 01 Dec 2015 14:45:34 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/12/eight-weeks-1000-votes-1-hottest-vote-thank-you/</guid>
+      <description>&amp;#8220;Amazing! WOW! Incredible!&amp;#8221;
+Those are a few of the words that sit in my head this morning. When I set out to make this site over six months ago, I really didn&amp;#8217;t have any expectations or know what to expect.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, November 27, 2015</title>
+      <link>/2015/11/weekly-vote-report-for-friday-november-27-2015/</link>
+      <pubDate>Fri, 27 Nov 2015 11:21:59 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/11/weekly-vote-report-for-friday-november-27-2015/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 3277 150 3427   Create a Ubiquitous .NET Client Application Development Model 896 65 961   Bring Windows 10 Universal Apps to Android and iOS 1250 63 1313   Make Universal Windows Platform Open Source and Cross-Platform 969 19 988   Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) 162 3 165   Visual Studio Improvements 246 8 254   Enable Roslyn-Powered Code Views 23 1 24   Enable Abstract Syntax Tree Source Files via Roslyn 25  25   Enable Roslyn-Powered Data ASTs and Data Views 14  14   Improve/Reboot Visual Studio Project System 178 7 185   Improve Asynchronous Programming Model 6  6   Edge Improvements 59 3 62   EDGE EXTENSIONS .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, November 20, 2015</title>
+      <link>/2015/11/weekly-vote-report-for-friday-november-20-2015/</link>
+      <pubDate>Fri, 20 Nov 2015 14:51:55 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/11/weekly-vote-report-for-friday-november-20-2015/</guid>
+      <description>The Visual Studio vote is one vote away from 900 while the Universal Windows Platform vote is closely approaching 1000 votes. Please continue to share and support these ideas!
+   Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Saturday, November 14, 2015</title>
+      <link>/2015/11/weekly-vote-report-for-saturday-november-14-2015/</link>
+      <pubDate>Sat, 14 Nov 2015 11:00:53 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/11/weekly-vote-report-for-saturday-november-14-2015/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 3013 154 3167   Create a Ubiquitous .NET Client Application Development Model 782 66 848   Bring Windows 10 Universal Apps to Android and iOS 1153 48 1201   Make Universal Windows Platform Open Source and Cross-Platform 916 40 956   Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) 162  162   Visual Studio Improvements 223 11 234   Enable Roslyn-Powered Code Views 20 3 23   Enable Abstract Syntax Tree Source Files via Roslyn 25  25   Enable Roslyn-Powered Data ASTs and Data Views 14  14   Improve/Reboot Visual Studio Project System 158 8 166   Improve Asynchronous Programming Model 6  6   Edge Improvements 55 4 59   EDGE EXTENSIONS .</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Saturday, November 7, 2015</title>
+      <link>/2015/11/weekly-vote-report-for-saturday-november-7-2015/</link>
+      <pubDate>Sun, 08 Nov 2015 00:07:31 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/11/weekly-vote-report-for-saturday-november-7-2015/</guid>
+      <description>Ubiquitous / Cross-Platform .NET [Total: 3013 Votes / +3013 Since Last Week]  Create a Ubiquitous .NET Client Application Development Model [Total: 782 Votes / +782 Since Last Week] Bring Windows 10 Universal Apps to Android and iOS [Total: 1153 Votes / +1153 Since Last Week] Make Universal Windows Platform Open Source and Cross-Platform [Total: 916 Votes / +916 Since Last Week] Expand/Enable Universal Windows Platform to Transpile to JavaScript (iOS/Droid Compatibility) [Total: 162 Votes / +162 Since Last Week] Visual Studio Improvements [Total: 223 Votes / +223 Since Last Week]  Enable Roslyn-Powered Code Views [Total: 20 Votes / +20 Since Last Week] Enable Abstract Syntax Tree Source Files via Roslyn [Total: 25 Votes / +25 Since Last Week] Enable Roslyn-Powered Data ASTs and Data Views [Total: 14 Votes / +14 Since Last Week] Improve/Reboot Visual Studio Project System [Total: 158 Votes / +158 Since Last Week] Improve Asynchronous Programming Model [Total: 6 Votes / +6 Since Last Week]  Edge Improvements [Total: 55 Votes / +55 Since Last Week]  EDGE EXTENSIONS .</description>
+    </item>
+    
+    <item>
+      <title>Data ASTs and Data Views</title>
+      <link>/2015/10/data-asts-and-data-views/</link>
+      <pubDate>Thu, 01 Oct 2015 21:57:28 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/data-asts-and-data-views/</guid>
+      <description>TL;DR: VOTE! This post exists to build support around the idea of Roslyn-Powered Data Views. This is not intended to be a final solution, but a starting point for discussion, awareness, and a sign of demand.</description>
+    </item>
+    
+    <item>
+      <title>Roslyn-Powered Code Views</title>
+      <link>/2015/10/roslyn-powered-code-views/</link>
+      <pubDate>Thu, 01 Oct 2015 21:49:19 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/roslyn-powered-code-views/</guid>
+      <description>TL;DR: VOTE! This post exists to build support around the idea of Roslyn-Powered Code Views. This is not intended to be a final solution, but a starting point for discussion, awareness, and a sign of demand.</description>
+    </item>
+    
+    <item>
+      <title>The Ubiquitous Bridge</title>
+      <link>/2015/10/the-ubiquitous-bridge/</link>
+      <pubDate>Thu, 01 Oct 2015 20:29:41 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/the-ubiquitous-bridge/</guid>
+      <description>This entry is part 6 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>The Backwards Bridge</title>
+      <link>/2015/10/the-backwards-bridge/</link>
+      <pubDate>Thu, 01 Oct 2015 20:27:57 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/the-backwards-bridge/</guid>
+      <description>This entry is part 5 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>The Broken, Burned Bridge</title>
+      <link>/2015/10/the-broken-burned-bridge/</link>
+      <pubDate>Thu, 01 Oct 2015 20:23:08 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/the-broken-burned-bridge/</guid>
+      <description>This entry is part 4 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This post exists to build consensus in the Microsoft developer community around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Existing .NET Client Application Models</title>
+      <link>/2015/10/existing-net-client-application-models/</link>
+      <pubDate>Thu, 01 Oct 2015 20:06:07 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/existing-net-client-application-models/</guid>
+      <description>This entry is part 3 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Ubiquitous Qualities</title>
+      <link>/2015/10/ubiquitous-qualities/</link>
+      <pubDate>Thu, 01 Oct 2015 19:59:43 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/ubiquitous-qualities/</guid>
+      <description>This entry is part 2 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/2015/10/introduction/</link>
+      <pubDate>Thu, 01 Oct 2015 19:36:04 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/introduction/</guid>
+      <description>This entry is part 1 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>“If you are not…”</title>
+      <link>/2015/09/if-you-are-not/</link>
+      <pubDate>Tue, 15 Sep 2015 10:36:08 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/09/if-you-are-not/</guid>
+      <description>If you are not embarrassed by the first version of your product, you’ve launched too late.  Reid Hoffman, LinkedIn Co-Founder and Venture Capitalist
+We thought this was an appropriate quote to help inspire our first version launch of this site.</description>
+    </item>
+    
+    <item>
+      <title>Hello World! (again)</title>
+      <link>/2015/09/hello-world-again/</link>
+      <pubDate>Tue, 15 Sep 2015 10:34:19 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/09/hello-world-again/</guid>
+      <description>I am very happy to announce the first posting on this blog! This has been an effort that has taken a few weeks now. As with anything dealing with software, it is never as easy as initially perceived, and has taken much longer than anticipated.</description>
+    </item>
+    
+    <item>
+      <title>Weekly Vote Report for Friday, September 9, 2016</title>
+      <link>/p743/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/p743/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 44,296 78 44,374   Create a Ubiquitous .NET Client Application Development Model 4,265 64 4,329   Bring Windows 10 Universal Apps to Android and iOS 2,712 7 2,719   Make Universal Windows Platform Open Source and Cross-Platform 1,703 6 1,709   Negotiate with Other Major Browsers Manufacturers Over a Common IL 102 1 103   One .</description>
+    </item>
+    
   </channel>
 </rss>

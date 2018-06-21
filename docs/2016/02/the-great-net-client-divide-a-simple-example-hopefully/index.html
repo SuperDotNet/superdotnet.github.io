@@ -1,0 +1,275 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>The Great .NET Client Divide: A Simple Example (Hopefully) &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  
+  <meta name="generator" content="Hugo 0.41" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		
+        <li><a href="https://www.facebook.com/RunSuperDotNet"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+         
+		
+        <li><a href="https://twitter.com/RunSuperDotNet"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			
+			<li><a href="https://gitter.im/SuperDotNet/Lobby"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			Developers Win! is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/">Learn More</a> or <a href="/categories/developers-win/">Browse</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>The Great .NET Client Divide: A Simple Example (Hopefully)</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2016-02-08T12:31:51Z">Feb 8, 2016</time>
+			
+			&nbsp; &middot; &nbsp;
+			3 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/developers-win/">Developers-Win</a>
+                
+                    , 
+                    <a href="/categories/general/">General</a>
+                
+            </em>
+        </li>
+        
+
+                
+    </ul>
+</aside>
+    
+
+    
+
+<h3 id="tl-dr-vote">TL;DR: Vote!</h3>
+
+<p>I have been getting some good feedback on <a href="/series/bridge-to-dotnet-ubiquity/" target="_blank">writing lengthy blog articles</a>. Right right. I try to be aware and respectful of your time.  And mine, too. At the end of the day I am just some random developer that you don&#8217;t know who happens to put their thoughts on the web &#8212; and I try to keep that in mind.  Additionally, I simply <em>hate</em> writing and <em>hate</em> writing long articles even more, so your guess is as good as mine as to why I put myself (and you, the patient reader) through so much agony. With that said, let&#8217;s see if I can keep this short.  Please vote:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+<h3 id="what-is-it-now">What Is It Now?</h3>
+
+<p>I have been checking out some awesome logging software lately, namely <a href="http://serilog.net/" target="_blank">Serilog</a> and a (just as awesome) complimentary logging presentation component, <a href="http://getseq.net/" target="_blank">Seq</a>. I have to say that Serilog is the real deal. Just look at all these sinks, <a href="https://github.com/serilog/serilog/wiki/Provided-Sinks" target="_blank">JUST YOU LOOK AT THEM!</a> That is some serious business. You can also use an <a href="https://github.com/serilog/serilog/wiki/Configuration-Basics" target="_blank">amazing configuration fluent API</a> which just might change the way I approach all my future solutions &#8212; I&#8217;ve seen fluent, but not like <em>this</em>.  <a href="https://www.youtube.com/watch?v=EnJk39QSujA" target="_blank">This means something, this is important</a>!</p>
+
+<h3 id="so-what-is-the-problem">So What Is the Problem?</h3>
+
+<p>Serilog is an awesome .NET logging solution.  It will work in a .NET application on the server (where you can also use in conjunction with Seq), and it will work in a <a href="/2015/10/existing-net-client-application-models/#windows-presentation-foundation">WPF application</a> or even <a href="/2015/10/existing-net-client-application-models/#windows-forms">WinForms application</a> (again, with Seq).  It will work in a Console Application (with Seq), and there is <a href="http://nblumhardt.com/2016/02/serilog-2-0-progress-update/" target="_blank">even an effort to allow it to work in a .NET Core application</a> (Seq TBD).</p>
+
+<h3 id="get-to-the-problem-damn-you">GET TO THE PROBLEM, DAMN YOU!!!</h3>
+
+<p>I as a .NET developer can use Serilog in all of the aforementioned application types, but <a href="/2015/12/is-net-in-trouble-belated-thoughts-from-connect-2015/">if I follow Microsoft Leadership&#8217;s guidance and use a NodeJS application on top of a .NET server application</a>, I cannot use Serilog as <a href="https://github.com/serilog/serilog/issues/657" target="_blank">it does not have an official JavaScript port</a>.  I can use an <a href="https://github.com/structured-log/structured-log">unsupported version</a> that is &#8220;like&#8221; it (and it doesn&#8217;t even feature the same name), but it is not following the same version (or capability) cadence &#8212; <a href="https://github.com/structured-log/structured-log/issues/1" target="_blank">and let&#8217;s not forget I want to preserve the Seq awesomeness</a>!</p>
+
+<h3 id="a-href-https-youtu-be-gvhpejomgsy-t-20s-target-blank-ahhhhhhh-a-8230-i-get-it"><a href="https://youtu.be/GVHPEJoMGsY?t=20s" target="_blank">Ahhhhhhh</a>&#8230;  I get it.</h3>
+
+<p>Am I interviewing myself again?  I hate when that happens.  Anyways, to &#8220;fix&#8221; this problem, Serilog must either create a feature parity and version-synchronized JavaScript API (<a href="http://reactivex.io/" target="_blank">like a major product</a>), or I as a developer must look for another equivalent of Serilog in the JavaScript/NodeJS ecosystem &#8212; written by a completely different developer (or developers) with a different style and approach and having to context-switch between the two (JavaScript and .NET).  <span style="line-height: 1.5;">In either case, this is additional (read: <span style="text-decoration: underline;"><em><strong>A LOT OF</strong></em></span>) work and the resulting solution will end up having two &#8220;Serilogs&#8221; which </span><a style="line-height: 1.5;" href="/2015/10/the-broken-burned-bridge/">essentially breaks encapsulation and DRY</a><span style="line-height: 1.5;">.</span></p>
+
+<h3 id="worse-yet">Worse Yet</h3>
+
+<p>Even worse, I can <a href="/2015/10/the-broken-burned-bridge/#dangerous-directive">choose to ditch .NET altogether</a> and <a href="/2015/12/is-net-in-trouble-belated-thoughts-from-connect-2015/#flocking-to-nodejs">simply use a NodeJS JavaScript solution for client and server applications</a> as this design features code reuse between the two tiers.</p>
+
+<h3 id="a-href-http-www-nooooooooooooooo-com-target-blank-noooooooooooooo-a"><a href="http://www.nooooooooooooooo.com/" target="_blank">NOOOOOOOOOOOOOO!!!</a></h3>
+
+<p>Exactly.</p>
+
+<h3 id="whew-please-vote">WHEW!  Please Vote</h3>
+
+<p>I actually got this in at a little over 550 words.  Not bad.  If you would like to see a JavaScript version of Serilog (and <em>any</em> .NET library, for that matter) seamlessly transpiled for <em>any</em> .NET project at compile time as part of a ubiquitous .NET client application development model offering, please tell the Visual Studio team you would like to see this magic happen by voting for this issue right here:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2016/02/the-backwards-windows-platform-bridges-the-business-problem/"><i class="fa fa-chevron-circle-left"></i> The “Backwards” Windows Platform Bridges: The Business Problem</a>
+        </li>
+        
+        
+        <li>
+            <a href="/2016/02/the-net-to-nodejs-exodus-sound-off/">The .NET Exodus to NodeJS: Sound Off <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+</body>
+
+</html>

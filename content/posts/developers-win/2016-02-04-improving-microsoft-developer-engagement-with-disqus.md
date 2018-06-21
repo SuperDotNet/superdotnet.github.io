@@ -1,0 +1,139 @@
+---
+title: Improving Microsoft Developer Engagement with Disqus
+author: Mike-EEE
+type: post
+date: 2016-02-04T19:02:09+00:00
+excerpt: In this post we explore how Microsoft groups can possibly improve their developer engagement by using Disqus as their commenting system for blog posts.
+url: /2016/02/improving-microsoft-developer-engagement-with-disqus/
+featured_image: /wp-content/uploads/2015/09/55ef453b4812941c66a30b48_Social-Profile-Thick-2561.png
+mythemes-thumbnail-height:
+  - 45
+dsq_thread_id:
+  - 4551883303
+categories:
+  - Developers-Win
+  - General
+
+---
+### TL;DR: VOTE!
+
+This post exists to build consensus in the Microsoft developer community to help improve the blogging systems used in various Microsoft properties by using <a href="https://disqus.com/" target="_blank">Disqus</a>.
+
+Show your support by voting for this idea here for Visual Studio and Visual Studio Team Services (MSDN):
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/11720967-improve-visual-studio-msdn-blog-commenting-system" target="_blank"> 
+  
+  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div>
+  
+  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div>
+
+### <span style="line-height: 1.5;">Blogging Upgrade</span>
+
+On Tuesday, <a href="https://blogs.msdn.microsoft.com/bharry/2016/02/02/update-blog-software/" target="_blank">the MSDN blog system finally updated its look and operational back end to WordPress</a>.  The new system looks good and is definitely an improvement over its old, archaic, and drab one with improved style.  However, one relic has been carried over from the old system to the new: a static, silo&#8217;d commenting system.
+
+### Using Disqus
+
+I am not sure if you are aware of Disqus.  If you are not, go ahead and <a href="https://disqus.com/" target="_blank">check it out now</a>.  Several Microsoft properties I know use Disqus, and incidentally they are the some of the same properties that feel more alive and dynamic when it comes to developer engagement.  These sites are <a href="https://azure.microsoft.com/en-us/" target="_blank">Azure</a> and <a href="http://blog.nuget.org/" target="_blank">NuGet</a> (please sound off in the comments if you are aware of others).
+
+### The Benefits
+
+Disqus is a great example of the (powerfully true) expression &#8220;<a href="https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well" target="_blank">do one thing and do that one thing really well.</a>&#8221;  You can consider Disqus as a community within a community.  When you add Disqus to your website, you seamless and immediately add a community to your content.  In fact, the very blog you are reading is WordPress-powered and it took me about a minute to setup.  It was very easy and pain-free, which is really aligned with the overall user experience one finds when using Disqus as a whole.
+
+When joining Disqus you get a user profile.  This user profile then travels with you across all the blogs in which you participate, creating a valuable history and allowing you to engage with other Disqus users in a way that is simply not possible in a silo&#8217;d, isolated blogging system.  You can follow people and get notified when they post something in a blog you have never heard of, encouraging discoverability and pollination.
+
+As for the features, Disqus allows you to edit and delete your posts, which has been incredibly valuable to me personally.  How many times have you posted something on MSDN (or Windows Blog) and noticed a mistake after you have posted it?  Or wanted to add an additional, valuable thought to improve your case for an argument?  Or maybe wanted to delete a post as you trolled someone a little too hard (_insert halo here_).  You can do that all in Disqus.
+
+Along such lines, Disqus has a very impressive and smooth authentication system (and user experience all around), allowing you to login through Facebook, Twitter, Google, or its own credential system.  This really does a great job of filtering out the trolls &#8212; something that is very easy to do with the old/existing MSDN system (and yes I am speaking from experience here).
+
+Something else to consider with Disqus: great, reliable notifications.  Its notification is very slick and has been on-point in my experience.  Whenever I get a reply to a comment I made, I always get an email.  I don&#8217;t have to remember to check back into the blog to see if someone has replied &#8212; it does it for me.
+
+Finally (and probably most importantly) Disqus provides user up/down voting.  This is incredibly useful for ascertaining sentiment within the community that is reading the post and the comments that follow.  I cannot underscore the value of this enough, as the majority of blogging readers simply do not post comments, but love to provide their agree/disagree feedback from when there is something they read from someone else.
+
+To summarize the awesome in Disqus:
+
+  * Community within a community (discovery/pollination/profile system)
+  * Reliable notifications
+  * Editing / deleting
+  * Flexible authentication
+  * Up/down voting
+
+### The Ugly Alternative
+
+If the new MSDN WordPress commenting system is anything like the Windows blog WordPress commenting system, then we are in for a world of hurt and disappointment.  The Windows Blog commenting system suffers from a variety of problems, which I will list here.
+
+First, the sign-in system is a little rough.  With the Windows Blog, you do get a profile, apparently, but you cannot access it nor can you edit any of your information.  You can&#8217;t see the history of things you have posted, nor or really of anything else in this blog.  In fact, in the new MSDN blog, you get your name, and a &#8220;Sign out&#8221; button, but not much else.  Your name is not even clickable, so who knows where they get it from.
+
+<div id="attachment_559" style="width: 1254px" class="wp-caption aligncenter">
+  <img class="size-full wp-image-559" src="/wp-content/uploads/2016/02/2016-02-04_13171.png" alt="This link does not go anywhere in the new MSDN blogging system." width="1244" height="200" srcset="/wp-content/uploads/2016/02/2016-02-04_13171.png 1244w, /wp-content/uploads/2016/02/2016-02-04_13171-300x48.png 300w, /wp-content/uploads/2016/02/2016-02-04_13171-768x123.png 768w, /wp-content/uploads/2016/02/2016-02-04_13171-1024x165.png 1024w" sizes="(max-width: 1244px) 100vw, 1244px" />
+  
+  <p class="wp-caption-text">
+    This link does not go anywhere in the new MSDN blogging system.
+  </p>
+</div>
+
+Secondly, the posts you do post are very static and very boring.  Once you post, you are taken on a trip back to 2005 with static content and read-only text.  Made a mistake and want to edit it?  Tough luck?  Want to delete it altogether?  <a href="https://www.youtube.com/watch?v=-4QfHdcMeEc" target="_blank">Cry, baby, cry</a>.  Not a good user experience at all.
+
+The other thing I have noticed on Windows Blog is that I do not get notifications on any of my posts, even though it says that I am supposed to get them.  It&#8217;s this sort of buggy experience that makes me wonder if anyone over there cares about developer engagement and taking pride in their product (and/or developer engagement).  I have yet to get a notification on the new MSDN blog system, so I am thinking it is more of the same.
+
+Additionally, the Windows Blog system (and it appears the new MSDN blog system) suffer from some strange moderation rules.  In fact, in <a href="https://blogs.msdn.microsoft.com/bharry/2016/02/02/update-blog-software/" target="_blank">Brian Harry&#8217;s announcement post</a>, I still have three posts outstanding that have not been accepted and are in moderation (hey Brian, if you read this, accept my posts, please!  Or let me know if there is a bug &#8212; with the software or me!). I am not sure if this is a bug or not, as other posts have been posted and it is difficult to know if there is something that is keeping my posts from being published.  I know I can be a troll, but what I said wasn&#8217;t too offensive (I hope! LOL).
+
+**(EDIT**: Brian is not obsessed with his blog as I am and has indeed accepted my comments after a few busy days of being a VP of one of the biggest technology companies in the world.  Lesson here: a little patience goes a long way.)
+
+In Windows Blog, if you post a comment with two links it goes into moderation (and Windows Blog is <span style="text-decoration: underline;"><em><strong>terrible</strong> </em></span>with their moderation process &#8212; again, do you not care?), but posting one link is OK.  I am not sure how that would deter a spammer.  Also, I have noticed that I have posted a comment on Windows Blog, only to return to find it gone/missing.  I will post it again and it will be there.  BUGGY!  I have gotten in the habit of copy/pasting my comments for Windows Blog when I post so that I do not run into these types of (unnecessary) problems.  I hope the same is not the case for the new MSDN blog system.
+
+To summarize the ugly alternative:
+
+  * Poor sign-in experience and profile system.
+  * Static, read-only posts
+  * Cumbersome moderation process
+  * Broken notifications
+  * Buggy / Easy to troll
+  * No up/down voting
+
+### The Excellence of Azure
+
+While I am touching this subject, I do have to give the Azure group a little (OK a LOT) of love and say that I consider them the top group in MSFT at the moment.  It really feels like they know what they are doing, and it is showing in the way the conduct business, and in the quarterly reports.  I have also found their developer engagement to be _outstanding_.  They really like to hear what your feedback and they are almost (if not outright) fanatical about it.  We are talking warm and fuzzies here.
+
+Part of how they go about doing this is with the assistance of &#8212; SURPRISE! &#8212; Disqus as their blogging commenting system.  They are not only <a href="https://azure.microsoft.com/en-us/blog/" target="_blank">prolific and voluminous with their blog posts</a>, but they definitely read the comments that developers leave _and engage them when they do_.  In fact, I have had a few upvotes from the Azure crew and that has made my day.  To me, when paired with meaningful, constructive discussion and dialogue, that is what developer engagement is all about.
+
+Also, one thing I have noticed with the Azure blog as opposed to Windows Blog is that they are FAST.  If you post a comment/question/concern, you will usually get a reply within the day, if not a few hours.  As opposed with the Windows Blog, where it will take a day or so &#8212; if you are lucky.  Again, with Azure, when a reply does occur, I get an email and an update via Disqus.  With Windows Blog, its notification system is broken, so I have to check back every couple hours (or days) to see what has occurred &#8212; if anything (and with Windows Blog, nothing really occurs there it seems &#8212; again, do they care?).
+
+It should be no surprise that these factors give me a much higher and better impression of Azure and its organization over the rest of Microsoft when it comes to developer engagement.  Additionally, I will say that Visual Studio and Visual Studio Team Services are tied with Azure as the best organization, but Disqus is the differentiating factor between the two at present that is breaking that tie, placing Azure as top dog.
+
+### Vote to Improve Developer Engagement
+
+If you would like to see the Visual Studio and Visual Studio Team Services replace their current commenting system with Disqus, please vote here:
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/11720967-improve-visual-studio-msdn-blog-commenting-system" target="_blank"> 
+  
+  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div>
+  
+  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div>
+
+If you would like to see the Windows Blog replace its current commenting system with Disqus, please vote here:
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+  <a class="w-inline-block top-lighting" href="https://wpdev.uservoice.com/forums/110705-universal-windows-platform/suggestions/11721291-improve-windows-blog-commenting-system-and-develo" target="_blank"> 
+  
+  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div>
+  
+  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div>
+
+Thank you all for your consideration, support, and dialogue!

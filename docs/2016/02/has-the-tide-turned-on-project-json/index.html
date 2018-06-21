@@ -1,0 +1,295 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Is the Tide Turning on project.json? &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  
+  <meta name="generator" content="Hugo 0.41" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		
+        <li><a href="https://www.facebook.com/RunSuperDotNet"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+         
+		
+        <li><a href="https://twitter.com/RunSuperDotNet"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			
+			<li><a href="https://gitter.im/SuperDotNet/Lobby"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			Developers Win! is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/">Learn More</a> or <a href="/categories/developers-win/">Browse</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>Is the Tide Turning on project.json?</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2016-02-11T13:52:22Z">Feb 11, 2016</time>
+			
+			&nbsp; &middot; &nbsp;
+			4 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/developers-win/">Developers-Win</a>
+                
+                    , 
+                    <a href="/categories/general/">General</a>
+                
+            </em>
+        </li>
+        
+
+                
+    </ul>
+</aside>
+    
+
+    
+
+<h3 id="a-href-https-i-ytimg-com-vi-1ikgj5ghgm4-hqdefault-jpg-target-blank-wat-a-want"><a href="https://i.ytimg.com/vi/1IkGj5Ghgm4/hqdefault.jpg" target="_blank">Wat</a> Want?</h3>
+
+<p>I am not exactly a fan of the new project.json initiative underway between the Visual Studio and ASP.NET Core rewrite.  In fact, I have been so concerned with it that <strong><a href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/9347001-improve-reboot-visual-studio-project-system" target="_blank">I have created a vote to change this very issue along with other latent misgivings in the Visual Studio project system</a></strong>.</p>
+
+<h3 id="a-href-http-littlefun-org-uploads-521121d3c856117929000000-736-jpg-target-blank-wat-a-wrong"><a href="http://littlefun.org/uploads/521121d3c856117929000000_736.jpg" target="_blank">Wat</a> Wrong?</h3>
+
+<p><a href="http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file" target="_blank">The JSON specification simply does not support comments within its documents</a>, a fact (read: oversight) that seems to have escaped the ASP.NET Core team in their analysis of JSON the format of choice to serialize their new project initiative.</p>
+
+<h3 id="so-8230-a-href-http-i-imgur-com-axtzzik-gif-target-blank-wat-a">So&#8230; <a href="http://i.imgur.com/AxtzziK.gif" target="_blank">Wat</a>?</h3>
+
+<p>Recently someone posted <a href="https://twitter.com/joewalnes/status/696765701059670016" target="_blank">a very sane and reality-based Tweet stating that JSON files should NOT be used for configuration, schemas, etc</a>. Hallelujah!  I am not some mad man wandering alone in this wilderness after all.</p>
+
+<h3 id="xml"> Xml?</h3>
+
+<p>In response to that tweet, other <a href="https://twitter.com/mkristensen/status/696767036559503360" target="_blank">MSFT developers have jumped in and have tried to defend the questionable</a> &#8212; and inexplicable from the Microsoft IP perspective, as I explain in a bit &#8212; decision to pursue JSON over other formats.  In fact, a good number of developers (<a href="http://developers.win/visualstudio" target="_blank">as you can see from the vote I am promoting here</a>) prefer other formats such as <a href="https://twitter.com/ploeh/status/697309003936882688" target="_blank">XML, the mature serialization technology</a> to represent their data.</p>
+
+<p>Now, there are many data formats out there, and <a href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020525-enable-roslyn-powered-data-asts-and-data-views">that is something that should definitely be accounted for in future versions of tooling</a>.  However, none of these formats are as powerful <em>and native</em> to Microsoft developers as Xaml.</p>
+
+<h3 id="xaml">XAML?!</h3>
+
+<p>Yes, Xaml. A <strong>Microsoft-</strong>created, supported, and mature _serialization and object-description_ language used in basically every major Microsoft group with the exception of &#8230; well, ASP.NET and <a href="https://github.com/dotnet/corefx/issues/5766" target="_blank">.NET Core</a>.  To start with here, Xaml stands for eXtensible <em><strong>Application</strong></em> Markup Language.  Why, from the sounds of it, defining a new project structure is perfect for this!  In fact, you can define an <em>entire application</em> in Xaml if you are so inclined (see: the <strong>A</strong> in X<strong>a</strong>ml).  Xaml can be used to describe <strong>any</strong> _<a href="https://en.wikipedia.org/wiki/Plain_Old_CLR_Object" target="_blank">POCO</a>_ you wish, not just user interface elements.</p>
+
+<div id="attachment_612" style="width: 500px" class="wp-caption aligncenter">
+  <img class="size-full wp-image-612" src="/wp-content/uploads/2016/02/h6ho21.jpg" alt="The moment you realize you can use Xaml for more than just User Interfaces" width="490" height="266" srcset="/wp-content/uploads/2016/02/h6ho21.jpg 490w, /wp-content/uploads/2016/02/h6ho21-300x163.jpg 300w" sizes="(max-width: 490px) 100vw, 490px" />
+  
+  <p class="wp-caption-text">
+    The moment you realize you can use Xaml for more than just User Interfaces
+  </p>
+</div>
+
+<p>As any example, you can see this screenshot of the <a href="https://github.com/DevelopersWin/VoteReporter" target="_blank">Console Application</a> &#8212; yes, <em>a</em> _<strong><a href="https://github.com/DevelopersWin/VoteReporter" target="_blank">Console Application</a></strong> described in <strong><a href="https://github.com/DevelopersWin/VoteReporter/blob/master/DevelopersWin.VoteReporter.Application/Program.xaml" target="_blank">Xaml</a></strong>_ &#8212;  that is used here at <a href="http://developers.win" target="_blank">Developer Wins!</a> to build <a href="/category/weekly-vote-reports/">the weekly vote reports deployed every Friday morning</a>:</p>
+
+<div id="attachment_613" style="width: 310px" class="wp-caption aligncenter">
+  <a href="/wp-content/uploads/2016/02/2016-02-11_06221.png"><img class="wp-image-613 size-medium" src="/wp-content/uploads/2016/02/2016-02-11_06221-300x139.png" alt="Xaml-Described Console Application" width="300" height="139" srcset="/wp-content/uploads/2016/02/2016-02-11_06221-300x139.png 300w, /wp-content/uploads/2016/02/2016-02-11_06221-768x355.png 768w, /wp-content/uploads/2016/02/2016-02-11_06221-1024x473.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  
+  <p class="wp-caption-text">
+    Xaml-Described Console Application
+  </p>
+</div>
+
+<p>It is a small jump from here to see that Xaml can be used to support a new project structure altogether (and the effort would be minimal, considering the vast resources that have been placed in the new project.json structure already).  <em>Again, the tooling is already in place and is mature.</em></p>
+
+<p>To summarize, Xaml is:</p>
+
+<ul>
+<li>An eXtensible <strong>Application</strong> Markup Language (bears repeating)</li>
+<li>Class-driven schema model (no need to create &#8220;yet another artifact&#8221; to describe the item you are describing &#8212; the class that you have <strong>already created</strong> _is_ the schema.)</li>
+<li>Extremely powerful serialization model</li>
+<li><strong><em>A Microsoft property and invention</em></strong></li>
+<li>Designer-friendly</li>
+<li>Mature (nearly a decade old)</li>
+</ul>
+
+<h3 id="value-ip-intellectual-property">Value IP (Intellectual Property)</h3>
+
+<p>Much like how the <a href="/2016/02/the-backwards-windows-platform-bridges-the-business-problem/">Windows Platform group is harming the value of its owns developers by building a backwards bridge from iOS into Windows</a>, the ASP.NET Core group is ultimately harming Microsoft&#8217;s IP portfolio by choosing another external document format standard over one that already works within its technological capabilities.  Don&#8217;t get me wrong (too late, I know, haha!), I am all for adopting open standards, and the ASP.NET group &#8212; along with the Edge group &#8212; <em>have done a remarkable job in doing just that</em>.  However, in this case, this certainly requires some additional review and consideration, especially when the way that they are <a href="http://stackoverflow.com/questions/244777/can-i-use-comments-inside-a-json-file" target="_blank">utilizing a document format is violating the very standards they are trying to uphold</a>.</p>
+
+<h3 id="scheduling-and-effort">Scheduling and Effort</h3>
+
+<p>Finally, the last consideration here is scheduling and effort.  Look at all the effort being placed into this new project system and the serious overlap of existing functionality with existing MSBuild and *proj files.  Look at all the effort put into the new tooling for intellisense and schema.  If Xaml was leveraged instead, minimal effort would have been put into update the tooling to play with the new bits (this is talking from the Visual Studio IDE and not Visual Studio Code perspective), and <a href="https://blogs.msdn.microsoft.com/webdev/2016/02/01/an-update-on-asp-net-core-and-net-core/" target="_blank">we would probably get less blog posts about how schedules are slipping</a>.</p>
+
+<h3 id="show-your-support">Show Your Support</h3>
+
+<p>If you agree with me and would like to see Microsoft reconsider its current path in its project.json initiative, please show your support here:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/9347001-improve-reboot-visual-studio-project-system" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2016/02/the-net-to-nodejs-exodus-sound-off/"><i class="fa fa-chevron-circle-left"></i> The .NET Exodus to NodeJS: Sound Off</a>
+        </li>
+        
+        
+        <li>
+            <a href="/2016/02/how-nodejs-is-dominating-net-in-3-easy-charts/">How NodeJS Is Dominating .NET in 3 Easy Charts <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+</body>
+
+</html>

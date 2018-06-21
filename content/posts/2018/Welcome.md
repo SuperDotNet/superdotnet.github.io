@@ -16,7 +16,11 @@ If you have a blog or are a student of design, do yourself a favor and check out
 
 And no, I have not swung over into the land of [Go](https://golang.org/), but I am certainly a fan, and hope to [incorporate some of its elegant magic](https://en.wikipedia.org/wiki/Ren%C3%A9_Girard#Mimetic_desire) into my efforts with Super.NET.
 
-#### Developers... won?
+#### Browse Developers Win! Archive
+
+Before I get into the why and how, if you would like to browse the old archive of Developers Win! postings, you can [do that here](/categories/developers-win/).
+
+#### So The Developers... won?
 
 In October 2015, I created an experimental site that aimed to bring to the attention of [MSFT](/2018/06/msft-vs-ms/) several issues that I felt were important.  There were about a dozen votes in total.  [Only one gained significant traction](https://visualstudio.uservoice.com/forums/121579-visual-studio-ide/suggestions/10027638-create-a-ubiquitous-net-client-application-develo) and that is now the focus of my efforts here in Super.NET.  You can read more about those efforts [here](https://superdotnet.run).
 

@@ -1,0 +1,263 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Thoughts on //build 2018 and Why ScottGu Should be MSFT CEO &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  
+  <meta name="generator" content="Hugo 0.41" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		
+        <li><a href="https://www.facebook.com/RunSuperDotNet"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+         
+		
+        <li><a href="https://twitter.com/RunSuperDotNet"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			
+			<li><a href="https://gitter.im/SuperDotNet/Lobby"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			Developers Win! is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/">Learn More</a> or <a href="/categories/developers-win/">Browse</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>Thoughts on //build 2018 and Why ScottGu Should be MSFT CEO</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2018-05-18T16:44:34Z">May 18, 2018</time>
+			
+			&nbsp; &middot; &nbsp;
+			5 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/developers-win/">Developers-Win</a>
+                
+                    , 
+                    <a href="/categories/general/">General</a>
+                
+            </em>
+        </li>
+        
+
+                
+    </ul>
+</aside>
+    
+
+    
+
+<h3 id="brushing-off-the-dust">Brushing Off the Dust</h3>
+
+<p>Alright, a lot has been happening in the world lately and I have felt the need to brush off this blog and share some thoughts of mine that have collected over the past few months and weeks.  I&#8217;m going to start here with //build 2018.</p>
+
+<p>In //build 2018, we learned that current Microsoft CEO Satya Nadella could <a href="https://mediusprodstatic.azureedge.net/asset-107fb7a6-6667-4750-98be-2c38771a05a1/115142_Build_FY18_SatyaKeynote_5000.mp4?sv=2014-02-14&sr=c&sig=FNJoTDePSlIMmXFC70q28BA4BbaoHHIArAdZJ%2BeTLnw%3D&se=2019-05-08T22%3A55%3A59Z&sp=r" target="_blank" rel="noopener">say the word &#8220;ubiquitous&#8221;</a> but not really in a way <a href="https://visualstudio.uservoice.com/forums/121579-visual-studio-ide/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank" rel="noopener">that developers have been asking for years now</a>.   I&#8217;m being cynical, of course.  I am sure there are lots of innovations in AI and A/VR and all that other jazz that will be successful in their own right.  It doesn&#8217;t get me all that excited or &#8212; more importantly &#8212; <em>inspired</em>, however.</p>
+
+<p>What inspires me is good ol&#8217; fashioned application development and the powerful <em>business value</em> that manifests as a result, and that brings me to my favorite part from what I saw out of //build 2018.</p>
+
+<p>The moment I am referring to occurred during Scott Guthrie&#8217;s keynote on Day One.  In this particular case, <a href="https://www.hanselman.com/blog/" target="_blank" rel="noopener">Scott Hanselman</a> was providing a demonstration with the new Azure Kubernetes Service development experience with Visual Studio.  It actually really doesn&#8217;t matter what was being demonstrated, <a href="https://mediusprodstatic.azureedge.net/asset-33368cb8-5860-45a1-81f4-4371731f997a/115142_Build_FY18_ScottGuthrie_5000.mp4?sv=2014-02-14&sr=c&sig=fIiAQ0jJBHFki0UO71ZMcOqKvjhBaAelSmOz3ue%2Fldg%3D&se=2019-05-08T22%3A55%3A54Z&sp=r" target="_blank" rel="noopener">but that around six minutes into his demonstration</a>, Scott (Hanselman 😊)&#8217;s microphone experienced technical difficulties, and as a result, he was handed another microphone that was a little more old school and, consequently, awkward to use.</p>
+
+<p>At this point, Scott Hanselman struggles to handle the new microphone to continue the demonstration.  It is then that we can see a hero swooping in for the rescue and it&#8217;s &#8212; who else? &#8212; none other than ScottGu with his iconic red shirt and a quip to boot.</p>
+
+<h3 id="8220-let-me-add-some-value-8221">&#8220;Let me add some value.&#8221;</h3>
+
+<div id="attachment_848" style="width: 778px" class="wp-caption aligncenter">
+  <a href="/wp-content/uploads/2018/05/Value.jpg"><img class="wp-image-848" src="/wp-content/uploads/2018/05/Value-1024x559.jpg" alt="Adding Value" width="768" height="419" srcset="/wp-content/uploads/2018/05/Value-1024x559.jpg 1024w, /wp-content/uploads/2018/05/Value-300x164.jpg 300w, /wp-content/uploads/2018/05/Value-768x419.jpg 768w" sizes="(max-width: 768px) 100vw, 768px" /></a>
+  
+  <p class="wp-caption-text">
+    ScottGu seen here adding some value as he has for MSFT for many years now.
+  </p>
+</div>
+
+<p>ScottGu was quick on his feet and offered a funny quip in response to Scott Hanselman&#8217;s misfortune.  The room rightly responded in laughs and cheers.  But what he said was, I thought, an allegory for the current state of Microsoft.  And, if I may put on my armchair psychologist hat (you have yours, right?), gave a little insight into ScottGu&#8217;s approach and default posture when faced with problems, and consequently shows why he has been so successful since having been given the reins to Azure over seven years ago.</p>
+
+<p>Let&#8217;s not forget that MSFT is a business (this is why I usually use its stock ticker when referencing it, and <em>not</em> MS &#8212; <a href="https://imgflip.com/i/1ruyks" target="_blank" rel="noopener">which is a disease</a>), and its purpose is to make money to reward the stock holders that invest in it.  Investments made today should, over time, compound on an annual basis to provide these investors a return on their investment so that they can, in turn, <em>invest even more</em>.  This return on investment is fundamentally driven by successfully identifying and providing <em>value</em> to a demanding, insatiable marketplace.</p>
+
+<p>ScottGu gets this on a fundamental level, but also at an operational level.  Other EVPs, VPs, and executives get this too, of course, but do they get it <em>with as much success</em> as ScottGu?  Ever since being put in charge of Microsoft Azure, it is by far and away the greatest reason why MSFT stock is of any value these days and continues to attract investment.  In fact, if you will recall, Microsoft Azure used to be called <em>Windows</em> Azure.  Windows has now practically taken a back seat and got very little attention at //build 2018.  It is safe to say that it&#8217;s all about the cloud now, baby.  In my view, all this success can be attributed to ScottGu and it&#8217;s worth a further exploration into why.</p>
+
+<h3 id="historical-value">Historical Value</h3>
+
+<p>Now, you might be questioning why, out of three full days of //build, that I might be locked in on this little moment when <em>so many other</em> announcements were made?  I admit I am a little biased here.  I also admit that I find both Scotts on stage to be very entertaining and interesting to me, so this moment to me was especially fun.  I will also further say that not much has been announced these past few years that have gotten me much interested or excited.  Call me salty for still not recognizing Silverlight&#8217;s heir replacement seven years after its death, and acting as such.</p>
+
+<p>But, much like Silverlight, I have invested my own time in following ScottGu over the years, starting from when he overwhelmingly earned his developer cred by documenting and writing the most prolific of blog posts explaining the basics of Microsoft application development at the time, and Silverlight application development in particular.  If you have not ever absorbed these gems of historical record, do yourself a favor and do it right now for your own good!  <a href="https://weblogs.asp.net/scottgu/silverlight-4-tools-for-vs-2010-and-wcf-ria-services-released" target="_blank" rel="noopener"> You can start out with this fine example</a>.  <a href="https://weblogs.asp.net/scottgu/" target="_blank" rel="noopener">ScottGu&#8217;s blog</a> is peppered with these incredibly valuable posts.  <a href="https://weblogs.asp.net/scottgu/Tags/Silverlight" target="_blank" rel="noopener">Here&#8217;s a starting point to get you on your way if you are interested for more</a>.</p>
+
+<p>It&#8217;s safe to say that ScottGu has been providing and adding value to Microsoft for as long as we can all remember, particularly for application developers.  You have to wonder now, what he would do for the <em>value</em> of MSFT stock if he were able to oversee the entire organization and run the remaining struggling divisions with the success that he does with Microsoft Azure.</p>
+
+<p>If Scott Hanselman represents that remaining, struggling Microsoft ecosystem, then ScottGu is its savior, identifying and providing the much-needed _value_ that the marketplace demands.</p>
+
+<div id="attachment_860" style="width: 510px" class="wp-caption aligncenter">
+  <a href="http://www.cc.com/shows/kroll-show"><img class="wp-image-860 size-full" src="/wp-content/uploads/2018/05/artworks-000076719471-7rnumn-t500x500.jpg" alt="" width="500" height="500" srcset="/wp-content/uploads/2018/05/artworks-000076719471-7rnumn-t500x500.jpg 500w, /wp-content/uploads/2018/05/artworks-000076719471-7rnumn-t500x500-150x150.jpg 150w, /wp-content/uploads/2018/05/artworks-000076719471-7rnumn-t500x500-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+  
+  <p class="wp-caption-text">
+    Good at Bizness
+  </p>
+</div>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2017/06/where-are-the-vote-reports/"><i class="fa fa-chevron-circle-left"></i> Where Are the Vote Reports?</a>
+        </li>
+        
+        
+        <li>
+            <a href="/2018/05/investigating-weird-result-times-in-benchmark-net/">Investigating Weird Result Times in Benchmark.NET <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+</body>
+
+</html>

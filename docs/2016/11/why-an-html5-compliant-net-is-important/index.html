@@ -1,0 +1,346 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Why an HTML5-Compliant .NET is Important &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  
+  <meta name="generator" content="Hugo 0.41" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		
+        <li><a href="https://www.facebook.com/RunSuperDotNet"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+         
+		
+        <li><a href="https://twitter.com/RunSuperDotNet"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			
+			<li><a href="https://gitter.im/SuperDotNet/Lobby"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			Developers Win! is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/">Learn More</a> or <a href="/categories/developers-win/">Browse</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>Why an HTML5-Compliant .NET is Important</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2016-11-01T17:33:33Z">Nov 1, 2016</time>
+			
+			&nbsp; &middot; &nbsp;
+			4 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/developers-win/">Developers-Win</a>
+                
+                    , 
+                    <a href="/categories/general/">General</a>
+                
+            </em>
+        </li>
+        
+
+                
+    </ul>
+</aside>
+    
+
+    
+
+<h3 id="tl-dr-vote">TL;DR: Vote!</h3>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+<h3 id="exploring-an-html5-compliant-net">Exploring an HTML5-Compliant .NET</h3>
+
+<p>I recently got a <a href="http://forums.dotnetfoundation.org/t/cross-platform-wpf/421/109" target="_blank">good question on the .NET Foundation Forums </a>in regard to why I (<a href="https://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank">and nearly 5,200 other votes as of this writing</a>) feel so strongly about having an HTML5-compliant .NET (that is, a .NET runtime that runs within a browser process).  I attempted to answer the question <a href="http://forums.dotnetfoundation.org/t/cross-platform-wpf/421/110" target="_blank">here</a> and <a href="http://forums.dotnetfoundation.org/t/cross-platform-wpf/421/111" target="_blank">here</a>.  However, another point has emerged that has been nagging at me that I wanted to share.  So, rather than pollute the great thread there (seriously, do yourself a favor and <a href="http://forums.dotnetfoundation.org/t/cross-platform-wpf/421" target="_blank">read the entire thing</a>) with yet another post, I decided to make a quick post here instead.  Besides, I haven&#8217;t really posted here in a while and it is probably way past time to dust this thing off.</p>
+
+<h3 id="creating-an-ubiquitous-application-pre-xamarin">Creating an Ubiquitous Application: Pre-Xamarin</h3>
+
+<p>Let&#8217;s say we want to create an application with maximum market reach, meaning we want it to reach as many devices as possible in today&#8217;s current marketplace.  At a minimum we will need:</p>
+
+<ul>
+<li>Server (to host our APIs, services, and backend infrastructure code).</li>
+<li>iOS native application</li>
+<li>Droid native application</li>
+<li>Windows native application</li>
+<li>Website (really a web &#8220;application&#8221;)</li>
+</ul>
+
+<p>Each of these require a codebase to operate.  Before the acquisition of Xamarin, to do this in .NET, you would use (with languages):</p>
+
+<ul>
+<li>Server: .NET/C# (Serves 100% of the market of modern devices)</li>
+<li>iOS: Objective-C (Roughly 50% of the market)</li>
+<li>Droid: Java (Roughly 50% of the market)</li>
+<li>Windows: .NET/C# (Roughly 30% of the market)</li>
+<li>Web Application: JavaScript (100% of the market)</li>
+</ul>
+
+<p>Let&#8217;s say for an entire year, each codebase within your solution would cost $100k &#8212; <em>per language used</em>.  This cost consideration is <em><strong>very rough estimate</strong></em> from a small business perspective and includes:</p>
+
+<ol>
+<li>Acquiring the developer/resource necessary to code in that particular language</li>
+<li>The cost to develop the code</li>
+<li>The cost to maintain the code after it has been developed</li>
+</ol>
+
+<p>Again this is <em>per language</em> as each language <em>is incompatible and cannot be shared between the other</em>.  Using the setup above, we can combine the efforts in the Server and Windows as they both share the same language (.NET/C#) and can <a href="/2015/10/the-broken-burned-bridge/"><em>therefore share code between the two</em></a>.</p>
+
+<p>So, our TCO breakdown would now look like (pivoting on technology used):</p>
+
+<ul>
+<li>.NET/C#: ~$100k
+
+<ul>
+<li>Server</li>
+<li>Windows native application</li>
+</ul></li>
+<li>Objective-C: ~$100k
+
+<ul>
+<li>iOS native application</li>
+</ul></li>
+<li>Java: ~$100k
+
+<ul>
+<li>Droid native application</li>
+</ul></li>
+<li>JavaScript: ~$100k
+
+<ul>
+<li>Web application</li>
+</ul></li>
+</ul>
+
+<p><strong>Estimated Total Annual Cost of Ownership: ~$400k</strong></p>
+
+<h3 id="post-xamarin-acquisition">Post-Xamarin Acquisition</h3>
+
+<p>The above of course does not consider the Xamarin acquisition from last year.  Microsoft did the right thing here, not just from the technology perspective, but from the business and cost perspective.  Now our TCO breakdown looks like this when considering Xamarin in a .NET solution:</p>
+
+<ul>
+<li>.NET/C#: ~$100k
+
+<ul>
+<li>Server</li>
+<li>iOS application (Xamarin)</li>
+<li>Droid (Xamarin)</li>
+<li>Windows native application (UWP)</li>
+</ul></li>
+<li>JavaScript: ~$100k
+
+<ul>
+<li>Web application</li>
+</ul></li>
+</ul>
+
+<p><strong>Estimated Total Annual Cost of Ownership: ~$200k</strong></p>
+
+<p>Getting better, right?  Well, it is.  <em>We have effectively halved our TCO</em>.  Good work, everybody, pat yourselves on the back!  However, we can do better, right?  As a savvy small business owner, we have to consider <strong>all</strong> possible options and <em>especially those that can save us even more money</em>.  If we now take the perspective of said business owner who is <em>technology-agnostic</em> and not tied to a particular stack (read: has not drank the MSFT koolaid), we can now consider <em>maximizing our investment</em> with any technology available that also attains our desired market reach.  This means comparing costs between .NET (above) and also JavaScript.  So, let&#8217;s compare the above with a JavaScript-based solution:</p>
+
+<ul>
+<li>JavaScript: ~$100k
+
+<ul>
+<li>Server (<a href="http://nodejs.org" target="_blank">NodeJS</a>)</li>
+<li>iOS application (Cordova / <a href="http://searchcloudapplications.techtarget.com/podcast/NativeScript-framework-eases-cross-platform-app-development-woes" target="_blank">NativeScript</a> / <a href="https://www.smashingmagazine.com/2016/08/a-glimpse-into-the-future-with-react-native-for-web/" target="_blank">React Native</a>)</li>
+<li>Droid application (Cordova / NativeScript / React Native)</li>
+<li>Windows application (Cordova / NativeScript / React Native/ or even <a href="https://developer.microsoft.com/en-us/windows/bridges/hosted-web-apps" target="_blank">Windows Hosted Webapps</a>)</li>
+<li>Web application (JavaScript&#8217;s/HTML5&#8217;s native environment, baby!)</li>
+</ul></li>
+</ul>
+
+<p><strong>Estimated Total Annual Cost of Ownership: ~$100k (!)</strong></p>
+
+<h3 id="it-8217-s-just-business">It&#8217;s Just Business</h3>
+
+<p>So again, each of these $100k blocks are rough estimates, but you can now see we are dealing with a roughly <strong>$200k .NET/JavaScript Annual TCO</strong> vs. <strong>$100k JavaScript Annual TCO</strong>.  As a technology-agnostic small business owner who has a, say, $250k annual budget, which approach makes the most sense to you?</p>
+
+<div style="width: 510px" class="wp-caption alignnone">
+  <a href="http://www.cc.com/shows/kroll-show" target="_blank"><img src="https://i1.sndcdn.com/artworks-000076719471-7rnumn-t500x500.jpg" alt="Good at Bizness" width="500" height="500" /></a>
+  
+  <p class="wp-caption-text">
+    Good at Bizness
+  </p>
+</div>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2016/10/weekly-vote-report-for-friday-october-28-2016/"><i class="fa fa-chevron-circle-left"></i> Weekly Vote Report for Friday, October 28, 2016</a>
+        </li>
+        
+        
+        <li>
+            <a href="/2016/11/weekly-vote-report-for-friday-november-4-2016/">Weekly Vote Report for Friday, November 4, 2016 <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,372 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>Roslyn-Powered Code Views &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  
+  <meta name="generator" content="Hugo 0.41" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		
+        <li><a href="https://www.facebook.com/RunSuperDotNet"><i class="fab fa-facebook fa-lg" aria-hidden="true"></i></a></li>
+         
+		
+        <li><a href="https://twitter.com/RunSuperDotNet"><i class="fab fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			
+			<li><a href="https://gitter.im/SuperDotNet/Lobby"><i class="fab fa-gitter fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			Developers Win! is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/">Learn More</a> or <a href="/categories/developers-win/">Browse</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>Roslyn-Powered Code Views</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2015-10-01T21:49:19Z">Oct 1, 2015</time>
+			
+			&nbsp; &middot; &nbsp;
+			5 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/developers-win/">Developers-Win</a>
+                
+                    , 
+                    <a href="/categories/general/">General</a>
+                
+            </em>
+        </li>
+        
+
+                
+    </ul>
+</aside>
+    
+
+    
+
+<h3 id="tl-dr-vote">TL;DR: VOTE!</h3>
+
+<p>This post exists to build support around the idea of Roslyn-Powered Code Views. This is not intended to be a final solution, but a starting point for discussion, awareness, and a sign of demand. Show your support by voting for this idea here:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020390-enable-roslyn-powered-code-views" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+<p>In this article, we explore the Visual Studio feature idea of what we are calling <em>Code Views,</em> and is an idea that can now be made possible with the advent of <a href="https://github.com/dotnet/roslyn" target="_blank">Roslyn</a>.</p>
+
+<h3 id="stylecop">StyleCop</h3>
+
+<div id="attachment_327" style="width: 500px" class="wp-caption aligncenter">
+  <a href="/wp-content/uploads/2015/09/ielz0.jpg"><img class="size-full wp-image-327" src="/wp-content/uploads/2015/09/ielz0.jpg" alt="The moment you realize that StyleCop is a File Format" width="490" height="266" srcset="/wp-content/uploads/2015/09/ielz0.jpg 490w, /wp-content/uploads/2015/09/ielz0-300x163.jpg 300w" sizes="(max-width: 490px) 100vw, 490px" /></a>
+  
+  <p class="wp-caption-text">
+    The moment you realize&#8230;
+  </p>
+</div>
+
+<p>The nature of the problem we are attempting to solve revolves around a product known as <a href="https://stylecop.codeplex.com/" target="_blank">StyleCop</a>.  A code file is considered compliant when it satisfies all of StyleCop&#8217;s many (many!) arbitrary rules revolving around its definition of code style.  To dig a little further, the problem isn&#8217;t StyleCop&#8217;s fault <em>per se</em>, but rather the problem that it attempts to solve in that of a standardized style for code within projects.</p>
+
+<h3 id="eye-of-the-developer">Eye of the Developer</h3>
+
+<p>StyleCop works wonderfully when you agree with all of its rules.  However, in practice you will find that is hardly the case.  The core problem with StyleCop&#8217;s approach is that it is attempting to place constrained limits on style, which is ultimately a very subjective quality.  Developers are incredibly creative individuals, and with that creativity comes strong opinions on a wide variety of matters, not the least of which is how to format the code that they create.</p>
+
+<p>StyleCop&#8217;s view of style is just of one standard way of looking at code.  Furthermore &#8212; as you would expect for a subjective quality, as style is &#8212; many developers and organizations disagree with the (many) different rules of what StyleCop decrees and ultimately enforces.</p>
+
+<p><em>The result of using StyleCop is that individual developers lose the freedom to design their code in a manner that they wish to design it.</em></p>
+
+<h3 id="team-environments">Team Environments</h3>
+
+<p>This problem is not isolated to projects utilizing StyleCop.  Any developer who has worked in team environments know the pain of debating tabs vs. spaces or what line to place the opening brace.  These are all matter of style, and by agreeing to a &#8220;standard&#8221; style, ultimately one member&#8217;s definition of this style is what is enforced on all other members in the group &#8212; whether they like it or not.  Most developers simply go along for the sake of team unity.  Others will cause derision throughout a project&#8217;s lifetime by use of passive-aggressive commentary and thoughts behind the decided style.  Anyone who has been a part of such environment knows and understands the pain encountered here.</p>
+
+<h3 id="enter-code-views">Enter Code Views</h3>
+
+<p>Roslyn-powered Code Views would solve this problem.  With Code Views, Roslyn first loads code in as an <a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree" target="_blank">AST</a> as it always does, but when it displays the code to the developer, it does so through a Code Formatting Profile that is configured to the developer&#8217;s preferences.  The developer then works in an AST that configured and presented precisely how they prefer it, maximizing their efficiency (and creativity).</p>
+
+<div id="attachment_311" style="width: 668px" class="wp-caption aligncenter">
+  <a href="/wp-content/uploads/2015/09/Open.png"><img class="wp-image-311 size-full" src="/wp-content/uploads/2015/09/Open.png" alt="Code Views: Opening a File" width="658" height="134" srcset="/wp-content/uploads/2015/09/Open.png 658w, /wp-content/uploads/2015/09/Open-300x61.png 300w" sizes="(max-width: 658px) 100vw, 658px" /></a>
+  
+  <p class="wp-caption-text">
+    Code Views: Opening a File
+  </p>
+</div>
+
+<p>When the developer saves the file, the current Code View is then composed into a Roslyn AST, all known (configured) StyleCop rules are applied to it, and then saved back into the source code file, which should be 100% StyleCop-compliant.  The results of which could be checked-in to source control to the delight of all its members.</p>
+
+<div id="attachment_308" style="width: 751px" class="wp-caption aligncenter">
+  <a href="/wp-content/uploads/2015/09/Save.png"><img class="wp-image-308 size-full" title="Code Views: Saving a File" src="/wp-content/uploads/2015/09/Save.png" alt="Code Views: Saving a File" width="741" height="174" srcset="/wp-content/uploads/2015/09/Save.png 741w, /wp-content/uploads/2015/09/Save-300x70.png 300w" sizes="(max-width: 741px) 100vw, 741px" /></a>
+  
+  <p class="wp-caption-text">
+    Code Views: Saving a File
+  </p>
+</div>
+
+<h3 id="example-symbols-and-format">Example Symbols and Format</h3>
+
+<p>To showcase some important concepts here.  Consider the following 100%-compliant StyleCop C# file:</p>
+
+<pre class="EnlighterJSRAW" data-enlighter-language="csharp">//-----------------------------------------------------------------------
+// &lt;copyright file="Class1.cs" company="CompanyName"&gt;
+//     Company copyright tag.
+// &lt;/copyright&gt;
+//-----------------------------------------------------------------------
+namespace ClassLibrary2
+{
+    using System;
+ 
+    /// &lt;summary&gt;
+    /// Placeholder text for Class1
+    /// &lt;/summary&gt;
+    public class Class1
+    {
+        /// &lt;summary&gt;
+        /// Placeholder documentation 
+        /// &lt;/summary&gt;
+        private int field;
+ 
+        /// &lt;summary&gt;
+        /// Placeholder text for method
+        /// &lt;/summary&gt;
+        /// &lt;param name="parameter"&gt;This is a description for parameter&lt;/param&gt;
+        public void Method(int parameter)
+        {
+            var total = this.field = parameter;
+            Console.WriteLine($"Hello World: {total}");
+        }
+    }
+}</pre>
+
+<p>Now consider this same file as loaded and viewed after a theoretical Code Formatting Profile has been applied to it:</p>
+
+<pre class="EnlighterJSRAW" data-enlighter-language="csharp">using System;
+ 
+namespace ClassLibrary2
+{
+    public class Class1
+    {
+        int _field;
+ 
+        public void Method( int parameter )
+        {
+            var total = _field = parameter;
+            Console.WriteLine( $"Hello World: {total}" );
+        }
+    }
+}</pre>
+
+<p>Hopefully you can see all the adjustments made by the Code Formatting Profile.  It is configured to:</p>
+
+<ol>
+<li>Put using statements at the top of the file, rather than within the namespace.</li>
+<li>Start field names with underscores (you can imagine other profiles as even enabling Hungarian notation).</li>
+<li>Not use the &#8220;this.&#8221; qualifier.</li>
+<li>Not qualify private members with the &#8220;private&#8221; keyword.</li>
+<li>Put inner spacing around parenthesis (to let code &#8220;breathe&#8221;).</li>
+<li>Use tabs instead of spaces (unfortunately the highlighter used for the code above does not preserve this).</li>
+<li>Hide documentation.  Some developers feel English and XML get in the way of the only language that actually matters: C#.  Of course, enabling and viewing documentation is (or should be if implemented properly) a keystroke away.</li>
+</ol>
+
+<h3 id="stylecop-as-the-standard">StyleCop as the Standard</h3>
+
+<p>By using Code Views, the developer saves their files to disk, and StyleCop rules are automatically applied to it to create a resulting code file.  The net result is that the file that is saved to disk is 100% StyleCop-compliant (or however compliant the team wants it to be).  This ensures that code is always in line with the style standard as currently offered by Microsoft. It also ensures a consistent, expected look and feel for any code that is stored on disk and (more importantly) in source control.</p>
+
+<h3 id="creative-freedom">Creative Freedom</h3>
+
+<p>By using Code Views, code files are stored on disk (or in the cloud) in a 100% industry-standard format, while developers are able to view their code exactly how they want and prefer to view it.  Through the use and power of Roslyn, this is now possible. Please take a second to vote for this feature request by clicking on our Vote Now button below. Or, if you have feedback around this idea, feel free to sound off in our awesome Disqus comment section below.  Thank you as always for your support!</p>
+
+<h3 id="show-your-support">Show Your Support</h3>
+
+<p>If you like the idea of Roslyn-powered Code Views, please take the time and let Microsoft know by voting for this idea on UserVoice:</p>
+
+<div class="push-button-container">
+  <div class="push-button">
+  </div>
+  
+
+<p><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020390-enable-roslyn-powered-code-views" target="_blank"></p>
+
+<p><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
+  </div></p>
+
+<p><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
+</div></p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2015/10/the-ubiquitous-bridge/"><i class="fa fa-chevron-circle-left"></i> The Ubiquitous Bridge</a>
+        </li>
+        
+        
+        <li>
+            <a href="/2015/10/data-asts-and-data-views/">Data ASTs and Data Views <i class="fa fa-chevron-circle-right"></i> </a>
+        </li>
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+</div>
+<script src="/js/scripts.js"></script>
+</body>
+
+</html>
