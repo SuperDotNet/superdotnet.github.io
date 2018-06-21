@@ -2,7 +2,6 @@
 title: "MSFT vs MS"
 date: 2018-06-21
 year: "2018"
-draft: true
 authors: ["Mike-EEE"]
 tags: ["Thoughts", "Words"]
 categories: ["General"] 
