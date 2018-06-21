@@ -18,17 +18,8 @@ categories:
 
 This post exists to build support around the idea of Roslyn-Powered Code Views. This is not intended to be a final solution, but a starting point for discussion, awareness, and a sign of demand. Show your support by voting for this idea here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020390-enable-roslyn-powered-code-views" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020390-enable-roslyn-powered-code-views" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 In this article, we explore the Visual Studio feature idea of what we are calling _Code Views,_ and is an idea that can now be made possible with the advent of <a href="https://github.com/dotnet/roslyn" target="_blank">Roslyn</a>.
 
@@ -153,14 +144,5 @@ By using Code Views, code files are stored on disk (or in the cloud) in a 100% i
 
 If you like the idea of Roslyn-powered Code Views, please take the time and let Microsoft know by voting for this idea on UserVoice:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020390-enable-roslyn-powered-code-views" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020390-enable-roslyn-powered-code-views" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>

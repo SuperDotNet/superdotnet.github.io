@@ -18,17 +18,8 @@ categories:
 
 The purpose of this article is to build consensus around a ubiquitous .NET client application development model.  With Xamarin&#8217;s acquisition yesterday, this gets us closer, but not quite there.  Please show your support for a browser-hosted .NET runtime by voting for this issue in Visual Studio&#8217;s UserVoice here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 ### Xamarin is Acquired by Microsoft
 
@@ -126,17 +117,8 @@ Here we see the same with .NET.  Notice we cannot share code with the browser s
 
 Hopefully this makes a little more sense to the casual observer.  The purpose of this article (and site) is to build consensus around the idea of a ubiquitous .NET client application development model offering.  With Xamarin&#8217;s acquisition yesterday, we are much closer to this goal, but not entirely there yet.  Please show your support for this by telling Microsoft you would like to see support for this by voting for this idea here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 Thank you all as always for reading, your feedback, and support!
 

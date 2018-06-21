@@ -29,17 +29,8 @@ series:
 
 This series exists to build support around the idea of a ubiquitous .NET client application development model. This is not intended to be a final solution, but a starting point for discussion, awareness, and a sign of demand. Show your support by voting for this idea here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 ### .NET Client Application Models
 
@@ -121,9 +112,10 @@ _(With each client application model below, we have denoted <span style="color: 
       </div>
     </div>
   </div></a>
-</div> We start with 
+</div>
 
-<a href="https://msdn.microsoft.com/en-us/library/dd30h2yb%28v=vs.110%29.aspx?f=255&#038;MSPPError=-2147217396" target="_blank" rel="noopener">Windows Forms</a>. Windows Forms can be considered the first .NET client application model and (surprisingly) still pulls weight today in the world of line of business applications. There is even <a href="https://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/8127717-open-source-windows-forms" target="_blank" rel="noopener">an outstanding vote with considerable backing to make it open source</a>. As this was the first .NET client application model, it did lead the way with the concept of a designer-friendly tooling paradigm. However, the designer was not based on a serialization mechanism and this led to a lot of code being generated instead, leading developers to mark this as a negative aspect of Windows Forms development. In fact, it is safe to say that this aspect is what led to a more robust, readable, and manageable solution found within its successor and the next model we will visit. As Windows Forms was built with the first version of .NET, it was inherently Windows-only, with no chance of cross-platform capability. However, as a native .NET client application model, it does benefit from the holistic development consistency that occurs when being a part of a .NET solution, as well as shared components and assemblies between application boundaries.</p> 
+We start with <a href="https://msdn.microsoft.com/en-us/library/dd30h2yb%28v=vs.110%29.aspx?f=255&#038;MSPPError=-2147217396" target="_blank" rel="noopener">Windows Forms</a>. Windows Forms can be considered the first .NET client application model and (surprisingly) still pulls weight today in the world of line of business applications. There is even <a href="https://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/8127717-open-source-windows-forms" target="_blank" rel="noopener">an outstanding vote with considerable backing to make it open source</a>. As this was the first .NET client application model, it did lead the way with the concept of a designer-friendly tooling paradigm. However, the designer was not based on a serialization mechanism and this led to a lot of code being generated instead, leading developers to mark this as a negative aspect of Windows Forms development. In fact, it is safe to say that this aspect is what led to a more robust, readable, and manageable solution found within its successor and the next model we will visit. As Windows Forms was built with the first version of .NET, it was inherently Windows-only, with no chance of cross-platform capability. However, as a native .NET client application model, it does benefit from the holistic development consistency that occurs when being a part of a .NET solution, as well as shared components and assemblies between application boundaries.</p> 
+
 
 ### Windows Presentation Foundation
 
@@ -197,7 +189,9 @@ _(With each client application model below, we have denoted <span style="color: 
       </div>
     </div>
   </div></a>
-</div> The big daddy of .NET application client models. 
+</div>
+
+The big daddy of .NET application client models.  
 
 <a href="https://msdn.microsoft.com/en-us/library/ms754130(v=vs.110).aspx" target="_blank" rel="noopener">Windows Presentation Foundation</a> (WPF) was simply an outstanding innovation in Microsoft client application technology, and can be considered the de facto standard for any .NET client application model. WPF was innovative in many areas, but primarily in how it enabled serialization and design through the use of a new technology known as <a href="https://msdn.microsoft.com/en-us/library/cc295302.aspx" target="_blank" rel="noopener">Xaml</a>. Xaml is an object description technology that is based off of XML. When WPF was first introduced, Xaml was strictly for defining and describing user interface elements. In later versions, this power got abstracted into its own assembly with System.Xaml, where it lives today and other frameworks such as <a href="https://msdn.microsoft.com/en-us/library/ee342461.aspx" target="_blank" rel="noopener">Windows Workflow</a> utilize it. WPF has it all except for cross-platform and web compatibility. In fact, this very shortcoming is what led Microsoft on another endeavor to bring the power of WPF to the web, known as Silverlight.</p> 
 
@@ -667,9 +661,9 @@ Unfortunately, Urho3D does not support Xaml (at the moment) and while <a href="h
       </div>
     </div>
   </div></a>
-</div> Have you ever seen the request on a forum post or blog comment that &#8220;someone should build a converter for Xaml to HTML output?&#8221; If you visit any of the MSDN forums, blogs or UserVoice boards, you have probably seen it a lot. Well, someone has done exactly that in 
+</div>
 
-<a href="http://xaml2html.net/" target="_blank" rel="noopener">xaml2html</a>. It has just been released as a beta for developers to try out. As it is new it is very raw, but the working concept shows that it is possible to take a WPF project and output its contents and &#8220;translate&#8221; them into another form &#8212; HTML5-compliant artifacts, to be exact. Do note that this is more of a technology/project than an client application development model, but it is worth knowing about and to follow along with its progress to see how it evolves.</p> 
+Have you ever seen the request on a forum post or blog comment that &#8220;someone should build a converter for Xaml to HTML output?&#8221; If you visit any of the MSDN forums, blogs or UserVoice boards, you have probably seen it a lot. Well, someone has done exactly that in <a href="http://xaml2html.net/" target="_blank" rel="noopener">xaml2html</a>. It has just been released as a beta for developers to try out. As it is new it is very raw, but the working concept shows that it is possible to take a WPF project and output its contents and &#8220;translate&#8221; them into another form &#8212; HTML5-compliant artifacts, to be exact. Do note that this is more of a technology/project than an client application development model, but it is worth knowing about and to follow along with its progress to see how it evolves.</p> 
 
 ### Azure PowerApps
 
@@ -2447,17 +2441,8 @@ To summarize all models with the desired qualities, we have created the followin
 
 If you like the idea of a ubiquitous .NET client application development model, please take the time and let Microsoft know by voting for this idea on UserVoice:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
  [1]: /2015/10/introduction/#who-are-you-who-is-the-8220we8221
  [2]: /2015/10/ubiquitous-qualities/

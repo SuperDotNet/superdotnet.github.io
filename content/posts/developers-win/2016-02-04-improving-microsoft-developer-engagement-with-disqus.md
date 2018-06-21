@@ -21,17 +21,8 @@ This post exists to build consensus in the Microsoft developer community to help
 
 Show your support by voting for this idea here for Visual Studio and Visual Studio Team Services (MSDN):
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/11720967-improve-visual-studio-msdn-blog-commenting-system" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/11720967-improve-visual-studio-msdn-blog-commenting-system" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 ### <span style="line-height: 1.5;">Blogging Upgrade</span>
 
@@ -110,30 +101,12 @@ It should be no surprise that these factors give me a much higher and better imp
 
 If you would like to see the Visual Studio and Visual Studio Team Services replace their current commenting system with Disqus, please vote here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/11720967-improve-visual-studio-msdn-blog-commenting-system" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio-2015/suggestions/11720967-improve-visual-studio-msdn-blog-commenting-system" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 If you would like to see the Windows Blog replace its current commenting system with Disqus, please vote here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="https://wpdev.uservoice.com/forums/110705-universal-windows-platform/suggestions/11721291-improve-windows-blog-commenting-system-and-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="https://wpdev.uservoice.com/forums/110705-universal-windows-platform/suggestions/11721291-improve-windows-blog-commenting-system-and-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 Thank you all for your consideration, support, and dialogue!

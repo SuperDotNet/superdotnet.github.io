@@ -538,6 +538,11 @@
   </url>
   
   <url>
+    <loc>/series/the-bridge-to-.net-ubiquity/</loc>
+    <lastmod>2015-10-01T20:29:41+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <priority>0</priority>
   </url>
@@ -586,6 +591,12 @@
   <url>
     <loc>/categories/quotes/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <lastmod>2015-10-01T20:29:41+00:00</lastmod>
     <priority>0</priority>
   </url>
   

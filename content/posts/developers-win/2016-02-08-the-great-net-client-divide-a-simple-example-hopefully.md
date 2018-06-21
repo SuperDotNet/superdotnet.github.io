@@ -18,17 +18,8 @@ categories:
 
 I have been getting some good feedback on <a href="/series/bridge-to-dotnet-ubiquity/" target="_blank">writing lengthy blog articles</a>. Right right. I try to be aware and respectful of your time.  And mine, too. At the end of the day I am just some random developer that you don&#8217;t know who happens to put their thoughts on the web &#8212; and I try to keep that in mind.  Additionally, I simply _hate_ writing and _hate_ writing long articles even more, so your guess is as good as mine as to why I put myself (and you, the patient reader) through so much agony. With that said, let&#8217;s see if I can keep this short.  Please vote:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
 ### What Is It Now?
 
@@ -58,17 +49,8 @@ Exactly.
 
 I actually got this in at a little over 550 words.  Not bad.  If you would like to see a JavaScript version of Serilog (and _any_ .NET library, for that matter) seamlessly transpiled for _any_ .NET project at compile time as part of a ubiquitous .NET client application development model offering, please tell the Visual Studio team you would like to see this magic happen by voting for this issue right here:
 
-<div class="push-button-container">
-  <div class="push-button">
-  </div>
-  
-  <a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"> 
-  
-  <div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;">
-  </div>
-  
-  <img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a>
-</div>
+<div class="push-button-container"><div class="push-button">
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
 
  [1]: /2015/10/existing-net-client-application-models/#windows-presentation-foundation
  [2]: /2015/10/existing-net-client-application-models/#windows-forms

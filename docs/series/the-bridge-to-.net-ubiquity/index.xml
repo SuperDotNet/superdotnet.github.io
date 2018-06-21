@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Super.NET Blog, Dawg</title>
+    <link>/series/the-bridge-to-.net-ubiquity/</link>
+    <description>Recent content on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Thu, 01 Oct 2015 20:29:41 +0000</lastBuildDate>
+    
+	<atom:link href="/series/the-bridge-to-.net-ubiquity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ubiquitous Bridge</title>
+      <link>/2015/10/the-ubiquitous-bridge/</link>
+      <pubDate>Thu, 01 Oct 2015 20:29:41 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/the-ubiquitous-bridge/</guid>
+      <description>This entry is part 6 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>The Backwards Bridge</title>
+      <link>/2015/10/the-backwards-bridge/</link>
+      <pubDate>Thu, 01 Oct 2015 20:27:57 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/the-backwards-bridge/</guid>
+      <description>This entry is part 5 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>The Broken, Burned Bridge</title>
+      <link>/2015/10/the-broken-burned-bridge/</link>
+      <pubDate>Thu, 01 Oct 2015 20:23:08 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/the-broken-burned-bridge/</guid>
+      <description>This entry is part 4 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This post exists to build consensus in the Microsoft developer community around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Existing .NET Client Application Models</title>
+      <link>/2015/10/existing-net-client-application-models/</link>
+      <pubDate>Thu, 01 Oct 2015 20:06:07 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/existing-net-client-application-models/</guid>
+      <description>This entry is part 3 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Ubiquitous Qualities</title>
+      <link>/2015/10/ubiquitous-qualities/</link>
+      <pubDate>Thu, 01 Oct 2015 19:59:43 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/ubiquitous-qualities/</guid>
+      <description>This entry is part 2 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>/2015/10/introduction/</link>
+      <pubDate>Thu, 01 Oct 2015 19:36:04 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2015/10/introduction/</guid>
+      <description>This entry is part 1 of 6 in the series The Bridge to .NET Ubiquity  TL;DR: VOTE! This series exists to build support around the idea of a ubiquitous .</description>
+    </item>
+    
+  </channel>
+</rss>
