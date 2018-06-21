@@ -41,5 +41,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Thoughts</title>
+      <link>/tags/thoughts/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Words</title>
+      <link>/tags/words/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/words/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

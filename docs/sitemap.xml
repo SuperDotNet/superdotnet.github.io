@@ -4,7 +4,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +13,12 @@
   </url>
   
   <url>
-    <loc>/2018/06/hello-world/</loc>
+    <loc>/2018/06/msft-vs-ms/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/06/hello-world-welcome-to-super.net-blog-dawg/</loc>
     <lastmod>2018-06-20T01:18:46-04:00</lastmod>
   </url>
   
@@ -45,6 +50,12 @@
   </url>
   
   <url>
+    <loc>/categories/general/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/glossary/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -71,6 +82,18 @@
   <url>
     <loc>/tags/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/thoughts/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/words/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

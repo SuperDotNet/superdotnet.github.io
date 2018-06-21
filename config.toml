@@ -4,7 +4,7 @@ publishDir = "docs"
 # canonifyurls = true
 theme = "kiera"
 
-newContentEditor = "C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
+newContentEditor = "C:\\Program Files\\Typora\\typora.exe"
 
 ## Hugo Built-in Features
 disqusShortname = "superdotnet"

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Super.NET Blog, Dawg</title>
+    <link>/tags/thoughts/</link>
+    <description>Recent content in Thoughts on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MSFT vs MS</title>
+      <link>/2018/06/msft-vs-ms/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/06/msft-vs-ms/</guid>
+      <description>In all my writings, you will see me use &amp;ldquo;MSFT&amp;rdquo; in describing Microsoft, as opposed to the other variant of &amp;ldquo;MS.&amp;rdquo;
+There are two reasons for this.
+First, it serves as a gentle reminder that the work we&amp;rsquo;re all doing here is for a corporation, whose efforts go to feed their employees and their subsequent families.</description>
+    </item>
+    
+  </channel>
+</rss>
