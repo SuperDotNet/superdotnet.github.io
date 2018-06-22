@@ -46,7 +46,7 @@ The problem space that we work in is _incredibly_ complex and involved.  Human b
 
 If you logically win an argument but have a condescending/disparaging/trolling attitude in doing so -- *resulting in ill will towards the person you are interacting with* -- then you have actually *lost* that argument, as that ill will impacts your brand value.  As such...
 
-#### Mind Your Brand
+#### Mind Your Brand{#brand}
 
 This is sort of the apex of value learned here in my experiment and adventure.  *Everything* you do reflects on you and your brand.  Are you the person that has to be *right all the time*?  Do you resort to trolling or other coercive tactics to will your "opponent" to your way?  Do you even see to the world as being branched into "opponent" and "proponent?"  Or do you see the world as fragmented, collective whole?  Perhaps somewhere in between?  Or maybe even something even more involved?
 
@@ -68,19 +68,28 @@ Again this comes back to brand.  [What matters in life](https://youtu.be/Oo9buo9
 
 #### It's Not How You Win, but How You Lose
 
-Finally, one of my high school principals (I was an army brat and moved a lot) told me once that our _attitudes determine our altitude_.  While I generally understood this concept, I see now that this is especially pertinent when things do _not_ go your way, or do not go as expected.  Another way I like to say this now is: it's not how you win, but it's how you _lose_.  Any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a storm.
+Finally, one of my high school principals (yeah, several, I was an army brat and moved a lot) told me once that our _attitudes determine our altitude_.  While I generally understood this concept, I see now that this is especially pertinent when things do _not_ go your way, or do not go as expected.  
 
 > Your attitude determines your altitude.
-> - Mike-EEE's High School Principal, Somewhere, Sometime
+>
+> -- Mike-EEE's High School Principal, Somewhere, Sometime
+
+Another way I like to say this now is: it's not how you win, but it's how you _lose_.  That is, any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a situation.
 
 #### Special Thanks
 
-I would like to take this time to thank Clint Rutkas and the UWP team for their efforts on their UserVoice forum, in helping to shape out what I can now say was a *gigantic* blind spot in my world.  Kudos to Clint especially for pointing out personal brand, especially.  This has been something I have been resolving in my own world for sometime now and would not have had this resolved if 1) I had not created Developers Win! and 2) had not met Clint and team.
+I would like to take this time to thank [Clint Rutkas](https://twitter.com/ClintRutkas) and the UWP team for their efforts on their UserVoice forum, resulting in shaping out what I can now say was a *gigantic* blind spot in my world, leading to a lot of personal growth and most of the aforementioned lessons.  Kudos to Clint especially for pointing out the value in [personal brand](#brand), particularly.  Consider that all of this was made possible because I:
 
-I hope the lessons outlined above show that I see clearly some mistaken understandings in how I have approached my business and I hope to show going forward that they have been learned and taken to heart.  Cheers to you and the best of success to your crew as we head into the next  phase of MSFT's honorable history.
+1. Created Developers Win!
+2. [Created some votes](https://wpdev.uservoice.com/)
+3. Met Clint and team to steer me in the right direction
+
+This didn't happen overnight, of course.  It's been about a 3-year process that involved my interactions not only on Windows Developer UserVoice, but elsewhere on the web.  I always try to be mindful of feedback and try to adjust accordingly.  As with software, some (personal) problems are more difficult than others and take a while to resolve.
+
+Finally, Clint's Twitter bio mentions that he is "helping developers" but I am not sure if this help is intended to be the results provided here.  In any case, I will accept it.  Cheers to you, Clint and Team.  I wish you best of success to your crew there as we head into the next  phase of MSFT's honorable history.
 
 ## Conclusion
 
-With the lessons learned out of the way, it's worth noting that this blog will serve as the archive of previous articles of Developers.Win! in addition to hosting the thoughts and highlights of my efforts taking place at Super.NET.  
+With the lessons learned out of the way, it's worth noting that this blog will serve as the [archive of previous articles of Developers.Win!](/categories/developers-win/) in addition to hosting the thoughts and highlights of my efforts taking place at Super.NET.  
 
 I would like to send a sincere shout of appreciation to all who have supported my ideas and subsequent energies over these past few years, and have voiced their encouragement in my efforts.  I hope to continue this further in my efforts with Super.NET and will see you out there in the field of play.  In the meantime, much respect and blessings to you!
