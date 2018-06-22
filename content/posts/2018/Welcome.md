@@ -78,6 +78,8 @@ Finally, the pastor of my high school (long story) once taught me that that our 
 
 Another way I like to say this now is: it's not how you win, it's *how you lose*.  That is, any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a situation.
 
+And how does one handle themselves in such a situation?  If you'd like a hint, then I would recommend reading [The Meditations](http://a.co/cTnzzhM) by [Emperor Marcus Aurelius](https://www.facebook.com/MarcusAureliusEmperor/).  I read this book last September and it has slowly been changing my life since.  It's free if you own a Kindle.
+
 #### Special Thanks
 
 I would like to take this time to thank [Clint Rutkas](https://twitter.com/ClintRutkas) and the UWP team for their efforts on their UserVoice forum, resulting in shaping out what I can now say was a *gigantic* blind spot in my world, leading to a lot of personal growth and most of the aforementioned lessons.  Kudos to Clint especially for pointing out the value in [personal brand](#brand), particularly.  
