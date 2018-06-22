@@ -16,7 +16,7 @@ If you have a blog or are a student of design, do yourself a favor and check out
 
 And no, I have not swung over into the land of [Go](https://golang.org/), but I am certainly a fan, and hope to [incorporate some of its elegant magic](https://en.wikipedia.org/wiki/Ren%C3%A9_Girard#Mimetic_desire) into my efforts with Super.NET.
 
-#### Browse Developers Win! Archive {#Learn}
+#### Browse Developers Win! Archive {#learn}
 
 Before I get into the why and how, if you would like to browse the old archive of Developers Win! postings, you can [do that here](/categories/developers-win/).
 
@@ -40,7 +40,7 @@ Contrary to popular belief -- that being *my own* -- the world doesn't revolve a
 
 #### There Are a *Lot* of Human Beings in the World
 
-The problem space that we work in is incredibly complex and involved.  Human beings are multifaceted (or sometimes just downright crazy).  You have no idea what each person has to deal with in their daily grind, and the scope of their individual experience.  What I have learned is that each person has their own opinion and they are 100% as valuable as mine, even if that opinion does not make logical sense to me.  Which leads me to...
+The problem space that we work in is _incredibly_ complex and involved.  Human beings are multifaceted (or sometimes just downright crazy).  You have no idea what each person has to deal with in their daily grind, and the scope of their individual experience.  What I have learned is that each person has their own opinion and they are 100% as valuable as mine, even if that opinion does not make logical sense to me.  Which leads me to...
 
 #### Even When You're Right, You Can Be Wrong
 
@@ -48,7 +48,7 @@ If you logically win an argument but have a condescending/disparaging/trolling a
 
 #### Mind Your Brand
 
-This is sort of the apex of value learned here in my experiment and adventure.  *Everything* you do reflects on you and your brand.  Are you the person that has to be *right all the time*?  Do you resort to trolling or other coercive tactics to will your "opponent" to your way?  Do you even see to the world as being branched into "opponent" and "proponent?"  Or do you see the world as fragmented, collective whole?  
+This is sort of the apex of value learned here in my experiment and adventure.  *Everything* you do reflects on you and your brand.  Are you the person that has to be *right all the time*?  Do you resort to trolling or other coercive tactics to will your "opponent" to your way?  Do you even see to the world as being branched into "opponent" and "proponent?"  Or do you see the world as fragmented, collective whole?  Perhaps somewhere in between?  Or maybe even something even more involved?
 
 All of these aspects (and many many more) speak to your character and resulting brand as such.
 
@@ -64,7 +64,14 @@ Yes, perhaps a little woo-woo pseudoscience, but that is how I view the world ba
 
 #### Someone Can Be Completely Different Than You ... *And That Is OK*
 
-Again this comes back to brand.  [What matters in life](https://youtu.be/Oo9buo9Mtos) is not how someone handles *their* business.  What matters is how you handle *yours*, and more specifically -- how you *react* to someone who does not align with your expectations.
+Again this comes back to brand.  [What matters in life](https://youtu.be/Oo9buo9Mtos) is not how someone handles *their* business.  What matters is how you handle *yours*, and more specifically -- how you *react* to someone who does not align with your expectations.  This brings me to the final lesson here...
+
+#### It's Not How You Win, but How You Lose
+
+Finally, one of my high school principals (I was an army brat and moved a lot) told me once that our _attitudes determine our altitude_.  While I generally understood this concept, I see now that this is especially pertinent when things do _not_ go your way, or do not go as expected.  Another way I like to say this now is: it's not how you win, but it's how you _lose_.  Any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a storm.
+
+> Your attitude determines your altitude.
+> - Mike-EEE's High School Principal, Somewhere, Sometime
 
 #### Special Thanks
 
