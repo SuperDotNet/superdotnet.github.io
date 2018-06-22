@@ -86,7 +86,7 @@ I would like to take this time to thank [Clint Rutkas](https://twitter.com/Clint
 
 This didn't happen overnight, of course.  It's been about a 3-year process that involved my interactions not only on Windows Developer UserVoice, but elsewhere on the web.  I always try to be mindful of feedback and try to adjust accordingly.  As with software, some (personal) problems are more difficult than others and take a while to resolve.
 
-Finally, Clint's Twitter bio mentions that he is "helping developers" but I am not sure if this help is intended to be the results provided here.  In any case, I will accept it.  Cheers to you, Clint and Team.  I wish you best of success to your crew there as we head into the next  phase of MSFT's honorable history.
+Finally, Clint's Twitter bio mentions that he is "helping developers" but I am not sure if this help is intended to be the results provided here.  In any case, I accept it.  Cheers to you, Clint and Team.  I wish you best of success to your crew there as we head into the next  phase of MSFT's honorable history.
 
 ## Conclusion
 
