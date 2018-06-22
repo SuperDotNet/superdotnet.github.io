@@ -44,7 +44,7 @@ The problem space that we work in is _incredibly_ complex and involved.  Human b
 
 #### Even When You're Right, You Can Be Wrong
 
-If you logically win an argument but have a condescending/disparaging/trolling attitude in doing so -- *resulting in and fostering ill will towards the person you are interacting with* -- then you have actually *lost* that argument, as that ill will impacts your brand value.  As such...
+If you logically win an argument but have a condescending, disparaging, or trolling attitude in doing so -- *resulting in or fostering ill will towards the person you are interacting with* -- then you have actually *lost* that argument, as that ill will *impacts your brand value*.  As such...
 
 #### Mind Your Brand{#brand}
 

@@ -14,3 +14,7 @@ In any case, this post serves to host the introduction of this character in case
 > Show me a project that one developer can do in one month, and I will show you the same project that two developers can do in two.
 >
 > -- Agent Smith
+
+> I'm not looking to be n3rd f@m0u5.
+>
+> -- Agent Smith
