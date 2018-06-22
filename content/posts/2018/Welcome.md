@@ -68,23 +68,25 @@ Again this comes back to brand.  [What matters in life](https://youtu.be/Oo9buo9
 
 #### It's Not How You Win, but How You Lose
 
-Finally, one of my high school principals (yeah, several, I was an army brat and moved a lot) told me once that our _attitudes determine our altitude_.  While I generally understood this concept, I see now that this is especially pertinent when things do _not_ go your way, or do not go as expected.  
+Finally, the pastor of my high school (long story) once taught me that that our _attitudes determine our altitude_.  While I generally understood this concept, I see now that this is *especially* pertinent when things do _not_ go your way, or do not go as expected.  
 
 > Your attitude determines your altitude.
 >
-> -- Mike-EEE's High School Principal, Somewhere, Sometime
+> -- [Gary Ward](http://a.co/5DkMaLu)
 
 Another way I like to say this now is: it's not how you win, it's *how you lose*.  That is, any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a situation.
 
 #### Special Thanks
 
-I would like to take this time to thank [Clint Rutkas](https://twitter.com/ClintRutkas) and the UWP team for their efforts on their UserVoice forum, resulting in shaping out what I can now say was a *gigantic* blind spot in my world, leading to a lot of personal growth and most of the aforementioned lessons.  Kudos to Clint especially for pointing out the value in [personal brand](#brand), particularly.  Consider that all of this was made possible because I:
+I would like to take this time to thank [Clint Rutkas](https://twitter.com/ClintRutkas) and the UWP team for their efforts on their UserVoice forum, resulting in shaping out what I can now say was a *gigantic* blind spot in my world, leading to a lot of personal growth and most of the aforementioned lessons.  Kudos to Clint especially for pointing out the value in [personal brand](#brand), particularly.  
+
+Consider that all of this was made possible when I:
 
 1. Created Developers Win!
 2. [Created some votes](https://wpdev.uservoice.com/)
-3. Met Clint and team to steer me in the right direction
+3. Met Clint and team to steer me into this direction
 
-This didn't happen overnight, of course.  It's been about a 3-year process that involved my interactions not only on Windows Developer UserVoice, but elsewhere on the web.  I always try to be mindful of feedback and try to adjust and incorporate accordingly.  As with software, some (personal) problems are more difficult than others and take a while to resolve.
+This didn't happen overnight, of course.  It's been about a 3-year process that involved my interactions not only on Windows Developer UserVoice, but elsewhere on the web.  To be honest, I will read stuff I wrote a year or so ago and be a bit embarrassed by it.  I always try to be mindful of feedback and try to adjust and incorporate accordingly.  As with software, some (personal) problems are more difficult than others and take a while to resolve.
 
 Finally, Clint's Twitter bio mentions that he is "helping developers" but I am not sure if this help is intended to be the results provided here.  In any case, I accept it.  Cheers to you, Clint and Team.  I wish you best of success to your crew there as we head into the next  phase of MSFT's honorable history.
 
