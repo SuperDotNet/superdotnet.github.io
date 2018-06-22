@@ -36,11 +36,11 @@ I am very grateful for having done the Developers Win! experiment.  In my time c
 
 #### The World Doesn't Revolve Around Me
 
-Contrary to popular belief -- that being *my own* -- the world doesn't revolve around me.  Setting up a wish doesn't make it a guarantee that it will happen.  In fact, if not worded properly, it can cause more grief than it's worth, or result in a completely different result and experience than I originally envisioned when I thought of the idea.  There are a *lot* of people out there, which reminds me...
+Contrary to popular belief -- that being *my own* when thinking about me -- the world doesn't revolve around me.  Setting up a wish doesn't make it a guarantee that it will happen.  In fact, if not worded properly, it can cause a lot of unintended grief to you or others.  It can also land in a completely different result and experience than originally envisioned.  There are a *lot* of people out there, and they each have their own perspective on issues, which reminds me...
 
-#### There Are a *Lot* of Human Beings in the World
+#### Respect Every Opinion
 
-The problem space that we work in is _incredibly_ complex and involved.  Human beings are multifaceted (or sometimes just downright crazy).  You have no idea what each person has to deal with in their daily grind, and the scope of their individual experience.  What I have learned is that each person has their own opinion and they are 100% as valuable as mine, even if that opinion does not make logical sense to me.  Which leads me to...
+The problem space that we work in is _incredibly_ complex and involved.  Human beings are multifaceted (or sometimes just downright crazy).  You have no idea what each person has to deal with in their daily grind, and the scope of their individual experience.  What I have learned is that each person has their own opinion and, as it turns out, each one of those opinions are 100% as valuable as mine, even if that opinion does not make logical sense to me.  Which leads me to...
 
 #### Even When You're Right, You Can Be Wrong
 
@@ -48,11 +48,11 @@ If you logically win an argument but have a condescending/disparaging/trolling a
 
 #### Mind Your Brand{#brand}
 
-This is sort of the apex of value learned here in my experiment and adventure.  *Everything* you do reflects on you and your brand.  Are you the person that has to be *right all the time*?  Do you resort to trolling or other coercive tactics to will your "opponent" to your way?  Do you even see to the world as being branched into "opponent" and "proponent?"  Or do you see the world as fragmented, collective whole?  Perhaps somewhere in between?  Or maybe even something even more involved?
+This is sort of the apex of value learned here in my experiment and adventure.  *Everything* you do reflects on you and your brand.  Are you the person that has to be *right all the time*?  Do you resort to trolling or other coercive tactics to will your "opponent" to your way?  Do you even see to the world as being branched into "opponent" and "proponent?"  Or do you see the world as fragmented, collective whole?  Perhaps somewhere in between?
 
-All of these aspects (and many many more) speak to your character and resulting brand as such.
+All of these aspects (and many many more) speak to your *[character](https://youtu.be/YgxACD-rL5c)* and resulting brand as such.
 
-Attempting to coerce another human being with aforementioned -- or, really, *any* -- tactics as above is not only ineffective, it's *childish*.  It's selfish and self-centered.  Yes, you might throw down some epic flame on a forum some where -- and yes, in its own right it's extraordinary prose and you can pat yourself on the back -- but in the end, you have attempted to dominate the indomitable, the fellow human spirit that runs as wild as you do.  You have not only fostered *ill will*, but now it will no doubt make its way back to you in some form.  As such, you should...
+Attempting to coerce another human being with aforementioned -- or, really, *any* -- tactics as above is not only ineffective, it's *childish*.  It's selfish and self-centered.  Yes, you might throw down some epic flame on a forum some where -- and yes, in its own right it's extraordinary prose and you can pat yourself on the back -- but in the end, you have attempted to dominate the indomitable: the fellow human spirit that runs as wild and free as you yourself do.  You have not only fostered *ill will*, but now it will no doubt make its way back to you in some form.  As such, you should...
 
 #### Choose Your Energy Carefully
 
@@ -74,7 +74,7 @@ Finally, one of my high school principals (yeah, several, I was an army brat and
 >
 > -- Mike-EEE's High School Principal, Somewhere, Sometime
 
-Another way I like to say this now is: it's not how you win, but it's how you _lose_.  That is, any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a situation.
+Another way I like to say this now is: it's not how you win, it's *how you lose*.  That is, any hack can win, and celebrate accordingly.  But the _true_ winners are the ones that understand that loss _will_ occur and, when it does, know how to hold themselves in such a situation.
 
 #### Special Thanks
 
@@ -84,7 +84,7 @@ I would like to take this time to thank [Clint Rutkas](https://twitter.com/Clint
 2. [Created some votes](https://wpdev.uservoice.com/)
 3. Met Clint and team to steer me in the right direction
 
-This didn't happen overnight, of course.  It's been about a 3-year process that involved my interactions not only on Windows Developer UserVoice, but elsewhere on the web.  I always try to be mindful of feedback and try to adjust accordingly.  As with software, some (personal) problems are more difficult than others and take a while to resolve.
+This didn't happen overnight, of course.  It's been about a 3-year process that involved my interactions not only on Windows Developer UserVoice, but elsewhere on the web.  I always try to be mindful of feedback and try to adjust and incorporate accordingly.  As with software, some (personal) problems are more difficult than others and take a while to resolve.
 
 Finally, Clint's Twitter bio mentions that he is "helping developers" but I am not sure if this help is intended to be the results provided here.  In any case, I accept it.  Cheers to you, Clint and Team.  I wish you best of success to your crew there as we head into the next  phase of MSFT's honorable history.
 
