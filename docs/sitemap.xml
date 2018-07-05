@@ -594,14 +594,14 @@
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
-    <lastmod>2018-07-05T10:30:56-04:00</lastmod>
+    <loc>/tags/art/</loc>
+    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <loc>/categories/art/</loc>
+    <lastmod>2018-07-05T10:30:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -665,6 +665,12 @@
   </url>
   
   <url>
+    <loc>/tags/developers-win/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/developers-win/</loc>
     <lastmod>2018-05-25T13:07:40+00:00</lastmod>
     <priority>0</priority>
@@ -689,14 +695,14 @@
   </url>
   
   <url>
-    <loc>/categories/general/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>/tags/general/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/general/</loc>
-    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <loc>/categories/general/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -731,14 +737,26 @@
   </url>
   
   <url>
-    <loc>/authors/mike-eee/</loc>
-    <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+    <loc>/tags/lessons/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/marcus-aurelius/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mike-eee/</loc>
     <lastmod>2018-07-05T10:58:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mike-eee/</loc>
+    <lastmod>2018-06-20T05:37:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -809,12 +827,24 @@
   </url>
   
   <url>
+    <loc>/tags/typora/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/p743/</loc>
   </url>
   
   <url>
     <loc>/categories/weekly-vote-reports/</loc>
     <lastmod>2017-04-21T13:33:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/welcome/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   

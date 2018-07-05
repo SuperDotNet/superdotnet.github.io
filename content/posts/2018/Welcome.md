@@ -1,7 +1,17 @@
 ---
 title: "Hello World: Welcome to Super.NET Blog, Dawg"
 date: 2018-06-20T01:18:46-04:00
-authors: ["Mike-EEE"]
+tags:
+  - Hugo
+  - Typora
+  - Developers Win
+  - Lessons
+  - Marcus Aurelius
+authors: 
+  - Mike-EEE
+authorurl: "https://github.com/Mike-EEE"
+categories:
+  - Welcome
 ---
 
 Welcome to the Super.NET Blog, Dawg!  Here, you will find supplemental resources for the [Super.NET](https://superdotnet.run/) main site, as well as the archive for the now-retired "Developers.win!"

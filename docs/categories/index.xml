@@ -104,5 +104,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Welcome</title>
+      <link>/categories/welcome/</link>
+      <pubDate>Wed, 20 Jun 2018 01:18:46 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/welcome/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
