@@ -1,5 +1,6 @@
 ---
 title: ".NET Is the Commodore 64 That Didn't Die"
+url: /2018/07/dotNet-is-the-commodore-64-that-didnt-die/
 date: 2018-07-05T12:24:56-04:00
 year: "2018"
 authors:
