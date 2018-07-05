@@ -9,10 +9,19 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Fri, 14 Apr 2017 11:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 13:33:21 +0000</lastBuildDate>
     
 	<atom:link href="/categories/weekly-vote-reports/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weekly Vote Report for Friday, April 21, 2017</title>
+      <link>/2017/04/weekly-vote-report-for-friday-april-21-2017/</link>
+      <pubDate>Fri, 21 Apr 2017 13:33:21 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2017/04/weekly-vote-report-for-friday-april-21-2017/</guid>
+      <description>Title Last Week New Votes Total     Ubiquitous / Cross-Platform Client .NET 45,897 43 45,940   Create a Ubiquitous .NET Client Application Development Model 6,652 31 6,683   Bring Windows 10 Universal Apps to Android and iOS 3,020 11 3,031   One .</description>
+    </item>
     
     <item>
       <title>Weekly Vote Report for Friday, April 14, 2017</title>
