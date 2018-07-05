@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Far Out on Super.NET Blog, Dawg</title>
+    <link>/tags/far-out/</link>
+    <description>Recent content in Far Out on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 09:15:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/far-out/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Soul Space</title>
+      <link>/2018/07/soul-space/</link>
+      <pubDate>Thu, 05 Jul 2018 09:15:00 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/soul-space/</guid>
+      <description>This is an article on the topic of philosophy in software, business, and life.
+Quick Word on Value Judgments Before diving into the subject, I think it&amp;rsquo;s appropriate to have a quick word on what might be perceived as value judgements within my communication.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business on Super.NET Blog, Dawg</title>
+    <link>/categories/business/</link>
+    <description>Recent content in Business on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 11:02:55 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/business/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Culture of Excellence</title>
+      <link>/2018/07/culture-of-excellence/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/culture-of-excellence/</guid>
+      <description>This is an article on the topic of philosophy in software, business, and life.
+The Final Chapter In our final section here, we examine the ideal culture that we want to build around the philosophy that is being described here.</description>
+    </item>
+    
+    <item>
+      <title>Business of Art</title>
+      <link>/2018/07/business-of-art/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/business-of-art/</guid>
+      <description>This is an article on the topic of philosophy in software, business, and life.
+Having explored software as a craft, we can now explore a few aspects of art as a business and the challenges it faces as such.</description>
+    </item>
+    
+    <item>
+      <title>Software as a Craft</title>
+      <link>/2018/07/software-as-a-craft/</link>
+      <pubDate>Thu, 05 Jul 2018 10:30:56 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/software-as-a-craft/</guid>
+      <description>This is an article on the topic of philosophy in software, business, and life.
+In the philosophy that is described here, it proposes that software development is a craft, much like wood working, pottery, beer, or &amp;ndash; as this section later calls out &amp;ndash; jewelry.</description>
+    </item>
+    
+    <item>
+      <title>The Customer Is Not Always Right</title>
+      <link>/2018/07/the-customer-is-not-always-right/</link>
+      <pubDate>Thu, 05 Jul 2018 09:10:00 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/the-customer-is-not-always-right/</guid>
+      <description>This is an article on the topic of philosophy in software, business, and life.
+&amp;ldquo;The Customer is Always Right&amp;rdquo; We hear this a lot in business, and perhaps our culture.</description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>/2018/07/philosophy/</link>
+      <pubDate>Thu, 05 Jul 2018 09:00:00 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/philosophy/</guid>
+      <description>What&amp;rsquo;s Up with Philosophy in a Tech Blog, Dawg? Fair question. I myself do like to keep concerns separated, much like my software design. Perhaps my thoughts here are better expressed in a personal blog.</description>
+    </item>
+    
+  </channel>
+</rss>

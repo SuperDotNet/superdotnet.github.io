@@ -9,10 +9,46 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 10:38:52 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Art</title>
+      <link>/tags/art/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big</title>
+      <link>/tags/big/</link>
+      <pubDate>Thu, 05 Jul 2018 09:15:00 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/big/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitcoin</title>
+      <link>/tags/bitcoin/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/bitcoin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build 2018</title>
+      <link>/tags/build-2018/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/build-2018/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characters</title>
@@ -20,6 +56,33 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/tags/characters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrency</title>
+      <link>/tags/cryptocurrency/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke Nukem</title>
+      <link>/tags/duke-nukem/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/duke-nukem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Far Out</title>
+      <link>/tags/far-out/</link>
+      <pubDate>Thu, 05 Jul 2018 09:15:00 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/far-out/</guid>
       <description></description>
     </item>
     
@@ -38,6 +101,78 @@
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/tags/glossary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hero U</title>
+      <link>/tags/hero-u/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/hero-u/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>/tags/innovation/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>/tags/javascript/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Eee</title>
+      <link>/tags/mike-eee/</link>
+      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/mike-eee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outliers</title>
+      <link>/tags/outliers/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/outliers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophet</title>
+      <link>/tags/prophet/</link>
+      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/prophet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satya Nadella</title>
+      <link>/tags/satya-nadella/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/satya-nadella/</guid>
       <description></description>
     </item>
     

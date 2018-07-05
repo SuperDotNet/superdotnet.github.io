@@ -9,9 +9,37 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 10:30:56 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Thu, 05 Jul 2018 10:30:56 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business</title>
+      <link>/categories/business/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Developers Win</title>
@@ -28,6 +56,24 @@
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>/categories/philosophy/</link>
+      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychology</title>
+      <link>/categories/psychology/</link>
+      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/psychology/</guid>
       <description></description>
     </item>
     
