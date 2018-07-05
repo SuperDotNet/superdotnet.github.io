@@ -16,7 +16,7 @@ categories:
 
 .NET is the [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64) that didn't die.  
 
-It's easily the greatest invention out of [MSFT](/2018/06/msft-vs-ms/) during it's grand and enduring history.  It's been around for nearly 20 years and MSFT continues to put the brightest talent into its gears and it has continued to consistently adapt and improve it over the years.  
+In my view, .NET is easily the greatest invention out of [MSFT](/2018/06/msft-vs-ms/) during it's grand and enduring history.  It's been around for nearly 20 years and MSFT continues to put the brightest talent into its gears and has continued to consistently adapt and improve it over the years.  
 
 > .NET is the Commodore 64 that didn't die.
 
