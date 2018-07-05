@@ -15,7 +15,7 @@ categories:
 
 ## What's Up with Philosophy in a Tech Blog, Dawg?
 
-Fair question.  I myself do like to keep concerns separated, much like my software design.  Perhaps my thoughts here are better expressed in a personal blog.  However, I do also like to keep things simple, and I do not have my own personal blog, and this is my only resource of expression.  Sometimes perhaps it's best to try to break with personal norms to see if they are legitimate rules that need to be followed.
+Fair question.  I myself do like to keep concerns separated, much like my software design.  Perhaps my thoughts here are better expressed in a personal blog.  However, having been in the software business for over two decades now, I thought I would take some time to dive into some discoveries I have uncovered during this time, mostly in the form of philosophical musings and exploration.
 
 Additionally (and more importantly), I consider myself a business-minded developer.  There does not seem to be a lot of these out there.  The topics I will be talking about here from a philosophical perspective might seem out there, but they are aimed towards *how we treat each other*.  In business parlance we call anything that threatens our bottom line a [liability](https://en.wikipedia.org/wiki/Liability_(financial_accounting)).  So, in my attempts here, I will be going "out there," but know that at the end of the day, it's in the interest of improving not only myself, but the people that I associate with and hopefully those that I work with at some point in the future.  
 
