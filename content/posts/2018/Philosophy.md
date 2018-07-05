@@ -2,7 +2,6 @@
 title: "Philosophy"
 date: 2018-07-05T09:00:00-04:00
 year: "2018"
-draft: true
 authors:
   - Mike-EEE
 authorurl: "https://github.com/Mike-EEE"
