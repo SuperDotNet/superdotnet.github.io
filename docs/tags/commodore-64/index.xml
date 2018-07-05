@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commodore 64 on Super.NET Blog, Dawg</title>
+    <link>/tags/commodore-64/</link>
+    <description>Recent content in Commodore 64 on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Thu, 05 Jul 2018 12:24:56 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/commodore-64/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>.NET Is the Commodore 64 That Didn&#39;t Die</title>
+      <link>/2018/07/.net-is-the-commodore-64-that-didnt-die/</link>
+      <pubDate>Thu, 05 Jul 2018 12:24:56 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/07/.net-is-the-commodore-64-that-didnt-die/</guid>
+      <description>.NET is the Commodore 64 that didn&amp;rsquo;t die.
+It&amp;rsquo;s easily the greatest invention out of MSFT during it&amp;rsquo;s grand and enduring history. It&amp;rsquo;s been around for nearly 20 years and MSFT continues to put the brightest talent into its gears and it has continued to adapt and improve over the years.</description>
+    </item>
+    
+  </channel>
+</rss>

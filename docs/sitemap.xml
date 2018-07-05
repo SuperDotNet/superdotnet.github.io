@@ -4,12 +4,17 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-07-05T11:02:55-04:00</lastmod>
+    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/07/.net-is-the-commodore-64-that-didnt-die/</loc>
+    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
   </url>
   
   <url>
@@ -583,6 +588,12 @@
   </url>
   
   <url>
+    <loc>/tags/.net/</loc>
+    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/art/</loc>
     <lastmod>2018-07-05T10:38:52-04:00</lastmod>
     <priority>0</priority>
@@ -632,6 +643,12 @@
   <url>
     <loc>/tags/characters/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/commodore-64/</loc>
+    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -750,6 +767,12 @@
   </url>
   
   <url>
+    <loc>/categories/random-thoughts/</loc>
+    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/satya-nadella/</loc>
     <lastmod>2018-07-05T11:02:55-04:00</lastmod>
     <priority>0</priority>
@@ -769,7 +792,7 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
