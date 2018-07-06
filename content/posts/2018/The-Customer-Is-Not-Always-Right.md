@@ -22,7 +22,7 @@ In my view, this is a dangerous attitude or assumption to have, as this can lead
 
 ## Maybe It's Not a Match
 
-I think about this dynamic a lot.  You can act like a petulant spoiled brat and try to coerce the business to get what you want, but is it really worth it?  You've essentially spewed negative energy into the ether, and have not exactly provided any value yourself to the business you want to provide your money to in exchange for their product or service.
+I think about this dynamic a lot.  You can act like a [petulant spoiled brat](https://youtu.be/EL8e2ujXe8g) and try to [coerce the business](/2018/06/hello-world-welcome-to-super.net-blog-dawg/#brand) to get what you want, but is it really worth it?  You've essentially spewed negative energy into the ether, and have not exactly provided any value yourself to the business you want to provide your money to in exchange for their product or service.
 
 If you yourself are at your core a brat (or can be), then the business must also ask: is this the kind of customer I want to deal with to sustain my operations.  The same can go for simple partnerships (e.g. joining a team on GitHub), as well.
 
