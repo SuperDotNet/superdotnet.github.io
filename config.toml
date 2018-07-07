@@ -39,6 +39,7 @@ pygmentsCodeFences = true
   posts = "/:year/:month/:title/"
 	
 [params]
+    description = "Super.NET's official blog, dawg."
     tagline = "Words on the brave path towards a ubiquitous .NET client model."
 	
 ## Main Menu
