@@ -34,7 +34,7 @@ I will share the coinjar here not that I want to accept donations towards this g
 
 <div> <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/40266c65-e420-4740-9c52-ddd24cca633c"> <span>Donate to the Honor Jar</span> </a> <script src="https://commerce.coinbase.com/v1/checkout.js"></script></div><br />
 
-You can see that it goes to [Coinbase](https://coinbase.com)'s [new commerce system](https://commerce.coinbase.com) that they are building, which I feel is really neat, which is again the reason I share it here.  This all got me to explore a lot in the past few weeks especially and I wanted to get my thoughts out in the open here.
+You can see that it goes to [Coinbase](https://coinbase.com)'s [new commerce system](https://commerce.coinbase.com) that they are building, which I feel is really neat, and is again the reason I share it here.  This all got me to explore a lot in the past few weeks especially and I wanted to get my thoughts out in the open here.
 
 ### Option #1: Donations
 
@@ -42,7 +42,7 @@ I have already summarized this.  I could accept donations, but this is a form of
 
 ### Option #2: Donations in Exchange for Something at a Later Date
 
-This is actually what I ended up doing with my "Honor Jar": donate and you get something of value that can be sold at a later date.  The problem is that this "something of value" is my art, and while I am [certainly in love with myself](http://www.ossem.com/about/#franklin-albert-jones), it's a bit pretentious to think that my art is worthy of something to essentially invest in for later value.
+This is actually what I ended up exploring with my "Honor Jar": donate and you get something of value that can be sold at a later date.  The problem is that this "something of value" is my art, and while I am [certainly in love with myself](https://en.wikipedia.org/wiki/Narcissus_(mythology)), it's a bit pretentious to think that my art is worthy of something to essentially invest in for later value.
 
 ### Option #3: ICO
 
