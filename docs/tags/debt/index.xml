@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cryptocurrency on Super.NET Blog, Dawg</title>
-    <link>/tags/cryptocurrency/</link>
-    <description>Recent content in Cryptocurrency on Super.NET Blog, Dawg</description>
+    <title>Debt on Super.NET Blog, Dawg</title>
+    <link>/tags/debt/</link>
+    <description>Recent content in Debt on Super.NET Blog, Dawg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>&amp;copy; 2018 Super.NET</copyright>
     <lastBuildDate>Tue, 10 Jul 2018 07:53:57 -0400</lastBuildDate>
     
-	<atom:link href="/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/debt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/2018/07/funding-super.net-the-options/</guid>
       <description>Figuring out the Money Game I&amp;rsquo;ve had this crazy idea of Super.NET now for about six weeks, I want to say. Probably a little longer. A lot has happened during this time.</description>
-    </item>
-    
-    <item>
-      <title>Business of Art</title>
-      <link>/2018/07/business-of-art/</link>
-      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
-      <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/2018/07/business-of-art/</guid>
-      <description>This is an article on the topic of philosophy in software, business, and life.
-Having explored software as a craft, we can now explore a few aspects of art as a business and the challenges it faces as such.</description>
     </item>
     
   </channel>

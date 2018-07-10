@@ -4,12 +4,17 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-07-05T12:24:56-04:00</lastmod>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/07/funding-super.net-the-options/</loc>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
   </url>
   
   <url>
@@ -594,6 +599,12 @@
   </url>
   
   <url>
+    <loc>/tags/agent-smith/</loc>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/art/</loc>
     <lastmod>2018-07-05T10:30:56-04:00</lastmod>
     <priority>0</priority>
@@ -630,7 +641,7 @@
   
   <url>
     <loc>/categories/business/</loc>
-    <lastmod>2018-07-05T11:02:55-04:00</lastmod>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -647,6 +658,12 @@
   </url>
   
   <url>
+    <loc>/tags/coinbase/</loc>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/commodore-64/</loc>
     <lastmod>2018-07-05T12:24:56-04:00</lastmod>
     <priority>0</priority>
@@ -654,7 +671,13 @@
   
   <url>
     <loc>/tags/cryptocurrency/</loc>
-    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/debt/</loc>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -720,7 +743,7 @@
   
   <url>
     <loc>/tags/hugo/</loc>
-    <lastmod>2018-07-05T10:58:52-04:00</lastmod>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -749,14 +772,14 @@
   </url>
   
   <url>
-    <loc>/authors/mike-eee/</loc>
-    <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+    <loc>/tags/mike-eee/</loc>
+    <lastmod>2018-07-05T10:58:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/mike-eee/</loc>
-    <lastmod>2018-07-05T10:58:52-04:00</lastmod>
+    <loc>/authors/mike-eee/</loc>
+    <lastmod>2018-06-20T05:37:17-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -768,7 +791,13 @@
   
   <url>
     <loc>/categories/philosophy/</loc>
-    <lastmod>2018-07-05T11:02:55-04:00</lastmod>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/planning/</loc>
+    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
     <priority>0</priority>
   </url>
   

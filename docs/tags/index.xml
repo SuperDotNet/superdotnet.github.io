@@ -24,6 +24,15 @@
     </item>
     
     <item>
+      <title>Agent Smith</title>
+      <link>/tags/agent-smith/</link>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/agent-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Art</title>
       <link>/tags/art/</link>
       <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
@@ -69,6 +78,15 @@
     </item>
     
     <item>
+      <title>Coinbase</title>
+      <link>/tags/coinbase/</link>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/coinbase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Commodore 64</title>
       <link>/tags/commodore-64/</link>
       <pubDate>Thu, 05 Jul 2018 12:24:56 -0400</pubDate>
@@ -80,9 +98,18 @@
     <item>
       <title>Cryptocurrency</title>
       <link>/tags/cryptocurrency/</link>
-      <pubDate>Thu, 05 Jul 2018 10:38:52 -0400</pubDate>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debt</title>
+      <link>/tags/debt/</link>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/tags/debt/</guid>
       <description></description>
     </item>
     
@@ -152,7 +179,7 @@
     <item>
       <title>Hugo</title>
       <link>/tags/hugo/</link>
-      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/tags/hugo/</guid>
       <description></description>

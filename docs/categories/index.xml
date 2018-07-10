@@ -26,7 +26,7 @@
     <item>
       <title>Business</title>
       <link>/categories/business/</link>
-      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/categories/business/</guid>
       <description></description>
@@ -62,9 +62,18 @@
     <item>
       <title>Philosophy</title>
       <link>/categories/philosophy/</link>
-      <pubDate>Thu, 05 Jul 2018 11:02:55 -0400</pubDate>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/categories/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning</title>
+      <link>/categories/planning/</link>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/planning/</guid>
       <description></description>
     </item>
     
