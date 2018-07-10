@@ -58,7 +58,7 @@ I think it's clear in all my decisions here that striving for the least amount o
 
 ### Option #4: Take Time to Study the Space
 
-This is sort of where I am at now.  Even though I am essentially working off savings and full-time towards this endeavor, I am not strapped for cash at the moment.  I have about a year to put together a proof-of-concept that explores my ideas and gauge market traction.  Currently I am 
+This is sort of where I am at now.  Even though I am essentially working off savings and full-time towards this endeavor, I am not strapped for cash at the moment.  I have about a year to put together a proof-of-concept that explores my ideas and gauge market traction.  There's a lot to explore here.  Cryptocurrency, blockchains, sidechains, oh my.
 
 ### Option #5: Create a Proof-of-Concept with Revenue Model
 
