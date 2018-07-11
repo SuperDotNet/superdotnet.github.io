@@ -1,2 +1,2 @@
 # blog.superdotnet.run
-The Super.NET blog.
+[The Super.NET Blog, Dawg](https://blog.superdotnet.run).
