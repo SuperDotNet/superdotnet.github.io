@@ -20,7 +20,7 @@ categories:
 
 ## Figuring out the Money Game
 
-I've had this crazy idea of Super.NET now for about six weeks, I want to say.  Probably a little longer.  A lot has happened during this time.  I turned 42, I had a brush of death, which essentially got me to kick out my art and [write about it](http://www.ossem.com/stories/2018/grind/), and coinciding with all of this, exploring [Hugo](https://gohugo.io) and putting together the Super.NET vision.
+I've had this crazy idea of Super.NET now for about six weeks, I want to say.  Probably a little longer.  A lot has happened during this time.  I turned 42 (sorry not sorry, and self-respecting n3rd must pay homage!), I had a [near-brush with death](http://www.ossem.com/stories/2018/grind/), which essentially [kicked out all the art out of me](http://www.ossem.com/), and coinciding with all of this, exploring [Hugo](https://gohugo.io) and putting together the Super.NET vision.
 
 At one point, I did indeed put together a neat coinjar of sorts to accept donations towards the endeavor of building Super.NET.  I liked it, but it still didn't feel right.  Accepting money from others without anything in return is basically a form of going into debt (to me, at least).  From my view, it is not operating from a position of strength, essentially.
 
@@ -28,15 +28,17 @@ Also, you sort of set yourself up to fail in such a scenario.  There's a certain
 
 So, in short, by declaring intentions, you already set yourself up to fail.  [Agent Smith and the Dark Matter](/2018/06/who-is-agent-smith/) understand this dynamic.  It is part of the reason they are so gosh darn quiet all of the time, I would say.
 
-Of course, I have done the unwise thing already and have announced my already **very bold and bombastic intentions with this site**.  Oops.  Too late for me. 😆
+Of course, I have already done the very unwise thing here and have announced my already **very bold and bombastic intentions with this site** and Super.NET.  Oops.  It's too late for me, folks. 😆
 
 ## Hashing Out the Options
 
-I have cycled through a few ways of making money to support my ambitions with Super.NET.  I will go over them here as well as share my thoughts on some other ideas that I have been processing.
+Regardless, we're taking the brave path here, which means trudging forward through the unwise decisions and facing what lies ahead.
+
+Since I do not feel comfortable accepting donations, I wanted to take some time to mention the different considerations that have occurred to me while exploring the different options in their place.
 
 ### Consideration #1: Donations
 
-I cannot help to share the coinjar that I was looking at providing.  This is not done in an effort to accept donations towards this goal (although you can if you feel so called), but to sort of demonstrate my line of reasoning of late, and what I have been investigating.  
+While donations make me uncomfortable, I cannot help to share the coinjar that I was looking at providing.  This is not done in an effort to accept donations towards this goal (although you can if you feel so called), but to sort of demonstrate my line of reasoning of late, and what I have been investigating.  
 
 BEHOLD THE HONAR JAR!
 
