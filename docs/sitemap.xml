@@ -4,12 +4,17 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <lastmod>2018-10-24T02:13:54-04:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/10/october-2018-update/</loc>
+    <lastmod>2018-10-24T02:13:54-04:00</lastmod>
   </url>
   
   <url>
@@ -784,6 +789,12 @@
   </url>
   
   <url>
+    <loc>/tags/officetimeline/</loc>
+    <lastmod>2018-10-24T02:13:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/outliers/</loc>
     <lastmod>2018-07-05T11:02:55-04:00</lastmod>
     <priority>0</priority>
@@ -798,6 +809,12 @@
   <url>
     <loc>/categories/planning/</loc>
     <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/projectx/</loc>
+    <lastmod>2018-10-24T02:13:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -834,6 +851,12 @@
   <url>
     <loc>/series/</loc>
     <lastmod>2015-10-01T20:29:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/status/</loc>
+    <lastmod>2018-10-24T02:13:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   

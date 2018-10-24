@@ -9,10 +9,20 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Tue, 10 Jul 2018 07:53:57 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 02:13:54 -0400</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>October 2018 Update</title>
+      <link>/2018/10/october-2018-update/</link>
+      <pubDate>Wed, 24 Oct 2018 02:13:54 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2018/10/october-2018-update/</guid>
+      <description>Alrighty, a little update here on what has been going on in my efforts here with Super.NET.
+Funding To start, things have finally settled down in the area of focus.</description>
+    </item>
     
     <item>
       <title>Funding Super.NET: The Options</title>
