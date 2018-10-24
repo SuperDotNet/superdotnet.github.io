@@ -26,7 +26,7 @@ series:
 This series exists to build support around the idea of a ubiquitous .NET client application development model. This is not intended to be a final solution, but a starting point for discussion, awareness, and a sign of demand. Show your support by voting for this idea here:
 
 <div class="push-button-container"><div class="push-button">
-</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="/images/VoteNow.svg" /></a></div>
 
 ### The Final Chapter
 
@@ -64,7 +64,7 @@ One billion users might seem a lot – and it is – but it is not the entire de
 
 <div id="attachment_275" style="width: 1034px" class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/09/20150923021143.png"><img class="wp-image-275 size-large" src="/wp-content/uploads/2015/09/20150923021143-1024x753.png" alt="Chart demonstrating marketplace accessibility for various platforms." width="1024" height="753" srcset="/wp-content/uploads/2015/09/20150923021143-1024x753.png 1024w, /wp-content/uploads/2015/09/20150923021143-300x221.png 300w, /wp-content/uploads/2015/09/20150923021143-768x565.png 768w, /wp-content/uploads/2015/09/20150923021143.png 1095w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
-  
+
   <p class="wp-caption-text">
     Estimated technology platform reach up to 2018.  Behold, HTML5&#8217;s Wall of Ubiquity.
   </p>
@@ -90,7 +90,7 @@ Microsoft .NET client developers win, Microsoft shareholders win, Microsoft Wins
 
 <div id="attachment_328" style="width: 641px" class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/09/Vision.png"><img class="size-full wp-image-328" src="/wp-content/uploads/2015/09/Vision.png" alt="The Vision of a Ubiquitous .NET Client Application Development Model" width="631" height="434" srcset="/wp-content/uploads/2015/09/Vision.png 631w, /wp-content/uploads/2015/09/Vision-300x206.png 300w" sizes="(max-width: 631px) 100vw, 631px" /></a>
-  
+
   <p class="wp-caption-text">
     The Vision of a Ubiquitous .NET Client Application Development Model
   </p>
@@ -115,11 +115,11 @@ Developers Win! is all about garnering support around important issues, and aro
 We also encourage you to provide your input in the comments below.  Thank you for your consideration and support in advancing a future where Developers Win!
 
 <div class="push-button-container"><div class="push-button">
-</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="/images/VoteNow.svg" /></a></div>
 
- [1]: https://en.wikipedia.org/wiki/Source-to-source_compiler
- [2]: http://jsil.org
- [3]: http://cshtml5.com
- [4]: http://duoco.de
- [5]: https://evolve.xamarin.com/
- [6]: http://xamarin.com
+[1]: https://en.wikipedia.org/wiki/Source-to-source_compiler
+[2]: http://jsil.org
+[3]: http://cshtml5.com
+[4]: http://duoco.de
+[5]: https://evolve.xamarin.com/
+[6]: http://xamarin.com

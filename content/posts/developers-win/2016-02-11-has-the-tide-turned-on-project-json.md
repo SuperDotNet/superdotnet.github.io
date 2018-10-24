@@ -77,7 +77,7 @@ Finally, the last consideration here is scheduling and effort.  Look at all the
 If you agree with me and would like to see Microsoft reconsider its current path in its project.json initiative, please show your support here:
 
 <div class="push-button-container"><div class="push-button">
-</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/9347001-improve-reboot-visual-studio-project-system" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/9347001-improve-reboot-visual-studio-project-system" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="/images/VoteNow.svg" /></a></div>
 
  [1]: http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10020525-enable-roslyn-powered-data-asts-and-data-views
  [2]: /category/weekly-vote-reports/

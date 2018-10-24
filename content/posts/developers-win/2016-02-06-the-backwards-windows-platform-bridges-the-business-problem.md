@@ -19,7 +19,7 @@ categories:
 This post exists to build consensus in the Microsoft developer community around the idea of a ubiquitous .NET client application development model.  Show your support by voting for this idea here:
 
 <div class="push-button-container"><div class="push-button">
-</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="/images/VoteNow.svg" /></a></div>
 
 ### Building a Bridge
 
@@ -90,4 +90,4 @@ It might seem like I am a hater from the above list.  But, keep in mind this is
 In case Xamarin doesn&#8217;t announce the next greatest technology advancement since <a href="/2015/10/existing-net-client-application-models/#silverlight" target="_blank">Silverlight</a> at Evolve 2016, please take a moment to visit Visual Studio&#8217;s UserVoice and let them know you would like to see a ubiquitous .NET client application development model offering by clicking our vote button here:
 
 <div class="push-button-container"><div class="push-button">
-</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="/images/VoteNow.svg" /></a></div>

@@ -38,7 +38,7 @@ Awwww&#8230; thank you.  You&#8217;re not bad yourself!  Thank you for taking 
 Ah yes, the reason why I created this blog in the first place.  If you are a concerned .NET/Microsoft citizen, please vote to tell Microsoft that you want to see serious change in its tooling ecosystem to fully realize and enjoy the full market reach that NodeJS currently does today:
 
 <div class="push-button-container"><div class="push-button">
-</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="http://uploads.webflow.com/55e079ccd960e71226582014/55d09ab72123fb7e3e46b1cd_Vote%20Now!%20Text.svg" /></a></div>
+</div><a class="w-inline-block top-lighting" href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/10027638-create-a-ubiquitous-net-client-application-develo" target="_blank"><div class="glass-insert" data-ix="blink" style="transition: opacity 500ms ease-in-out; opacity: 0;"></div><img class="push-button-vote-text" src="/images/VoteNow.svg" /></a></div>
 
 Thank you all for any consideration, feedback, and support in my effort to learn and grow!
 
