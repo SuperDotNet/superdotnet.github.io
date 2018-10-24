@@ -33,7 +33,7 @@ So how was I able to convince my friends and family to fork over enough resource
 Project.X is the first application that is to be built upon Super.NET.  To be honest, I do not entirely know what it is just yet, but I am sketching a few ideas.  To give out some idea on what I am dancing around, I am thinking that Project.X is:
 
 - Based on cryptocurrency (which may or may not involve its own token)
-- May or may not (but as of today, leans more towards *may*) be related to my efforts with my art project.
+- May or may not (but as of today, leans more towards *may*) be related to my efforts with [my art project](http://ossem.com/).
 - Has its own business model
 
 The last part there is key, of course.  It's difficult to ask for support and financing for an open source project when it doesn't generate any revenues.  However, if you have an idea that can generate money, that is a different ball game altogether.
