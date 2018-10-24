@@ -610,14 +610,14 @@
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <loc>/categories/art/</loc>
+    <lastmod>2018-07-05T10:30:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
-    <lastmod>2018-07-05T10:30:56-04:00</lastmod>
+    <loc>/tags/art/</loc>
+    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -693,14 +693,14 @@
   </url>
   
   <url>
-    <loc>/tags/developers-win/</loc>
-    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <loc>/categories/developers-win/</loc>
+    <lastmod>2018-05-25T13:07:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/developers-win/</loc>
-    <lastmod>2018-05-25T13:07:40+00:00</lastmod>
+    <loc>/tags/developers-win/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -723,14 +723,14 @@
   </url>
   
   <url>
-    <loc>/tags/general/</loc>
-    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <loc>/categories/general/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/general/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>/tags/general/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
