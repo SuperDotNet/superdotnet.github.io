@@ -20,7 +20,7 @@ categories:
 
 ## Figuring out the Money Game
 
-I've had this crazy idea of Super.NET now for about six weeks, I want to say.  Probably a little longer.  A lot has happened during this time.  I turned 42 (sorry not sorry, and self-respecting n3rd must pay homage!), I had a [near-brush with death](http://www.ossem.com/stories/2018/grind/), which essentially [kicked out all the art out of me](http://www.ossem.com/), and coinciding with all of this, exploring [Hugo](https://gohugo.io) and putting together the Super.NET vision.
+I've had this crazy idea of Super.NET now for about six weeks, I want to say.  Probably a little longer.  A lot has happened during this time.  I turned 42 (sorry not sorry, and [self-respecting n3rd must pay homage](https://www.quora.com/Why-and-how-is-42-the-answer-to-life-the-universe-and-everything)!), I had a [near-brush with death](http://www.ossem.com/stories/2018/grind/), which essentially [kicked out all the art out of me](http://www.ossem.com/), and coinciding with all of this, exploring [Hugo](https://gohugo.io) and putting together the Super.NET vision.
 
 At one point, I did indeed put together a neat coinjar of sorts to accept donations towards the endeavor of building Super.NET.  I liked it, but it still didn't feel right.  Accepting money from others without anything in return is basically a form of going into debt (to me, at least).  From my view, it is not operating from a position of strength, essentially.
 
