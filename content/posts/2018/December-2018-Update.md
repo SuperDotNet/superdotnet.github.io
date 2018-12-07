@@ -3,7 +3,7 @@ title: "December 2018 Update"
 date: 2018-11-21T02:13:54-05:00
 publishdate: 2018-12-07T00:00:00-05:00
 year: "2018"
-draft: true
+draft: false
 authors:
   - Mike-EEE
 authorurl: "https://github.com/Mike-EEE"
