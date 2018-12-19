@@ -12,6 +12,7 @@ tags:
   - vhs
 categories:
   - Financial
+typora-root-url: ..\..\..\static
 ---
 
 ## What Now?
@@ -40,7 +41,7 @@ Providing some additional context here, I moved back from the Seattle area to my
 
 Last summer, I took the first swipe at accounting for this and helped clear out my family's basement which required a lot of bookkeeping (for lack of a better expression 😁).  We're talking two decades' worth of history and more found in this effort.  It was incredibly grueling and I got most of it done, with the exception of the family media in the form of digitizing VHS tapes to make for some room.
 
-![Taking care of some family business](https://lh3.googleusercontent.com/kJCGVroOLsBNhzG2C1efPj124ulhJ5GO45LzmuhrxITY6-4k4rD4Iz51um9taazRhb3X7agpoGkgesbRk2-gJfC3gcuymVploi6GnsFEIOTpuFQd49dZSakMuqpen1aXKKZS_ouMjCkhHoW4a9oTFc0tdhHBSUSH8DvX58GzClSSCue6X0CuDp54Zs38c3587I8j1rF9xIfAfkrMhVk22ECXO1W2CkajsFyy_u5n2fQLWHxHA6_lEsYL2pqHV224dBZ3VfcEj4FOKvf189i6KtHhMDZRBD255PEOiwb0sG1lCoLrwLcsMCDO0bMopJF_jY3L0Os51ms78HnPFmt8mu0TnqO1CYxas-Zkl2-8bRYph7_rPacb5MkmY2t-pQz8QxV9KZGyw7OaEhCT62wtIg17-WvgVnB4GAYy4YpFsagW9db2AdJxYBrqeD-VC3T2ja_Djh4utGoGq4o8Qu18XvR_z-qVTTguFJPYhpX3ayL1WNWC8N9UrfkvKBEcNa5lbzain0ayDoVHofcEW6D_qsXucSgIC7zDaT8AFTrnYATCLKjaBaX6L8kGKUfBNQkvS2jM47nbgLugPkJ6XoNyDwKqJH4s4-8NLewT3kNq7QevWr-NMrFLMXiFSMDAfhZnvVUAUrOwVoHQ963_cY-i0TYK=w1346-h1009-no)
+![Taking care of some family business](/images/20181122_110333.jpg)
 
 These past six weeks have been spent on attending to those video tapes as well as my own personal media found in MiniDVs, which ironically have been far more challenging and a pain to resolve.
 
