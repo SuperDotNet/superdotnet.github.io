@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Failure on Super.NET Blog, Dawg</title>
+    <link>/tags/failure/</link>
+    <description>Recent content in Failure on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Mon, 21 Jan 2019 04:09:41 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/failure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>January 2019 Update</title>
+      <link>/2019/01/january-2019-update/</link>
+      <pubDate>Mon, 21 Jan 2019 04:09:41 -0500</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/01/january-2019-update/</guid>
+      <description>Welcome to another &amp;ndash; and perhaps the last &amp;ndash; installment of the &amp;ldquo;monthly&amp;rdquo; status updates here on Super.NET. Last month, I declared I would update here on the first Friday of every month.</description>
+    </item>
+    
+  </channel>
+</rss>
