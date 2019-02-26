@@ -36,7 +36,7 @@ pygmentsCodeFences = true
 	email = "run@superdotnet.run"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:slug/"
 	
 [params]
     description = "Super.NET's official blog, dawg."

@@ -9,10 +9,19 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Mon, 21 Jan 2019 04:09:41 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 10:33:08 -0500</lastBuildDate>
     
 	<atom:link href="/categories/status/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>February / March 2019 Update</title>
+      <link>/2019/02/february-march-2019-update/</link>
+      <pubDate>Tue, 12 Feb 2019 10:33:08 -0500</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/02/february-march-2019-update/</guid>
+      <description>Yeah yeah&amp;hellip; I know last time that I said I wouldn&amp;rsquo;t do these any more, but I wanted to &amp;ldquo;check-in&amp;rdquo; and let you know that I am still alive and still have my heart set on this project, even if it&amp;rsquo;s already 3 months (!</description>
+    </item>
     
     <item>
       <title>January 2019 Update</title>
