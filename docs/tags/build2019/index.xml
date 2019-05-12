@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build2019 on Super.NET Blog, Dawg</title>
+    <link>/tags/build2019/</link>
+    <description>Recent content in Build2019 on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Sun, 12 May 2019 06:31:46 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/build2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>May 2019 Update</title>
+      <link>/2019/05/may-2019-update/</link>
+      <pubDate>Sun, 12 May 2019 06:31:46 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/05/may-2019-update/</guid>
+      <description>OK! In my last update I mentioned how I was going to stop doing these. Guess that shows you to not pay attention to the things I say, huh. 😆</description>
+    </item>
+    
+  </channel>
+</rss>
