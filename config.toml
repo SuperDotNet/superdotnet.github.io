@@ -40,7 +40,7 @@ pygmentsCodeFences = true
 	
 [params]
     description = "Super.NET's official blog, dawg."
-    tagline = "Words on the brave path towards a ubiquitous .NET client model."
+    tagline = "Words on the brave, crazy path towards a ubiquitous .NET client model."
 	
 ## Main Menu
 [[menu.main]]
