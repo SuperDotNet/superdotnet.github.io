@@ -114,9 +114,18 @@
     </item>
     
     <item>
+      <title>Releases</title>
+      <link>/categories/releases/</link>
+      <pubDate>Mon, 27 May 2019 05:24:02 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/releases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Status</title>
       <link>/categories/status/</link>
-      <pubDate>Sun, 12 May 2019 06:31:46 -0400</pubDate>
+      <pubDate>Mon, 27 May 2019 05:24:02 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/categories/status/</guid>
       <description></description>

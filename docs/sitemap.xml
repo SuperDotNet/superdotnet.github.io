@@ -4,12 +4,17 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-05-12T06:31:46-04:00</lastmod>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/05/super.net-v0.0.1/</loc>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
   </url>
   
   <url>
@@ -718,7 +723,7 @@
   
   <url>
     <loc>/tags/cryptocurrency/</loc>
-    <lastmod>2018-07-10T07:53:57-04:00</lastmod>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -743,6 +748,18 @@
   <url>
     <loc>/tags/developers-win/</loc>
     <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dotnetcore3.0/</loc>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dragonspark/</loc>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -921,6 +938,12 @@
   </url>
   
   <url>
+    <loc>/categories/releases/</loc>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/satya-nadella/</loc>
     <lastmod>2018-07-05T11:02:55-04:00</lastmod>
     <priority>0</priority>
@@ -934,7 +957,7 @@
   
   <url>
     <loc>/categories/status/</loc>
-    <lastmod>2019-05-12T06:31:46-04:00</lastmod>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -989,6 +1012,18 @@
   <url>
     <loc>/tags/words/</loc>
     <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wpf/</loc>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/xaml/</loc>
+    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
     <priority>0</priority>
   </url>
   

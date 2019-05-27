@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wpf on Super.NET Blog, Dawg</title>
+    <link>/tags/wpf/</link>
+    <description>Recent content in Wpf on Super.NET Blog, Dawg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
+    <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
+    <copyright>&amp;copy; 2018 Super.NET</copyright>
+    <lastBuildDate>Mon, 27 May 2019 05:24:02 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/wpf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Super.NET V0.0.1</title>
+      <link>/2019/05/super.net-v0.0.1/</link>
+      <pubDate>Mon, 27 May 2019 05:24:02 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/05/super.net-v0.0.1/</guid>
+      <description>Finally, Some Progress: v0.0.1 Today I am pleased to announce that Super.NET v0.0.1 is completed.
+While that might sound exciting, it actually means nothing. The v0.0.1 release is simply a foundational and framework release, intended to provide the core framework infrastructure to build components and supporting cast on top of it.</description>
+    </item>
+    
+  </channel>
+</rss>
