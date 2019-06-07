@@ -9,10 +9,20 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Mon, 27 May 2019 05:24:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 23:20:29 -0400</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>June 2019 Update</title>
+      <link>/2019/06/june-2019-update/</link>
+      <pubDate>Thu, 06 Jun 2019 23:20:29 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/06/june-2019-update/</guid>
+      <description>It&amp;rsquo;s only been a few weeks since my last check-in. Hey, I&amp;rsquo;m getting pretty good at this. 😆
+What&amp;rsquo;s Up Now, Doc? In my last update, I left you with the impression that I was working on the Super.</description>
+    </item>
     
     <item>
       <title>Super.NET V0.0.1</title>

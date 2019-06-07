@@ -4,12 +4,17 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2018-06-20T05:37:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/06/june-2019-update/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
   </url>
   
   <url>
@@ -645,14 +650,14 @@
   </url>
   
   <url>
-    <loc>/tags/art/</loc>
-    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <loc>/categories/art/</loc>
+    <lastmod>2018-07-05T10:30:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
-    <lastmod>2018-07-05T10:30:56-04:00</lastmod>
+    <loc>/tags/art/</loc>
+    <lastmod>2018-07-05T10:38:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -670,6 +675,18 @@
   <url>
     <loc>/tags/bitcoin/</loc>
     <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blazor/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blazorise/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -740,14 +757,14 @@
   </url>
   
   <url>
-    <loc>/tags/developers-win/</loc>
-    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
+    <loc>/categories/developers-win/</loc>
+    <lastmod>2018-05-25T13:07:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/developers-win/</loc>
-    <lastmod>2018-05-25T13:07:40+00:00</lastmod>
+    <loc>/tags/developers-win/</loc>
+    <lastmod>2018-06-20T01:18:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -766,6 +783,12 @@
   <url>
     <loc>/tags/duke-nukem/</loc>
     <lastmod>2018-07-05T10:38:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ethereum/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -806,14 +829,14 @@
   </url>
   
   <url>
-    <loc>/tags/general/</loc>
-    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
+    <loc>/categories/general/</loc>
+    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/general/</loc>
-    <lastmod>2018-06-21T00:00:00+00:00</lastmod>
+    <loc>/tags/general/</loc>
+    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -872,14 +895,32 @@
   </url>
   
   <url>
+    <loc>/tags/nethereum/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/officetimeline/</loc>
     <lastmod>2018-10-24T02:13:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/ooui/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/outliers/</loc>
     <lastmod>2018-07-05T11:02:55-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/patternfly/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -920,6 +961,12 @@
   </url>
   
   <url>
+    <loc>/tags/pwa/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/quotes/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -956,14 +1003,14 @@
   </url>
   
   <url>
-    <loc>/tags/status/</loc>
-    <lastmod>2019-05-12T06:31:46-04:00</lastmod>
+    <loc>/categories/status/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/status/</loc>
-    <lastmod>2019-05-27T05:24:02-04:00</lastmod>
+    <loc>/tags/status/</loc>
+    <lastmod>2019-05-12T06:31:46-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -994,6 +1041,12 @@
   <url>
     <loc>/tags/vhs/</loc>
     <lastmod>2018-12-16T01:16:17-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/webassembly/</loc>
+    <lastmod>2019-06-06T23:20:29-04:00</lastmod>
     <priority>0</priority>
   </url>
   

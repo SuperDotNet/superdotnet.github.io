@@ -1,0 +1,314 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>June 2019 Update &middot; Super.NET Blog, Dawg</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Super.NET&#39;s official blog, dawg." />
+  <meta name="author" content="Mike-EEE" />
+  <meta name="generator" content="Hugo 0.54.0" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="/css/styles.css" />
+  <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+  <link rel="shortcut icon" href="/favicon.png">
+  
+ <script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true
+  }
+</script></head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1><a href="/"><img src="/images/logo.png" class="float" style="width: 64px; box-shadow: none; vertical-align:middle;padding-right: 16px" /></a> <a href="/">Super.NET Blog, Dawg</a></h1>
+
+      <ul id="social-media">
+		 
+		 
+		 
+		
+        <li><a href="https://github.com/SuperDotNet"><i class="fab fa-github fa-lg" aria-hidden="true"></i></a></li>
+			 
+         
+		
+         
+		
+        <li><a href="mailto:run@superdotnet.run"><i class="fas fa-at fa-lg" aria-hidden="true"></i></a></li>
+        
+      </ul>
+      
+      <p><em>Words on the brave, crazy path towards a ubiquitous .NET client model.</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://superdotnet.run">
+                <i class="fa-li fa  fa-lg"></i><span>Super.NET</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/posts/">
+                <i class="fa-li fa  fa-lg"></i><span>Contents</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About</span>
+            </a>
+        </li>
+        
+        <li>
+            <a class="" href="/index.xml">
+                <i class="fa-li fa  fa-lg"></i><span>Subscribe</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+	
+    <main>
+		<div class="toast">
+			<a href="/categories/developers-win/">Developers Win!</a> is now Super.NET.  <a href="/2018/06/hello-world-welcome-to-super.net-blog-dawg/#learn">Learn More</a>
+		</div>
+
+
+
+
+<article>
+
+    <h1>June 2019 Update</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2019-06-06T23:20:29-04:00">Jun 6, 2019</time>
+			
+			
+			&nbsp; &middot; &nbsp;
+			
+			<a href="https://github.com/Mike-EEE">Mike-EEE</a>
+			
+			&nbsp; &middot; &nbsp;
+			5 min read
+			</li>
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="/categories/status/">Status</a>
+                
+            </em>
+        </li>
+        
+
+        
+        <li>
+            <em>
+                
+                    
+                    <a href="/tags/ethereum/">#Ethereum</a>
+                
+                    , 
+                    <a href="/tags/nethereum/">#Nethereum</a>
+                
+                    , 
+                    <a href="/tags/blazor/">#Blazor</a>
+                
+                    , 
+                    <a href="/tags/webassembly/">#WebAssembly</a>
+                
+                    , 
+                    <a href="/tags/ooui/">#Ooui</a>
+                
+                    , 
+                    <a href="/tags/patternfly/">#PatternFly</a>
+                
+                    , 
+                    <a href="/tags/blazorise/">#Blazorise</a>
+                
+                    , 
+                    <a href="/tags/pwa/">#PWA</a>
+                
+            </em>
+        </li>
+                
+    </ul>
+</aside>
+    
+
+    
+
+<p>It&rsquo;s only been a few weeks since my last check-in.  Hey, I&rsquo;m getting pretty good at this. 😆</p>
+
+<h3 id="what-s-up-now-doc">What&rsquo;s Up Now, Doc?</h3>
+
+<p>In my <a href="https://blog.superdotnet.run/2019/05/super.net-v0.0.1/">last update</a>, I left you with the impression that I was working on the Super.NET serializer.  This is still the case.  However, I have landed on a rather meaningful discovery that I wanted to share.</p>
+
+<h3 id="achieving-the-ubiquitous">Achieving the Ubiquitous (!)</h3>
+
+<p>You might be familiar with <a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&amp;tabs=visual-studio">Blazor</a>.  I have been for a while, and have been discounting it as my impression was that it was exclusively <a href="https://webassembly.org/">WebAssembly</a>.</p>
+
+<p>It turns out that this <em>not</em> the case.  Blazor is much like <a href="https://github.com/praeclarum/Ooui">Ooui</a> &ndash; or even <a href="https://twitter.com/praeclarum/status/1136670167927103488">exactly</a> like it &ndash; in that it has a &ldquo;<a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-3.0#server-side">server-side</a>&rdquo; mode where the application&rsquo;s state is maintained by a WebSocket bridge between client and server.  This means the developer works exclusively in .NET and state is maintained seamlessly by the WebSocket bridge.  *And <strong>this</strong> means never having to explicitly work with JavaScript and working 100% within .NET.*</p>
+
+<p><em>For those keeping score at home, this is exactly what I had envisioned with this project.</em></p>
+
+<p>I cannot begin to describe how elated that makes me as I no longer have to &ldquo;eat the world&rdquo; with the amount of code I would have to write to make this a reality. 😇</p>
+
+<h3 id="mission-accomplished">Mission Accomplished?</h3>
+
+<p>So, to me, <strong>we&rsquo;re here</strong>! 🎉  We&rsquo;re <em>finally</em> to a point where a viable solution can be made in .NET and used everywhere.</p>
+
+<p>I am a firm believer that <a href="https://medium.com/@amberleyjohanna/seriously-though-what-is-a-progressive-web-app-56130600a093">progressive web applications</a> are the future, and Blazor caters to this quite nicely.  With native store-hosted development, you are required to install ginormous SDKs and are confined to the policies and limits of the hosted store &ndash; <em>for each platform</em>.</p>
+
+<p>With HTML5/web-based development, there is none of that.  The only requirement is to install a browser, and with a modern device, that is already taken care of for you as the developer.</p>
+
+<p>To me, there is only one way to develop in the modern marketplace, and that is HTML5.  The blocking issue up to this point is that there has not been a viable development paradigm for .NET, as they all required to work with JavaScript which is an expensive and unpleasant proposition.</p>
+
+<p>Blazor <em>finally</em> fixes this.  However, there is a caveat.</p>
+
+<h3 id="eating-the-ugly">Eating the Ugly</h3>
+
+<p>The only misgiving that remains is that Blazor&rsquo;s syntax &ndash; the Razor syntax and engine &ndash; isn&rsquo;t Xaml.  It&rsquo;s a templating engine that intermixes HTML and .NET, the results of which are documents that look Frankenstein in nature, mixing views with code and looks <em>nothing</em> like Xaml.</p>
+
+<p>However, all things considered, I am OK with this.  It is at least in a place where it is palatable.  The Razor engine is powerful, and there is a lot to be said about its <a href="https://docs.microsoft.com/en-us/aspnet/core/blazor/components?view=aspnetcore-3.0">Razor Component model</a>.  In fact, when you add in components from a framework like <a href="https://blazorise.com/">Blazorise</a> or <a href="https://github.com/WildGums/Blazorc.PatternFly">PatternFly</a>, the markup looks more <a href="https://www.quora.com/What-is-the-difference-between-Pascal-Case-and-Camel-Case">Pascal-cased</a> and Xaml-like.</p>
+
+<p>One could even take this a step further and introduce more <code>ComponentBase</code>&rsquo;s, and replace the <code>div</code> and <code>p</code> with <code>Container</code> and <code>Paragraph</code>.  At least, I am considering as a personal endeavor.</p>
+
+<h3 id="what-s-next">What&rsquo;s Next?</h3>
+
+<p>These developments sort of put me in a bind, because now, the point of a serializer is &ndash; at this point &ndash; moot and non-obvious.  Recall that the serializer was meant to be able to describe POCOs that later get emitted as HTML.  This is no longer necessary as Blazor templating will take care of that problem space altogether.</p>
+
+<p>The major consideration is that .NET Core 3.0 and Blazor will not be released until November.  That is still a lot of time to work out major issues and bugs &ndash; bugs that one would have to be working with during that time.  I am inclined to continue work on the serializer during this time anyways as I would like something in my back pocket to know that I serialize any .NET object in case that I need to do so.</p>
+
+<p>It also gives me time to start thinking about the first client application to build.</p>
+
+<h4 id="client-application">Client Application</h4>
+
+<p>Speaking of which, a solid shout of respect to <a href="https://github.com/juanfranblanco">Juan Blanco</a> for his overwhelmingly impressive <a href="https://github.com/Nethereum/Nethereum">Nethereum project</a>.  He actually has a working Blazor application <a href="https://github.com/Nethereum/NethereumBlazor">that is available here</a> and I have been exploring it.  <a href="https://www.ethereum.org/">Ethereum</a> is one of the blockchain technologies that I have been researching, along with <a href="https://github.com/eosio">EOS</a>.  I would like to build an application (or two 😁) on these platforms.</p>
+
+<p>It&rsquo;s great to see Mr. Blanco&rsquo;s work and efforts established and already taking hold.  Check it out and <a href="https://github.com/Nethereum/Nethereum/stargazers">star his repo</a>!</p>
+
+<p>Having Nethereum along with Blazor is a boon, as now all major the pieces are in place to develop a client application and really start creating again.</p>
+
+<h3 id="signing-off">Signing Off</h3>
+
+<p>Now that Blazor has arrived and a ubiquitous .NET solution is (<em>finally!</em>) upon us, I am not sure of my efforts here with Super.NET at the moment.  Perhaps I will make it a generalized framework around Blazor, perhaps I might close it altogether.  I still have not marketed or promoted this project and to be honest, I am sort of glad I haven&rsquo;t.</p>
+
+<p>All that said, I am not sure when the next update will arrive.  I know it seems like I say that with every post, haha.  But, if I do have something interesting to say, I will be sure to post it here.  Maybe I will get into serialization and make a few posts around that.</p>
+
+<p>Stay tuned. 🎉</p>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="/2019/05/super.net-v0.0.1/"><i class="fa fa-chevron-circle-left"></i> Super.NET V0.0.1</a>
+        </li>
+        
+        
+    </ul>
+</section>
+    
+        <section class="comments-block">
+      <button id="show-comments" style="display: auto;"><i class="fa fa-comments" aria-hidden="true"></i> Comments</button>
+</section>
+
+<section id="disqus_thread"></section>
+
+<script>
+      (function () {
+            
+            
+            if (window.location.hostname == "localhost")
+                  return;
+
+            var disqus_loaded = false;
+            var disqus_shortname = 'superdotnet';
+            var disqus_button = document.getElementById("show-comments");
+
+            disqus_button.style.display = "";
+            disqus_button.addEventListener("click", disqus, false);
+
+            function disqus() {
+
+                  if (!disqus_loaded) {
+                        disqus_loaded = true;
+
+                        var e = document.createElement("script");
+                        e.type = "text/javascript";
+                        e.async = true;
+                        e.src = "//" + disqus_shortname + ".disqus.com/embed.js";
+                        (document.getElementsByTagName("head")[0] ||
+                              document.getElementsByTagName("body")[0])
+                        .appendChild(e);
+
+                        
+                        document.getElementById("show-comments").style.display = "none";
+                  }
+            }
+
+            
+            var hash = window.location.hash.substr(1);
+            if (hash.length > 8) {
+                  if (hash.substring(0, 8) == "comment-") {
+                        disqus();
+                  }
+            }
+
+            
+            if (/bot|google|baidu|bing|msn|duckduckgo|slurp|yandex/i.test(navigator.userAgent)) {
+                  disqus();
+            }
+      })();
+</script>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>&copy; 2018 Super.NET &nbsp; &middot; &nbsp;
+            Proudly Powered by <a href="https://gohugo.io" title="Hugo">Hugo's</a> and Rendered by the Aptly Named <a href="https://github.com/avianto/hugo-kiera" title="Kiera">Kiera</a>
+        </h6>
+    </footer>
+	
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-121100023-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+</div>
+<script src="/js/scripts.js"></script>
+
+</body>
+
+</html>
