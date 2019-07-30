@@ -10,6 +10,7 @@ tags:
   - Blazor
   - Art
   - Ethereum
+  - Nethereum
 categories:
   - Status
 ---
@@ -36,7 +37,7 @@ There are a few areas I would like to flesh out around this area, the first and 
 
 So, what is the first application?  Well, as I believe I have mentioned in other posts on this blog, one of my first dreams in life was to be a comic book artist.  Last year, I put together [an art project](https://ossem.com/) that revisited and unearthed that desire.
 
-While I would not want to be *exactly* a comic book artist now, I first and foremost describe myself as an artist (or "creative").  For my first Blazor application, I am thinking of taking my art project and turning it into a store, whereby I can sell such art in a peer-to-peer manner via cryptocurrency ([Ethereum](https://www.ethereum.org/), to be exact).
+While I would not want to be *exactly* a comic book artist now, I first and foremost describe myself as an artist (or "creative").  For my first Blazor application, I am thinking of taking my art project and turning it into a store, whereby I can sell such art in a peer-to-peer manner via cryptocurrency ([Ethereum](https://www.ethereum.org/) via [Nethereum](https://github.com/Nethereum/), to be exact).
 
 For reference, the first version of my art project -- as well as this blog that you are reading this on here -- is done with the amazing [Hugo](https://gohugo.io/).  I had considered progressing this art project with Hugo, but limitations prohibited some key functionality as Hugo is a static content generator and the functionality I envisioned required dynamic interaction and updating.
 
