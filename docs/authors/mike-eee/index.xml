@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Eee on Super.NET Blog, Dawg</title>
+    <title>Mike-EEE on Super.NET Blog, Dawg</title>
     <link>/authors/mike-eee/</link>
-    <description>Recent content in Mike Eee on Super.NET Blog, Dawg</description>
+    <description>Recent content in Mike-EEE on Super.NET Blog, Dawg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Wed, 20 Jun 2018 05:37:17 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 04:09:21 -0500</lastBuildDate>
     
 	<atom:link href="/authors/mike-eee/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,6 +22,16 @@
       <guid>/about/</guid>
       <description>Welcome to the Super.NET blog. Here you will find updates to thoughts and discussions around Super.NET.
 Whereas the primary Super.NET site is meant more for establishing vision and explanatory purposes, this site is mostly for the information and/or thoughts that have occurred after that site was initially created and published.</description>
+    </item>
+    
+    <item>
+      <title>Archiving This Project</title>
+      <link>/2019/11/archiving-this-project/</link>
+      <pubDate>Wed, 06 Nov 2019 04:09:21 -0500</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/11/archiving-this-project/</guid>
+      <description>Greetings to the 20 hits-per-month that I get on this site, for whatever reason. 😆
+Riding on the news of the previous update, I wanted to put some official finality on this project.</description>
     </item>
     
     <item>

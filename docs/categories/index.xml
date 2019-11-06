@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Super.NET Blog, Dawg</title>
@@ -9,44 +9,26 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Thu, 05 Jul 2018 10:30:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 04:09:21 -0500</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Art</title>
-      <link>/categories/art/</link>
-      <pubDate>Thu, 05 Jul 2018 10:30:56 -0400</pubDate>
+      <title>Status</title>
+      <link>/categories/status/</link>
+      <pubDate>Wed, 06 Nov 2019 04:09:21 -0500</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/art/</guid>
+      <guid>/categories/status/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Business</title>
-      <link>/categories/business/</link>
-      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
+      <title>Releases</title>
+      <link>/categories/releases/</link>
+      <pubDate>Mon, 27 May 2019 05:24:02 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>/categories/design/</link>
-      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
-      <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developers Win</title>
-      <link>/categories/developers-win/</link>
-      <pubDate>Fri, 25 May 2018 13:07:40 +0000</pubDate>
-      <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/developers-win/</guid>
+      <guid>/categories/releases/</guid>
       <description></description>
     </item>
     
@@ -60,11 +42,11 @@
     </item>
     
     <item>
-      <title>General</title>
-      <link>/categories/general/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Business</title>
+      <link>/categories/business/</link>
+      <pubDate>Tue, 10 Jul 2018 07:53:57 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/general/</guid>
+      <guid>/categories/business/</guid>
       <description></description>
     </item>
     
@@ -87,11 +69,56 @@
     </item>
     
     <item>
+      <title>Random Thoughts</title>
+      <link>/categories/random-thoughts/</link>
+      <pubDate>Thu, 05 Jul 2018 12:24:56 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/random-thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>/categories/design/</link>
+      <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Psychology</title>
       <link>/categories/psychology/</link>
       <pubDate>Thu, 05 Jul 2018 10:58:52 -0400</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/categories/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>/categories/art/</link>
+      <pubDate>Thu, 05 Jul 2018 10:30:56 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>General</title>
+      <link>/categories/general/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/general/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/categories/welcome/</link>
+      <pubDate>Wed, 20 Jun 2018 01:18:46 -0400</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/categories/welcome/</guid>
       <description></description>
     </item>
     
@@ -105,29 +132,11 @@
     </item>
     
     <item>
-      <title>Random Thoughts</title>
-      <link>/categories/random-thoughts/</link>
-      <pubDate>Thu, 05 Jul 2018 12:24:56 -0400</pubDate>
+      <title>Developers-Win</title>
+      <link>/categories/developers-win/</link>
+      <pubDate>Fri, 25 May 2018 13:07:40 +0000</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/random-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Releases</title>
-      <link>/categories/releases/</link>
-      <pubDate>Mon, 27 May 2019 05:24:02 -0400</pubDate>
-      <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/releases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Status</title>
-      <link>/categories/status/</link>
-      <pubDate>Tue, 30 Jul 2019 01:55:28 -0400</pubDate>
-      <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/status/</guid>
+      <guid>/categories/developers-win/</guid>
       <description></description>
     </item>
     
@@ -137,15 +146,6 @@
       <pubDate>Fri, 21 Apr 2017 13:33:21 +0000</pubDate>
       <author>run@superdotnet.run (Mike-EEE)</author>
       <guid>/categories/weekly-vote-reports/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>/categories/welcome/</link>
-      <pubDate>Wed, 20 Jun 2018 01:18:46 -0400</pubDate>
-      <author>run@superdotnet.run (Mike-EEE)</author>
-      <guid>/categories/welcome/</guid>
       <description></description>
     </item>
     

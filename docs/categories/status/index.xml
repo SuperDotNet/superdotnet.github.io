@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Status on Super.NET Blog, Dawg</title>
@@ -9,10 +9,20 @@
     <managingEditor>run@superdotnet.run (Mike-EEE)</managingEditor>
     <webMaster>run@superdotnet.run (Mike-EEE)</webMaster>
     <copyright>&amp;copy; 2018 Super.NET</copyright>
-    <lastBuildDate>Tue, 30 Jul 2019 01:55:28 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 04:09:21 -0500</lastBuildDate>
     
 	<atom:link href="/categories/status/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Archiving This Project</title>
+      <link>/2019/11/archiving-this-project/</link>
+      <pubDate>Wed, 06 Nov 2019 04:09:21 -0500</pubDate>
+      <author>run@superdotnet.run (Mike-EEE)</author>
+      <guid>/2019/11/archiving-this-project/</guid>
+      <description>Greetings to the 20 hits-per-month that I get on this site, for whatever reason. 😆
+Riding on the news of the previous update, I wanted to put some official finality on this project.</description>
+    </item>
     
     <item>
       <title>July 2019 Update: Pivoting onto Blazor</title>
